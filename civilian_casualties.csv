@@ -1,830 +1,830 @@
-;name;age;home_place;nationality;murder_date;murder_place;revealed;murder_place_latitude;murder_place_longitude
-0;Sharif Suad;35.0;Sallama;Israeli;2024-04-26;Majdal Shams;;33.26871625;35.76690122903867
-1;Benjamin Achimeir;14.0;West Bank;Israeli;2024-04-12;West Bank;;31.858516;35.208072
-2;Lidor Levy;34.0;Gan Yavne;Israeli;2024-04-04;Gan Yavne;;31.79035865;34.70026297767875
-3;Elad Katzir;47.0;Nir Oz;Israeli;2024-04-05;Gaza;April 5, 2024;31.4432234;34.360007
-4;Uriel Baruch;35.0;Givon;Israeli;2024-03-27;Gaza;March 27, 2024;31.4432234;34.360007
-5;Zaher Bashara;38.0;Ein Qiniyyah;Israeli;2024-03-27;Ein Qiniyyah;;33.236944;35.730833
-6;Uri Moyal;51.0;Dimona;Israeli;2024-03-14;Beit Kama;;31.4475406;34.7622872
-7;Patnibin Maxwell;31.0;India;Indian;2024-03-04;Margaliot;;33.21323455;35.53913715111901
-8;Yitzhak Zeiger;57.0;Shavei Shomron;Israeli;2024-02-29;Eli;;32.071389;35.265278
-9;Oriya Hartom;16.0;Dolev;Israeli;2024-02-29;Eli;;32.071389;35.265278
-10;Matan Elmaliach;26.0;Maale Adumim;Israeli;2024-02-22;Ma’ale Adumim;;31.7705643;35.2987457
-11;Ori Yaish;27.0;Modiin;Israeli;2024-02-16;Gedera;;31.811252250000003;34.77693431445762
-12;Ishay Gertner;23.0;Modiin;Israeli;2024-02-16;Gedera;;31.811252250000003;34.77693431445762
-13;Yair Yaakov;59.0;Nir Oz;Israeli;2023-10-07;Gaza;February 15, 2024;31.4432234;34.360007
-14;Dr. Lara Tannous;42.0;Jerusalem;Israeli;2024-01-24;North of Ofra;;31.955588;35.260222
-15;Yossi Sharabi;51.0;Beeri;Israeli;2024-01-16;Gaza;January 16, 2024;31.4432234;34.360007
-16;Edna Bluestein;79.0;Raanana;Israeli;2024-01-15;Raanana;;32.1860244;34.8678359
-17;Itay Svirsky;38.0;Tel Aviv-Yafo;Israeli;2024-01-16;Gaza;January 16, 2024;31.4432234;34.360007
-18;Mira Ayalon;76.0;Kfar Yuval;Israeli;2024-01-04;Kfar Yuval;;33.2474176;35.5974916
-19;Tamir Adar;38.0;Nir Oz;Israeli;2024-01-01;Gaza;January 1, 2024;31.4432234;34.360007
-20;Ilan Weiss;56.0;Beeri;Israeli;2023-10-07;Beeri;January 1, 2024;31.424554;34.489927
-21;Judy Weinstein-Haggai;70.0;Nir Oz;Israeli;2023-10-07;Gaza;December 28, 2023;31.4432234;34.360007
-22;Gad Haggai;73.0;Nir Oz;Israeli;2023-12-22;Gaza;December 22, 2023;31.4432234;34.360007
-23;Elia Toledano;27.0;Tel Aviv-Yafo;Israeli;2023-12-11;Gaza;December 11, 2023;31.4432234;34.360007
-24;Eden Zacharia;28.0;Rishon LeZion;Israeli;2023-12-13;Gaza;December 13, 2023;31.4432234;34.360007
-25;Tal Haimi;41.0;Nir Yitzhak;Israeli;2023-10-07;Gaza;December 13, 2023;31.4432234;34.360007
-26;Yotam Haim;28.0;Kfar Azza;Israeli;2023-12-15;IDF;;;
-27;Alon Lulu Shamriz;26.0;Kfar Azza;Israeli;2023-12-15;IDF;;;
-28;Samer Fuad El-Talalka;22.0;Hura;Israeli;2023-12-15;IDF;;;
-29;Inbar Haiman;27.0;Haifa;Israeli;2023-12-16;Gaza;December 16, 2023;31.4432234;34.360007
-30;Eyal Uzan;54.0;Netua;Israeli;2023-12-07;Netua;;33.0649415;35.3233116
-31;Dror Kaplun;68.0;Beeri;Israeli;2023-10-07;Gaza;December 7, 2023;31.4432234;34.360007
-32;Sahar Baruch;25.0;Beeri;Israeli;2024-01-03;Gaza;January 3, 2023;31.4432234;34.360007
-33;Eitan Levy;53.0;Bat Yam;Israeli;2023-10-07;Gaza;December 8, 2023;31.4432234;34.360007
-34;Yonatan Samerano;21.0;Tel Aviv-Yafo;Israeli;2023-12-03;Gaza;December 3, 2023;31.4432234;34.360007
-35;Ofra Keidar;70.0;Beeri;Israeli;2023-12-01;Gaza;December 1, 2023;31.4432234;34.360007
-36;Sami Keidar;70.0;Beeri;Israeli;;Beeri;;31.424554;34.489927
-37;Eliyahu (Churchill) Margalit;75.0;Nir Oz;Israeli;2023-12-01;Gaza;December 1, 2023;31.4432234;34.360007
-38;Arieh Zalmanovitch;85.0;Nir Oz;Israeli;2023-12-01;Gaza;December 1, 2023;31.4432234;34.360007
-39;Yuval Doron Kastleman;38.0;Mevaseret Zion;Israeli;2023-11-30;Jerusalem;;31.7788242;35.2257626
-40;Livia Dickman;24.0;Jerusalem;Israeli;2023-11-30;Jerusalem;;31.7788242;35.2257626
-41;Hanna Ifergan;67.0;Jerusalem;Israeli;2023-11-30;Jerusalem;;31.7788242;35.2257626
-42;Rabbi Elimelech Wasserman;73.0;Ashdod;Israeli;2023-11-30;Jerusalem;;31.7788242;35.2257626
-43;Ofir Tzarfati;27.0;Kiryat Ata;Israeli;2023-10-07;Gaza;November 30, 2023;31.4432234;34.360007
-44;Ravid Arie Katz;51.0;Nir Oz;Israeli;2023-10-07;Gaza;November 28, 2023;31.4432234;34.360007
-45;Goytum Jabrahiwat;;Unknown;Eritrean;2023-10-07;Sderot;;31.53288635;34.5937376656627
-46;Chi Zanhung;47.0;China;Chinese;2023-10-07;Sderot;;31.53288635;34.5937376656627
-47;Zishom Wohn;36.0;China;Chinese;2023-10-07;Sderot;;31.53288635;34.5937376656627
-48;Dali Zoeo;35.0;China;Chinese;2023-10-07;Sderot;;31.53288635;34.5937376656627
-49;Natalia Demidova;39.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-50;Mark Mordehai Peretz;51.0;Rishon LeZion;Israeli;2023-10-07;Sa’ad Junction;;31.4697983;34.52855015257353
-51;Shulamit Merenstein;83.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-52;Freha Ifergan;81.0;Ashkelon;Israeli;2023-10-07;Ashkelon;;31.6687545;34.57404853627754
-53;Clemence Felix Matenga;22.0;Tanzania;Tanzanian;2023-10-07;Nir Oz;;31.3095982;34.400815
-54;Sumchai Sayang;24.0;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-55;Papontanei Pongkrueh;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-56;Chaya Reksanon;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-57;Arenthit Kayson;29.0;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-58;Pathay Kiyatissek;35.0;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-59;Saryut Penkitwanitcharon;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-60;Tawatchai Sieto;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-61;Pongfat Suchart;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-62;Dueh Sayan;35.0;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-63;Tianchai Yodtongdi;32.0;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-64;Kraysorn Tomiyoma;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-65;Cherkpan Diotaisong;37.0;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-66;Seta Homsorn;36.0;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-67;Shmil Abasov;33.0;Beer Sheva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-68;Eden Abdulayev;23.0;Ramat Gan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-69;Semion Abdilemov;66.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-70;Yazan Zecharia Abu Jama;5.0;Arara;Israeli;2023-10-07;Arara;;32.494341;35.099345
-71;Orel Abuhazera;25.0;Rosh Haayin;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-72;Ossama Abu Madiam;28.0;Rahat;Israeli;2023-10-07;Mivtahim;;31.2417561;34.4072666
-73;Dalia Abu Madiam;30.0;Rahat;Israeli;2023-10-07;Rahat;;31.392909;34.753914
-74;Mai Zuhir Abu Sabieh;13.0;Kukhleh;Israeli;2023-10-07;Kukhleh;;31.2853735;35.0574735
-75;Faiza Abu Sabieh;57.0;Kukhleh;Israeli;2023-10-07;Kukhleh;;31.2853735;35.0574735
-76;Mussa Abu Sebila;41.0;Abu Talul;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-77;Amar Abu Sebila;25.0;Abu Talul;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-78;Ossama Abu Issa;36.0;Tel Sheva;Israeli;2023-10-07;Tel Sheva;;31.2456487;34.8577683
-79;Noy Aviv;29.0;Eilat;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-80;Dor Avitan;26.0;Eilat;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-81;Lotan Abir;24.0;Gan Haim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-82;Gil Yosef Avni;26.0;Caesarea;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-83;Hen Even;45.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-84;Alon Even;16.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-85;Ido Even;14.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-86;Rinat Even;44.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-87;Oded Abergil;27.0;Merkaz Shapira;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-88;Ilan Avraham;57.0;Beit Arye;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-89;Lior Abramoz;20.0;Pardes Hanna;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-90;Michael Abramov;55.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-91;Angeline Agirs;32.0;Philippines;Philippine;2023-10-07;Alumim;;31.4521295;34.5137154
-92;Assaf Mordechai Edberg;23.0;Hadera;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-93;Mapal Adam;27.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-94;Michal Admoni;51.0;Kfar Azza;Israeli;2023-10-07;Kfar Aza;;31.4833351;34.5333225
-95;Gili Adar;24.0;Lapid;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-96;Aviad Avraham Edri;31.0;Nitzan Bet;Israeli;2023-10-07;Kfar Aza;;31.4833351;34.5333225
-97;Idan Edri;36.0;Hasolelim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-98;Ziva Ovitz;77.0;Ami’oz;Israeli;2023-10-07;Ami’oz;;31.24831;34.4139745
-99;Chum Udum;24.0;Cambodia;Cambodian;2023-10-07;Karmia;;31.6053505;34.5430183
-100;Eliyahu Uzan;40.0;Ashdod;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-101;Arieh Uzan;66.0;Gilat;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-102;Eliad Ohayon;23.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-103;Moshe Ohayon;52.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-104;Sylvia Ohayon;59.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-105;Eden Liz Ohayon;24.0;Tirat HaCarmel;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-106;Daniel Ohana;24.0;Jerusalem;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-107;Adi Ohana;43.0;Mavki’im;Israeli;2023-10-07;Mavki’im;;31.6221558;34.5771198
-108;Michael Ostrovsky;77.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-109;Yonah Or;50.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-110;Eliyahu Orgad;72.0;Kfar Azza;Israeli;2023-10-07;Kfar Aza;;31.4833351;34.5333225
-111;Ben Uri;31.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-112;Aviel Oren;29.0;Jerusalem;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-113;Gabi Azulai;44.0;Kiryat Malachi;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-114;Yochai Azulai;28.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-115;Yonatan Hai Azulai;28.0;Jerusalem;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-116;Omri Ahrak;26.0;Elyakhin;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-117;Ofek Aton;24.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-118;Dorin Atias;24.0;Ganei Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-119;Majed Ibrahim;20.0;Abu Gosh;Israeli;2023-10-14;Abu Gosh;;31.806500550000003;35.108856489764165
-120;Niv Aivas;25.0;Jerusalem;Israeli;2023-10-08;Unknown;;;
-121;Liel Itah;22.0;Anatot;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-122;Sigal Itah;27.0;Beer Sheva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-123;Shira Ayalon;23.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-124;Elia Iluz;27.0;Ashkelon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-125;Guy Iluz;26.0;Raanana;Israeli;2023-12-01;Gaza;December 1, 2023;31.4432234;34.360007
-126;Adam Iliev;22.0;Ashdod;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-127;Ivan Illarramendi Saizar;46.0;Kissufim;Israeli;2023-10-07;Kissufim;;31.3741608;34.3994488
-128;Lili Itamari;63.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-129;Ran Itamati;56.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-130;Liz Elharar Halfon;46.0;Holit;Israeli;2023-10-07;Holit;;31.2318728;34.3265102
-131;Meir Elharar;46.0;Holit;Israeli;2023-10-07;Holit;;31.2318728;34.3265102
-132;Abed AlRahman Aatef Elziadna;29.0;Rahat;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-133;Mofid Alzir;57.0;Abu Snan;Israeli;2023-10-15;Abu Snan;;32.96603485;35.16356280662865
-134;Fatma Altlakat;35.0;Arara;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-135;Solomon Aliagoyev;28.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-136;Aviv Eliyahu;38.0;Elkosh;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-137;Yehonatan Eliyahu;21.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-138;Noam Elyakim;47.0;Nahal Oz;Israeli;2023-10-07;Nahal Oz;;31.4727794;34.497652161839866
-139;Marina Almagor;76.0;Kfar Saba;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-140;Matan Almalam;47.0;Dimona;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-141;Abed AlRahman Alensara;50.0;Kuseife;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-142;Oren Elfasi;22.0;Rehovot;Israeli;2023-10-07;Nirim;;31.335199;34.395
-143;Shlomo Elfasi;52.0;Ashkelon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-144;Haled AlFahrin;50.0;Arara;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-145;Motti Alkavetz;40.0;Yated;Israeli;2023-10-07;Nirim;;31.335199;34.395
-146;Sivan Alkavetz;23.0;Ashdod;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-147;Einav Elkayam Levy;32.0;Givatayim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-148;Loretta Alkarra;;Alumim;Philippine;2023-10-07;Alumim;;31.4521295;34.5137154
-149;Abed Elcarim el-Nasasra;53.0;Kuseife;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-150;Amin Akel AlKaran;11.0;Kukhleh;Israeli;2023-10-07;Kukhleh;;31.2853735;35.0574735
-151;Juwas Ibrahim AlKaran;15.0;Kukhleh;Israeli;2023-10-07;Kukhleh;;31.2853735;35.0574735
-152;Malek Ibrahim AlKaran;14.0;Kukhleh;Israeli;2023-10-07;Kukhleh;;31.2853735;35.0574735
-153;Taleb AlKaran;22.0;Kukhleh;Israeli;2023-10-07;Kukhleh;;31.2853735;35.0574735
-154;Mohamed Div AlKaran;12.0;Kukhleh;Israeli;2023-10-07;Kukhleh;;31.2853735;35.0574735
-155;Suheyb abu Amar al-Razm;22.0;Jerusalem;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-156;Shlomo Eliyahu Elsheikh;28.0;Bnei Brak;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-157;Mordehai (Modi) Amir;67.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-158;Lior Asulin;44.0;Raanana;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-159;Liraz Asulin;37.0;Kiryat Malachi;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-160;Ronen Engel;54.0;Nir Oz;Israeli;2023-12-01;Gaza;December 1, 2023;31.4432234;34.360007
-161;Noa Englander;23.0;Kiryat Bialik;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-162;Liav Asayag;25.0;Afula;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-163;John Esselnov;70.0;Ashdod;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-164;Yossi (Zigi) Appleton;77.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-165;Yarin Moshe Efraim;24.0;Petah Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-166;Noam Liel Efraim;24.0;Had Nes;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-167;Hagai Efrat;83.0;Rishon LeZion;Israeli;2023-10-08;Alexandria, Egypt;;31.1991806;29.8951716
-168;Bilhah Epstein;84.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-169;Neta Epstein;22.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-170;Aviv Atzili;49.0;Nir Oz;Israeli;2023-11-30;Gaza;November 30, 2023;31.4432234;34.360007
-171;Or Akuni;32.0;Netiv HaAsara;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-172;Aryeh Akuni;;Netiv HaAsara;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-173;Ruth (Rutti) Akuni;;Netiv HaAsara;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-174;Matan Eckstein;23.0;Even Yehuda;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-175;Uri Arad;22.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-176;Nevo Arad;25.0;Saad;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-177;Dan Ariel;22.0;Herzliya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-178;Mordehai Ben Ariel Biton;22.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-179;Ayelet Arnin;22.0;Atzmon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-180;Sahar Ashuan;22.0;Netanya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-181;Haim Ashraf;68.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-182;Gideon Babani;66.0;Yehud;Israeli;2023-10-07;Nirim;;31.335199;34.395
-183;Frabash Bandari;;Nepal;Nepalese;2023-10-07;Nirim;;31.335199;34.395
-184;Dror Bahat;30.0;Beit Alfa;Israeli;2023-10-07;Reim;;31.3848038;34.4585901
-185;Ortal Bobets Ben Ayun;22.0;Jerusalem;Israeli;2023-10-07;Reim;;31.3848038;34.4585901
-186;Yuval Buyum;21.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-187;Inbar Buyum;23.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-188;Caroline Bohl;22.0;Berlin;German;2023-10-07;Nir Oz;;31.3095982;34.400815
-189;Doron Boldas;34.0;Gan Hashomron;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-190;Sophia Bongart;21.0;Carmiel;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-191;Petro Bosko;35.0;Holit;Israeli;2023-10-07;Holit;;31.2318728;34.3265102
-192;Neta Boaziz Morelli;40.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-193;Raz Bukobza;23.0;Beit Nehemia;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-194;Liam Bor Galon;26.0;Dimona;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-195;Bnayahu Biton;23.0;Jerusalem;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-196;Maya Biton;23.0;Petah Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-197;Neomi Baker;19.0;Ashdod;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-198;Ariel Bilia;28.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-199;Sapir Bilmas;24.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-200;Oron Beilin;24.0;Ramat Gan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-201;Zinaida Beilin;60.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-202;Sagiv Beilin Ben Zvi;24.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-203;Dipash Raj Bista;24.0;Nepal;Nepalese;2023-10-07;Alumim;;31.4521295;34.5137154
-204;Oron Bira;54.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-205;Tal Bira;62.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-206;Yasmin Bira;51.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-207;Tahel Bira;15.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-208;Tair Bira;22.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-209;Geula Bachar;60.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-210;Dana Bachar;48.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-211;Carmel Bachar;15.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-212;Mazi Bachar;63.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-213;Yehuda Bachar;24.0;Beit Shemesh;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-214;Itzhak (Itzik) Balato;53.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-215;Hen Ben Avi;21.0;Mivtahim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-216;Amit Ben Abeida;19.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-217;Hana Ben Artzi;70.0;Kfar Aviv;Israeli;2023-10-08;Kfar Aviv;;31.8318165;34.7213367
-218;Yarden Buskila;25.0;Kfar Masaryk;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-219;Matias Hernen Burstein;41.0;Carmiel;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-220;Einav Hen Burstein;39.0;Carmiel;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-221;Berta Bastain Shemayev;56.0;Ofakim;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-222;Itay Banjo;30.0;Haifa;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-223;Maya ben David;48.0;Kfar Haim;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-224;Celine Rahek Ben Daviv Nager;32.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-225;Ido Ben Zino;26.0;Merkaz Shapira;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-226;Gilad Ben Yehuda;28.0;Naán;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-227;Yuval Ben Yehuda;27.0;Ramat Gan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-228;Yohai Ben Zecharia;23.0;Netanya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-229;Rivka Ben Horin;74.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-230;Oren Haim Ben Hemo;19.0;Rehovot;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-231;Dan Ben Hemp;26.0;Raanana;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-232;Michael Ben Moshe;26.0;Ashkelon;Israeli;2023-10-07;near Gaza;;31.416322;34.43329
-233;Haim Benaim;56.0;Netiv HaAsara;Israeli;2023-10-07;Nahal Shikma;;31.5606189;34.5791938
-234;Shahar Ben Naim;43.0;Tzur Moshe;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-235;Daniel Ben Senior;34.0;Or Akiva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-236;Hava Ben Ami;62.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-237;Shani Ben Ami;26.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-238;Moshe Ben Porat;60.0;Tiberias;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-239;Amitai Ben Tzvi;80.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-240;Eden Ben Rubi;23.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-241;Amnon Betzalel;64.0;Bat Yam;Israeli;2023-10-08;Alexandria, Egypt;;31.1991806;29.8951716
-242;Dean Nehorai Bar;27.0;Ahuzat Barak;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-243;Yuval Bar;65.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-244;Maayan Bar;65.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-245;Yuval Bar On;35.0;Kfar Yona;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-246;Gabriel Yishai Barel;22.0;Safed;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-247;Eldad Angel Bergman;26.0;Merkaz Shapira;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-248;Nurit Berger;59.0;Netiv HaAsara;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-249;Liron Barda;27.0;Shaarei Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-250;Hadar Berdichevsky;30.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-251;Itai Berdichevsky;30.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-252;Shiraz Brodash;23.0;Ramot Meir;Israeli;2023-10-07;near Gaza;;31.416322;34.43329
-253;Shoshana Brosh;75.0;Nahal Oz;Israeli;2023-10-07;Nahal Oz;;31.4727794;34.497652161839866
-254;Stav Barazani;23.0;Gan Ner;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-255;Tal Bartik (Klein);48.0;Beer Sheva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-256;Nadav Barta;23.0;Beit Arye;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-257;Adam Barima;47.0;Sudan;Sudanese;2023-10-07;Sderot;;31.53288635;34.5937376656627
-258;Romi Brandt Eliyahu;38.0;Modiin;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-259;Eliyahu Ya’akov Bernstein;20.0;Jerusalem;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-260;Ben Bernstein;23.0;Tzipori;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-261;Yoram Bar Sinai;75.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-262;Daniel Braslevski;31.0;Kiryat Gat;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-263;Ilay Bar Am;27.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-264;Mor Gabai;30.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-265;Amit Gabai;18.0;Reim;Israeli;2023-10-07;Reim;;31.3848038;34.4585901
-266;Shani Gabai;25.0;Yokneam;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-267;Ayelet Goddard;63.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-268;Manny Goddard;73.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-269;Tom Godot;53.0;Kissufim;Israeli;2023-10-07;Kissufim;;31.3741608;34.3994488
-270;Tamar Guttman;27.0;Kfar Ben Nun;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-271;Oren Golding;33.0;Nir Yitzhak;Israeli;2023-10-07;Nir Yitzhak;;31.2378574;34.3577888
-272;Nitzan Goldenberg;28.0;Netanya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-273;Tamar Goldenberg;24.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-274;Nadav Goldstein;46.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-275;Daniel Galtman;26.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-276;Margarita Rita Gussek;21.0;Gan Yavne;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-277;Dr. Lilia Gurevitch;38.0;Omer;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-278;Shir Hanna Georgie;22.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-279;Sharon Goradny;25.0;Kidron;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-280;Rephael Ariel Guri;30.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-281;Anton Guryanov;37.0;Safed;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-282;Victoria Gorlov;23.0;Bat Yam;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-283;Avner Goren;56.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-284;Eren Goren;33.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-285;Tova Goren;65.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-286;Maya Goren;56.0;Nir Oz;Israeli;2023-12-01;Gaza;December 1, 2023;31.4432234;34.360007
-287;Eden Gez;31.0;Ashkelon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-288;Stav Coral Gete;30.0;Ashkelon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-289;Yaroslav Giller;28.0;Carmiel;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-290;Lilia Giller;61.0;Ofakim;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-291;Shahar Gindi;21.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-292;Shalev Gal;24.0;Ahuzat Barak;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-293;Noa Glasberg;43.0;Ein HaShlosha;Israeli;2023-10-07;Ein HaShlosha;;31.3513501;34.400966
-294;Andrei Zemkov;39.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-295;Zoya Zemkov;45.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-296;Isabella Gandin;27.0;Ashdod;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-297;Avia Ganot;32.0;Tzofim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-298;Shiran Ganon;38.0;Bat Yam;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-299;Sefi Yossef Gennis;30.0;Ramat Gan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-300;Benny Gennish;70.0;Ashkelon;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-301;Jakfung Jantassana;;Thailand;Thai;2023-10-07;Kissufim;;31.3741608;34.3994488
-302;Sammi Jarjawi;;Palestine;Palestinian;2023-10-07;Segev Shalom;;31.194398;34.84036848769573
-303;Dr. Victoria Gridskol;81.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-304;Prof. Sergei Gridskol;81.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-305;Yossef (Yussinio) Gross;75.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-306;Shenhav Ya’akov Gerfi;26.0;Herzliya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-307;Shoham Ya’akov Gerfi;28.0;Herzliya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-308;Liel Gerfi;28.0;Herzliya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-309;Maor Graziani;22.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-310;Braha Grekovich;47.0;Kissufim;Israeli;2023-10-07;Kissufim;;31.3741608;34.3994488
-311;Kineret Gat;68.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-312;Lukandra Sinj Dami;24.0;Nepal;Nepalese;2023-10-07;Alumim;;31.4521295;34.5137154
-313;Rahel Rachel Deb;25.0;Kiryat Yam;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-314;Adi Danan;68.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-315;Naomi Dgani;80.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-316;Avi Dadon;44.0;Afula;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-317;Yitzhak Itzik Dahan;48.0;Kiryat Malachi;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-318;Giora Duvdevani;81.0;Talmei Yosef;Israeli;2023-10-07;Talmei Yosef;;31.2005275;34.3638285
-319;Hodaya David;27.0;Beit Degan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-320;Tair Davis;24.0;Beit Degan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-321;Amit Yitzhak David;24.0;Beit Shemesh;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-322;Barak Davidi;28.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-323;Karina Davidov;31.0;Kiryat Gat;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-324;Shlomi Davidovitch;50.0;Gevim;Israeli;2023-10-07;Mefalsim;;31.5026787;34.5621232
-325;Shon Deutshvili;25.0;Beer Sheva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-326;Idan Dor;25.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-327;Ronen Ditchman;49.0;Beer Sheva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-328;Dan Damari;21.0;Tzohar;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-329;Kim Damti;22.0;Gedera;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-330;Carmella Dan;80.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-331;Noya Dan;12.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-332;Gal Danguri;23.0;Beit Arye;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-333;Tal Daniely;24.0;Beer Sheva;Israeli;2023-10-07;Kerem Shalom;;42.46310845;-71.38524814946598
-334;Lynn Daphne;22.0;Ein HaMifratz;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-335;Awad Darawshe;25.0;Iksal;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-336;Daniel Dan Darlington;34.0;the United Kingdom;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-337;Itai Huston Hadar;27.0;Beer Sheva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-338;Reuven Heinik;56.0;Ashkelon;Israeli;2023-10-07;Kissufim;;31.3741608;34.3994488
-339;Sharon Hirsch Uzan;46.0;Ramat Hasharon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-340;Aviad Halevy;29.0;Gan HaDarom;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-341;Narkis Hand;56.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-342;Ze’ev Hacker;72.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-343;Zehava Hacker;68.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-344;Idan Herman;26.0;Palmachim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-345;Varda Haramati;80.0;Reim;Israeli;2023-10-07;Reim;;31.3848038;34.4585901
-346;Idan Haramati;22.0;Alfei Menashe;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-347;Avshalom Haran;65.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-348;Maayana Hershkowitz;65.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-349;Noah Hershkowitz;68.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-350;Oren Aharon Vaknin;45.0;Netanya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-351;Limor Vaknin Permutter;49.0;Beer Sheva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-352;Daniel Vadai;27.0;Jerusalem;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-353;Yossef Wahab;65.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-354;Moshe Wahadi;37.0;Ashkelon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-355;Dani Wobak;45.0;Netiv HaAsara;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-356;Daniel Waldman;24.0;Kiryat Tivon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-357;Zishon Won;36.0;China;Chinese;2023-10-07;Sderot;;31.53288635;34.5937376656627
-358;Simon Vigdorgaz;21.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-359;Reuven Weisman;56.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-360;Adi Vitel Kaplon;34.0;Dekel;Israeli;2023-10-07;Holit;;31.2318728;34.3265102
-361;Ron Weinberg;24.0;Yokneam;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-362;Matti Weiss;69.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-363;Amir Weiss;69.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-364;Yehudit Weiss;65.0;Beeri;Israeli;2023-11-16;Gaza;November 16, 2023;31.4432234;34.360007
-365;Shmuel Shmulik Weiss;65.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-366;Alina Weissberg;17.0;Beer Sheva;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-367;Yahav Viner;37.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-368;Lior Weizmann;32.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-369;Brona Valeno;24.0;Kfar Saba;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-370;Michael Vaknin;35.0;Jerusalem;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-371;Igal Vax;53.0;Netiv HaAsara;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-372;Alon Verber;26.0;Raanana;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-373;Lori Vardi;26.0;Raanana;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-374;Aviv Vertheim;57.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-375;Dorit Vertheim;54.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-376;Karin Vernikov;22.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-377;Hatib Zaruk;;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-378;Ronit Hodaya Zagadon;23.0;Eelazar;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-379;Yonatan Zahavi;10.0;Ashkelon;Israeli;2023-10-07;Yakhini;;31.4832232;34.6000858
-380;Motti Zowernman;74.0;Ramat Hasharon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-381;Bar Zohar;23.0;Kfar Warburg;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-382;Haim Zohar;73.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-383;Yaniv Zohar;54.0;Nahal Oz;Israeli;2023-10-07;Nahal Oz;;31.4727794;34.497652161839866
-384;Yasmin Zohar;49.0;Nahal Oz;Israeli;2023-10-07;Nahal Oz;;31.4727794;34.497652161839866
-385;Keshet Zohar;20.0;Nahal Oz;Israeli;2023-10-07;Nahal Oz;;31.4727794;34.497652161839866
-386;Tchelet Zohar;18.0;Nahal Oz;Israeli;2023-10-07;Nahal Oz;;31.4727794;34.497652161839866
-387;Dan Zomer;27.0;Nes Ziona;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-388;Vladimir Zhukov;63.0;Ashkelon;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-389;Karin Zourno;27.0;Mazkeret Batya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-390;Or Ziv;24.0;Adi;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-391;Eitan Ziv;74.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-392;Yonatan Zeidman;26.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-393;Nirel Zini;31.0;Tlamin;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-394;Hillel Zalmanovitch;60.0;Ashdod;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-395;Noa Zander;22.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-396;Matan Zenati;23.0;Dimona;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-397;Itai Za’afrani;23.0;Eilat;Israeli;2023-10-07;Reim;;31.3848038;34.4585901
-398;Noy Tiferet Za’afrani;27.0;Nokdim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-399;Itai Zak;53.0;Kissufim;Israeli;2023-10-07;Kissufim;;31.3741608;34.3994488
-400;Etti Zak;50.0;Kissufim;Israeli;2023-10-07;Kissufim;;31.3741608;34.3994488
-401;Sagi Zak;16.0;Kissufim;Israeli;2023-10-07;Kissufim;;31.3741608;34.3994488
-402;Avi Zakuto;53.0;Beer Sheva;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-403;Michal Zarbialov;60.0;Ofakim;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-404;Shaked Habani;20.0;Nes Ziona;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-405;Ziv Hajbi;29.0;Gevim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-406;Elizur Tzuriel Hajbi;60.0;Yakhini;Israeli;2023-10-07;Yakhini;;31.4832232;34.6000858
-407;Yehonatan Hajbi;18.0;Yakhini;Israeli;2023-10-07;Yakhini;;31.4832232;34.6000858
-408;Yizhar Hajbi;60.0;Yakhini;Israeli;2023-10-07;Yakhini;;31.4832232;34.6000858
-409;Lior Hadad Atias;36.0;Rehovot;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-410;Menuha Holati;76.0;Kissufim;Israeli;2023-10-07;Kissufim;;31.3741608;34.3994488
-411;Hadar Hushan;27.0;Petah Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-412;Yehoshua Hatav;67.0;Ashkelon;Israeli;2023-10-11;Ashkelon;;31.6687545;34.57404853627754
-413;Avraham Avi Hatuel;57.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-414;Gidi Hiel;24.0;Ahuzat Barak;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-415;Noa Hiel;27.0;Ahuzat Barak;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-416;Shimon Hiat;29.0;Ofakim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-417;Maya Haim;22.0;Rosh HaAyin;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-418;Gaya Halifa;23.0;Kiryat Ono;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-419;Ella Hamoy;26.0;Nir Yitzhak;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-420;Yehezkel Hezi Hanum;31.0;Petah Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-421;Avi Hasdai;53.0;Ramat Gan;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-422;Ben Hassid;23.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-423;Shraga Hassid;77.0;Mazkeret Batya;Israeli;2023-10-07;Ashkelon;;31.6687545;34.57404853627754
-424;Naor Hassidim;23.0;Ashdod;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-425;Arie Hefetz;28.0;Ramla;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-426;Ayala Hezroni;73.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-427;Yanai Hezroni;12.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-428;Liel Hezroni;12.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-429;Omer Hermesh;47.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-430;Katarina Tabegan;26.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-431;Yiftah Twig;27.0;Azaria;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-432;Adiel Twito;30.0;Petah Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-433;Alon Toledano;50.0;Tel Aviv-Yafo;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-434;Natalya Tomayev;71.0;Netivot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-435;Tamar Haya Torpiashvilli;9.0;Ashdod;Israeli;2023-10-28;Ashdod;;31.7977314;34.6529922
-436;Avraham Gilad Tiberg;24.0;Petah Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-437;Nadav Yosef Hai Taib;17.0;Beit Shikma;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-438;Marsel Talia;63.0;Kiryat Arba;Israeli;2023-10-07;Ein HaShlosha;;31.3513501;34.400966
-439;Amir Tanbura;23.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-440;Lior Tekach;23.0;Beer Sheva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-441;Mor Terabelsi;27.0;Nahariya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-442;Vitaly Trobanov;;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-443;Ori Tchernichovsky;29.0;Petah Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-444;Lior Tereshanski;16.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-445;Yiftah Yahengilov;66.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-446;Maria Yahengilov;60.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-447;Yuri Yedgarov;76.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-448;Rosa Yedgarov;81.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-449;Ron Yehudai;26.0;Yehud;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-450;Michael Yoav;46.0;Givat Zeev;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-451;Bilhah Yinon;75.0;Netiv HaAsara;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-452;Ya’akov Yinon;78.0;Netiv HaAsara;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-453;Ilan Moshe Ya’akov;29.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-454;Shuval Ya’akov;27.0;Mehola;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-455;San Amnon Yakobov;22.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-456;Yehudit Yitzhaki;65.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-457;Mai Yitzhaki;25.0;Hod Hasharon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-458;Shir Yaron;21.0;Tzohar;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-459;Shiraz-Shiran Yashmireni (Tamam);38.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-460;Ohad Cohen;43.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-461;Mila Cohen;1.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-462;Binyamin Ben Cohen;27.0;Beit Hashmonai;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-463;Bernard Cohen;57.0;Sufa;Israeli;2023-10-07;Sufa;;31.236852;34.341092
-464;Danielle Cohen;25.0;Netanya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-465;Daniel Asher Cohen;32.0;Ramat Gan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-466;Yona Cohen;73.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-467;Libi Cohen Maguri;24.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-468;Mor Cohen;24.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-469;Amit Cohen;25.0;Hod Hasharon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-470;Amit Haim Cohen;25.0;Meitar;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-471;Pessia (Pessi) Cohen;69.0;Hod Hasharon;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-472;Gilad Kfir;48.0;Gan Yavne;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-473;Efrat Katz;69.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-474;Tal Katz;37.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-475;Shoshana (Shosh) Karasanti;87.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-476;Omri Lavi;25.0;Hazor HaGlilit;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-477;Amit Lahav;23.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-478;Vitali Logvinchenko;34.0;Ashkelon;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-479;Leonid Luzovski;51.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-480;Guy Gabriel Levi;24.0;Neve Yamin;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-481;Dr. Daniel Levi;35.0;Kiryat Ono;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-482;Itzhak Levi;27.0;Beit Shemesh;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-483;Livnat Levi;27.0;Kiryat Ono;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-484;Lidor Levi;28.0;Kfar Saba;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-485;Naor Levi;28.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-486;Nissim Levi;30.0;Rehovot;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-487;Sigal Levi;31.0;Netanya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-488;Amit Levi;22.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-489;Ronnie Levi;80.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-490;Rotem Rahel Levi;23.0;Yokneam;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-491;Zion Levi;72.0;Dekel;Israeli;2023-10-07;Tzohar;;31.234514;34.426471
-492;Allysia Levine;34.0;Carmiel;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-493;Braha Levinson;74.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-494;Igor Lusov;58.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-495;Marina Lusov;60.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-496;Alexandre Look;35.0;Montreal;Canadian;2023-10-07;Nova Music Festival;;31.397778;34.471667
-497;Shani Nicol Louk;23.0;Srigim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-498;Haim Livne;87.0;Nahal Oz;Israeli;2023-10-07;Nahal Oz;;31.4727794;34.497652161839866
-499;Nizan Libstein;19.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-500;Yuri Lisuboy;63.0;Ashdod;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-501;Svetlana Lisuboy;61.0;Ashdod;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-502;Anita Lisman;25.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-503;Oriah Litman Ricardo;26.0;Caesarea;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-504;David Lischov;35.0;Kiryat Yam;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-505;Ilan Lipovsky;30.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-506;Oleg Lipschitz;61.0;Ashkelon;Israeli;2023-10-07;Reim;;31.3848038;34.4585901
-507;Yulia Lamai;29.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-508;Tiferet Lapidot;23.0;Harish;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-509;Doron Meir;58.0;Nirim;Israeli;2023-10-07;Nirim;;31.335199;34.395
-510;Mor Meir;37.0;Nirim;Israeli;2023-10-07;Nirim;;31.335199;34.395
-511;Zohar Meiri;55.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-512;Avi Meguira;48.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-513;Amit Magnazi;22.0;Nes Ziona;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-514;Nir Madmon;23.0;Peduim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-515;Shalev Madmoni;24.0;Rosh HaAyin;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-516;Shahak Yossef Madar;26.0;Dimona;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-517;Meir Moyal;55.0;Kiryat Shmona;Israeli;2023-11-06;Majdal Shams;;33.26871625;35.76690122903867
-518;Ayelet Molko;54.0;Netiv HaAsara;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-519;Shlomi Molko;62.0;Netiv HaAsara;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-520;Joshua Loitu Mollel;21.0;Tanzania;Tanzanian;2023-12-13;Gaza;December 13, 2023;31.4432234;34.360007
-521;Roie Monder;51.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-522;Naama Mualem;28.0;Beit Shean;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-523;Shai Shalom Elior Mutzafi;37.0;Bat Yam;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-524;Avi Mor;61.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-525;Maayan Mor;30.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-526;Raffi Mordo;84.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-527;Ya’akov Mortov;66.0;Ofakim;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-528;Michael Mozrakov;69.0;Netivot;Israeli;2023-10-07;Netivot;;31.4213546;34.5884252
-529;Eliran Mizrahi;24.0;Petah Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-530;Ben Menashe Mizrahi;22.0;Yavne;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-531;Raz Mizrahi;22.0;Gedera;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-532;Adi Rivka Meisel;21.0;Karei Shomron;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-533;Ablum (Albert) Mills;80.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-534;Lior Maimon;22.0;Ramat Gan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-535;Sylvia Mirenski;81.0;Ein HaShlosha;Israeli;2023-10-07;Ein HaShlosha;;31.3513501;34.400966
-536;Anna Ella Misheyev;65.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-537;Amitai Malihi;20.0;Rosh HaAyin;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-538;Dor Malka;29.0;Eilat;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-539;Meir Malka;78.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-540;Edna Malekmo;45.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-541;Shahar Mansour;28.0;Shoham;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-542;Norel Mansouri;25.0;Hod Hasharon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-543;Revaya Mansouri;22.0;Hod Hasharon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-544;Antonio Massias Monteno;27.0;Kfar Saba;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-545;Adir Mesika;23.0;Even Yehuda;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-546;Netanel Maskelchi;36.0;Netivot;Israeli;2023-10-07;Netivot;;31.4213546;34.5884252
-547;Refale Meir Maskelchi;12.0;Netivot;Israeli;2023-10-07;Netivot;;31.4213546;34.5884252
-548;Noy Maudi;29.0;Yated;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-549;Netiv Nave Maayan;60.0;Netivot;Israeli;2023-10-07;Netivot;;31.4213546;34.5884252
-550;Steven Makrachenko;4.0;Carmiel;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-551;Adi Margalit;24.0;Haniel;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-552;Matan Lior Mordehai;35.0;Sdei Hemed;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-553;Jake Marlo;26.0;Great Britain;British;2023-10-07;Nova Music Festival;;31.397778;34.471667
-554;Shulamit Merenstein;83.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-555;Shulamit Merenstein;83.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-556;Said (David) Moshe;75.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-557;Eden Moshe;27.0;Beit Hashmonai;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-558;Shahr Mattias;47.0;Holit;Israeli;2023-10-07;Holit;;31.2318728;34.3265102
-559;Shlomi Mattias;46.0;Holit;Israeli;2023-10-07;Holit;;31.2318728;34.3265102
-560;Gal Navon;30.0;Ramat Gan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-561;Mordehai Neve;76.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-562;Narayan Prasad Neupane;22.0;Nepal;Nepalese;2023-10-07;Alumim;;31.4521295;34.5137154
-563;Ilkin Nazarov;30.0;Kiryat Yam;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-564;David Yair Shalom Ne’eman;30.0;Jerusalem;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-565;Shifra Noy;71.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-566;David Nahum;24.0;Mivtahim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-567;Adrienne Neta;66.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-568;Hanani Nidgalski Glazer;24.0;Petah Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-569;Rotem Neiman;25.0;Hod Hasharon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-570;Jenny Nisenboim Carmelli;32.0;Bat Yam;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-571;Liraz Nissan;20.0;Carmiel;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-572;Sujith Nissanka;48.0;Shri Lanka;Shri Lankian;2023-10-07;Beeri;;31.424554;34.489927
-573;Mai Naim;22.0;Gan Haim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-574;Eden Naftali;23.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-575;Phichit Najan;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-576;Bar Lior Nakmoli;27.0;Rehovot;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-577;Nitikorn Sae Wang;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-578;Sattawat Phiaaia;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-579;Duwa Sayan;35.0;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-580;Somchai Sayang;24.0;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-581;Tou Cae Lee;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-582;Aviv Sassi;64.0;Los Angeles;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-583;Shlomo (Shlomi) Sividia;37.0;Ganei Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-584;Orit Sela Svirsky;70.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-585;Raffi Svisrsky;71.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-586;Havik Segal;78.0;Netiv HaAsara;Israeli;2023-10-07;Netiv HaAsara;;31.5716799;34.5395488
-587;Ananda Shah;;Nepal;Nepali;2023-10-07;Alumim;;31.4521295;34.5137154
-588;Odaya Swisa;33.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-589;Dolev Swisa;34.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-590;Raj Kumar Swarnakar;27.0;Nepal;Nepali;2023-10-07;Alumim;;31.4521295;34.5137154
-591;Moriah Or Swissa;23.0;Herzliya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-592;Tamar Suchman;76.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-593;Hili Solomon;27.0;Kfar Yona;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-594;Yuval Solomon;29.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-595;Roland Sultan;68.0;Holit;Israeli;2023-10-07;Holit;;31.2318728;34.3265102
-596;Ronit Sultan;56.0;Holit;Israeli;2023-10-07;Holit;;31.2318728;34.3265102
-597;Anucha Sophakun;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-598;Phongphat Suchat;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-599;Dmitri Sorokin;51.0;Ashkelon;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-600;Sakda Surakhai;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-601;Karla Stelzer Mendes;42.0;Kiryat Malachi;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-602;Tomer Strosta;23.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-603;Hana Siton;73.0;Hod Hasharon;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-604;Tal Siton;49.0;Hod Hasharon;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-605;Yitzhak Siton;76.0;Hod Hasharon;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-606;Tawachi Saytu;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-607;Vivian Silver;74.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-608;Yossi Silberman;67.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-609;Margit Silberman;63.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-610;Tamar Kedem Siman Tov;35.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-611;Arbel Siman Tov;6.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-612;Omer Siman Tov;2.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-613;Shachar Siman Tov;6.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-614;Yehonatan (Johnny) Siman Tov;36.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-615;Carol Siman Tov;70.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-616;Ram Sela;33.0;Neve Ur;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-617;Elazar Samuelov;21.0;Ashdod;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-618;Alexander Samoilov;28.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-619;Tamar Samet;20.0;Pardes Hanna;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-620;Gina Smiatich;90.0;Kissufim;Israeli;2023-10-07;Kissufim;;31.3741608;34.3994488
-621;Chairat Sanusan;;Thailand;Thai;2023-10-07;Kissufim;;31.3741608;34.3994488
-622;Tzur Saidi;29.0;Gan HaDarom;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-623;Moshe (Moshiko) Saidian;26.0;Yavne;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-624;Nadejda Spravchikov;79.0;Netivot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-625;Rudy Skrzewski;57.0;Ohad;Israeli;2023-10-07;near Gaza;;31.416322;34.43329
-626;Yaniv Sarudi;26.0;Ashdod;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-627;Gal Abdush;34.0;Kiryat Ekron;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-628;Naji Abdush;35.0;Kiryat Ekron;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-629;Shalom Abudi;56.0;Tiberias;Israeli;2023-11-12;Dovev;;33.0524574;35.4074874
-630;Ofer Udi;42.0;Beit Shemesh;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-631;Guy Azar;23.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-632;Oz Moshe Ezra;23.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-633;Lior Atun;25.0;Hadera;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-634;Maayan Idan;18.0;Nahal Oz;Israeli;2023-10-07;Nahal Oz;;31.4727794;34.497652161839866
-635;Roi Idan;45.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-636;Dani Alush;53.0;Omer;Israeli;2023-10-18;Omer;;31.26357;34.84951
-637;Hanania Hanan Amar;38.0;Ashkelon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-638;Mercedes Oria Amar;33.0;Kiryat Ekron;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-639;Dikla Arava;51.0;Nahal Oz;Israeli;2023-10-07;Nahal Oz;;31.4727794;34.497652161839866
-640;Tomer Eliaz Arava;17.0;Nahal Oz;Israeli;2023-10-07;Nahal Oz;;31.4727794;34.497652161839866
-641;Gideon Fauker;80.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-642;Somkhoun Pansa-ard;39.0;Thailand;Thai;2023-10-07;Alumim;;31.4521295;34.5137154
-643;Yoad Pe’er;21.0;Jerusalem;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-644;Assaf Feber;23.0;Reim;Israeli;2023-10-07;Reim;;31.3848038;34.4585901
-645;Rafael Fahimi;63.0;Netivot;Israeli;2023-10-21;Netivot;;31.4213546;34.5884252
-646;Roni Polvanov;23.0;Ramla;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-647;Maya Foder;25.0;Zikhron Yaakov;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-648;Rajan Fulara;;Nepal;Nepali;2023-10-07;Alumim;;31.4521295;34.5137154
-649;Emma Poliakov;86.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-650;Evgeni Postel;25.0;Beer Sheva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-651;Vladimir Popov;74.0;Ofakim;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-652;Sofia Popov;68.0;Ofakim;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-653;Nir Nikita Popov;25.0;Ashdod;Israeli;2023-10-07;Ashdod;;31.7977314;34.6529922
-654;Roi Popplewell;54.0;Nirim;Israeli;2023-10-07;Nirim;;31.335199;34.395
-655;Nir Forti;30.0;Omer;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-656;Laura Ludmilla Furman;78.0;Ofakim;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-657;Arnan Phetrkaeo;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-658;Roni Petrovski;24.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-659;Daniella (Dana) Patrenko;23.0;Haifa;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-660;Patti Kiatisk;35.0;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-661;Nanthawat Pinjai;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-662;Tchelet Fishbein Za’arur;18.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-663;Ben Fishman;21.0;Kfar Saba;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-664;Tammy Peleg Ziv;72.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-665;Gila Peled;59.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-666;Daniel Peled;28.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-667;Izhar Peled;62.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-668;Alina Falhati;23.0;Beit Shean;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-669;Yigal Flash;66.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-670;Sindi Flash;67.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-671;Seriyut Pankitwanitchirnm;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-672;Orel Pesso;26.0;Kiryat Yam;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-673;Kobi Paryante;43.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-674;Valery Freidman;60.0;Dimona;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-675;Karina Pritika;23.0;Ariel;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-676;Noa Farage;22.0;Tel Mond;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-677;Yona Friker;60.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-678;Ziv Frenkel;22.0;Kiryat Motzkin;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-679;Dr. Marcelle Freulich;64.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-680;Hadar Prince;21.0;Gedera;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-681;Mark (Mordechai) Peretz;51.0;Rishon LeZion;Israeli;2023-10-07;Saad Junction;;31.469348;34.534417
-682;Ido Peretz;23.0;Ramat Gan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-683;Arik (Arie) Peretz;58.0;Kiryat Haim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-684;Ruth Hodaya Peretz;17.0;Kiryat Haim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-685;Thanakrit Prakotwong;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-686;Ashish Chaudhary;25.0;Nepal;Nepali;2023-10-07;near Gaza;;31.416322;34.43329
-687;Israel Chana;30.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-688;Yulia Chaban;24.0;Arad;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-689;Omer Zadikevitch;50.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-690;Saksit Khotmee;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-691;Dado Tsafir;45.0;Ashkelon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-692;Hai Zfati;27.0;Kiryat Ata;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-693;Jaroon Chatdumdee;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-694;Gracie Cabrera;45.0;Philippines;Philippine;2023-10-07;Beeri;;31.424554;34.489927
-695;Shahar Gal Kadman;34.0;Yesha;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-696;Srithat Kawao;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-697;Saksit Khotmee;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-698;Apichart Gusaram;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-699;Phongphat Suchat;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-700;Yitzhak Cozin;72.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-701;Ganesh Kumar Nepali;20.0;Nepal;Nepalese;2023-10-07;Alumim;;31.4521295;34.5137154
-702;Irit Konderov;27.0;Ashkelon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-703;Ylena Kostizin;78.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-704;Pongsatorn Khunsree;25.0;Thailand;Thai;2023-10-07;Alumim;;31.4521295;34.5137154
-705;Shani Kupervaser;28.0;Haifa;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-706;Zelta Kosovski;28.0;Kiryat Gat;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-707;Aviv Kutz;54.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-708;Yonatan Kutz;16.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-709;Yiftah Kutz;14.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-710;Livnat Kutz;50.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-711;Igor Korcher;72.0;Ofakim;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-712;Tehila Katabi;32.0;Holit;Israeli;2023-10-07;Holit;;31.2318728;34.3265102
-713;Segev Israel Kishner;22.0;Atzmon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-714;Hila Klein;41.0;Mazkeret Batya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-715;Lily Keizman;63.0;Holit;Israeli;2023-10-07;Holit;;31.2318728;34.3265102
-716;Arnatit Kayson;29.0;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-717;Ofek Kimhi;22.0;Bat Yam;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-718;Daniel Kimmenfeld;64.0;Ashkelon;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-719;Linor Keinan;23.0;Mazkeret Batya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-720;Lilach Kipnis;60.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-721;Eviatar Kipnis;65.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-722;Savyon Chen Kipper;31.0;Kiryat Ono;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-723;Rotem Kalderon;66.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-724;Ma’ayan Kalihman;22.0;Nir Banim;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-725;Theerapong Klangsuwan;;Thailand;Thai;2023-10-07;Kissufim;;31.3741608;34.3994488
-726;Stav Kimhi;35.0;Talmei Yossef;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-727;Jonathan Meir Ken-Dror;28.0;Hod Hasharon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-728;Keshet Kasruti-Kalfa;22.0;Samar;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-729;Paul Vincent Castelvi;42.0;Philippines;Philippine;2023-10-07;Beeri;;31.424554;34.489927
-730;Evgeny Kapshetar;36.0;Dimona;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-731;Dina Kapshetar;35.0;Dimona;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-732;Aline Kapshetar;8.0;Dimona;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-733;Eitan Kapshetar;5.0;Dimona;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-734;Avraham (Rami) Katzir;78.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-735;David Katzir;72.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-736;Galit Carbone;66.0;Hod Hasharon;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-737;David Karol;72.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-738;Shachaf Kreif;17.0;Gilat;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-739;Chana Kritzman;88.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-740;Tal Keren;17.0;Netiv HaAsara;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-741;Dvir Karp;46.0;Reim;Israeli;2023-10-07;Reim;;31.3848038;34.4585901
-742;Moriah Raviv;23.0;Kiryat Motzkin;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-743;Niv Raviv;27.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-744;Ofek Rabia;23.0;Beit Arye;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-745;Yuval Rabia;33.0;Yesha;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-746;Noam Rabia;30.0;Yesha;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-747;Shai Regev;25.0;Ramat Yishai;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-748;Michal Roimi;23.0;Nesher;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-749;Yvonne Eden Patricia Rubio Vargas;27.0;Kfar Saba;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-750;Jana Roderman;48.0;Ashkelon;Israeli;2023-10-07;Ashkelon;;31.6687545;34.57404853627754
-751;Yael Rozman;26.0;Kfar Saba;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-752;Matan Rosenburg;17.0;Dimona;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-753;Yehonatan Rom;23.0;Mevaseret Zion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-754;Olga Naomi Romashkin;28.0;Petah Tikva;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-755;Ofer Ron;70.0;Kissufim;Israeli;2023-10-07;Kissufim;;31.3741608;34.3994488
-756;Tzvi Shlomo Ron;78.0;Nahal Oz;Israeli;2023-10-07;Nahal Oz;;31.4727794;34.497652161839866
-757;Nira Ronen;86.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-758;Yehezkel (Hezi) Razilov;30.0;Katzrin;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-759;Nitzan Rahum;28.0;Pardesiya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-760;Aviel Shalom Rahamim;27.0;Merkaz Shapira;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-761;Rabbi Binyamin Rahamim;52.0;Ofakim;Israeli;2023-10-07;Ofakim;;31.3067921;34.61821999590485
-762;Dvir Rahamim;23.0;Ashdod;Israeli;2023-10-07;Reim;;31.3848038;34.4585901
-763;Anula Jayathilaka;49.0;Shri Lanka;Shri Lankian;2023-10-07;Beeri;;31.424554;34.489927
-764;Gideon Harel Rivlin;18.0;Otniel;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-765;Moshe Ridler;91.0;Holit;Israeli;2023-10-07;Holit;;31.2318728;34.3265102
-766;Dor Rider;21.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-767;Eliyahu (Eliko) Reichenstein;75.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-768;Yonatan Richter;48.0;Ein Hod;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-769;Meechai Ritthiphon;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-770;Omri Ram;29.0;Aseret;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-771;Eli Refai;42.0;Yavne;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-772;Sharon Refai;28.0;Yavne;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-773;Dr. Hagit Refaeli Mishkin;48.0;Hod Hasharon;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-774;Yonatan Rapaport;40.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-775;Chai Recsanun;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-776;Robert Shaulov;70.0;Ashdod;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-777;Elia Shametz;35.0;Haifa;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-778;Tomer Segev;30.0;Herzliya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-779;Sivan Sharhabani;21.0;Ramat Gan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-780;Moshe Shova;33.0;Kfar Yona;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-781;David Alberto Schwartzman;67.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-782;Orly Schwartzman Pinko;67.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-783;Ziv Shopen;56.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-784;Segev Shushan;28.0;Modiin;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-785;Mira Shtahl;54.0;Kfar Azza;Israeli;2023-10-07;Kfar Azza;;31.4833351;34.5333225
-786;Roni Shitrit;24.0;Beit Yitzhak;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-787;Naomi Shitrit Azulay;52.0;Sderot;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-788;Noam Shai;26.0;Kfar Tavor;Israeli;2023-10-07;Reim;;31.3848038;34.4585901
-789;Daniel Sheinkerman;25.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-790;Mark Shindel;23.0;Kfar Yona;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-791;Bar Shechter;32.0;Katzir;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-792;David Shalev;75.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-793;Tal Shalev;34.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-794;Shai Shalev;50.0;Ahuzat Barak;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-795;Noam Shalon;25.0;Harish;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-796;Ram Shalom;25.0;Givat Zeev;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-797;Assaf Shlesinger;57.0;Rosh HaAyin;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-798;Sharona Shmunis Harel;40.0;Rishon LeZion;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-799;Inbar Shem Tov;22.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-800;Alon Shamli;34.0;Bat Yam;Israeli;2023-10-08;Alexandria, Egypt;;31.1991806;29.8951716
-801;Ben Shimoni;31.0;Ashkelon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-802;Yaakov (Kobi) Shmaiya;47.0;Beer Sheva;Israeli;2023-10-07;Reim;;31.3848038;34.4585901
-803;Ron Shemer;23.0;Lod;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-804;Tatiana Schnitman;70.0;Ofakim;Israeli;2023-10-07;Sderot;;31.53288635;34.5937376656627
-805;Eitan Snir;21.0;Ahuzat Barak;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-806;Dor Hanan Shafir;30.0;Modiin;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-807;Yirmiyahu (Yirmi) Shafir;75.0;Nir Oz;Israeli;2023-10-07;Nir Oz;;31.3095982;34.400815
-808;Ziv Pepe Shapira;26.0;Nir Am;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-809;Tomer Shpirer;37.0;Gedera;Israeli;2023-10-07;Mefalsim;;31.5026787;34.5621232
-810;Ran Shefer;48.0;Beeri;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-811;Dudi Sharon;47.0;Nahariya;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-812;Liam Shrem;25.0;Tel Aviv-Yafo;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-813;Yahel Sharabi;13.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-814;Lian Sharabi;48.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-815;Noya Sharabi;16.0;Beeri;Israeli;2023-10-07;Beeri;;31.424554;34.489927
-816;Padam Thapa;;Nepal;Nepali;2023-10-07;Alumim;;31.4521295;34.5137154
-817;Bar Tomer;26.0;Ein Shemer;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-818;Avidan Turgeman;26.0;Masuot Yitzhak;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-819;Dudi Turgeman;26.0;Sde Nitan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-820;Shoham Lia Turgeman;24.0;Beit Shean;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-821;Phithak Tholaeng;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-822;Niv Tel Tzur;22.0;Ramat Gan;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-823;Adir Tamam;40.0;Holon;Israeli;2023-10-07;Nova Music Festival;;31.397778;34.471667
-824;Phirun Thanonphim;;Thailand;Thai;2023-10-07;near Gaza;;31.416322;34.43329
-825;Or Tasa;16.0;Netiv HaAsara;Israeli;2023-10-07;Zikim Beach;;31.6124626;34.50432
-826;Lior Rudaeff;61.0;Nir Yitzhak;Israeli;2023-10-07;Gaza;May 7, 2024;31.4432234;34.360007
-827;Elyakim Libman;24.0;Unknown;Israeli;2023-10-07;Gaza;May 3, 2024;31.4432234;34.360007
-828;Wolderaphael (Tiger) Hagos Berhe;40.0;Unknown;Eritrean;2023-10-07;Sderot;;31.53288635;34.5937376656627
+,name,age,home_place,nationality,murder_date,murder_place,revealed,murder_place_latitude,murder_place_longitude
+0,Sharif Suad,35.0,Sallama,Israeli,2024-04-26,Majdal Shams,,33.26871625,35.76690122903867
+1,Benjamin Achimeir,14.0,West Bank,Israeli,2024-04-12,West Bank,,31.858516,35.208072
+2,Lidor Levy,34.0,Gan Yavne,Israeli,2024-04-04,Gan Yavne,,31.79035865,34.70026297767875
+3,Elad Katzir,47.0,Nir Oz,Israeli,2024-04-05,Gaza,"April 5, 2024",31.4432234,34.360007
+4,Uriel Baruch,35.0,Givon,Israeli,2024-03-27,Gaza,"March 27, 2024",31.4432234,34.360007
+5,Zaher Bashara,38.0,Ein Qiniyyah,Israeli,2024-03-27,Ein Qiniyyah,,33.236944,35.730833
+6,Uri Moyal,51.0,Dimona,Israeli,2024-03-14,Beit Kama,,31.4475406,34.7622872
+7,Patnibin Maxwell,31.0,India,Indian,2024-03-04,Margaliot,,33.21323455,35.53913715111901
+8,Yitzhak Zeiger,57.0,Shavei Shomron,Israeli,2024-02-29,Eli,,32.071389,35.265278
+9,Oriya Hartom,16.0,Dolev,Israeli,2024-02-29,Eli,,32.071389,35.265278
+10,Matan Elmaliach,26.0,Maale Adumim,Israeli,2024-02-22,Ma’ale Adumim,,31.7705643,35.2987457
+11,Ori Yaish,27.0,Modiin,Israeli,2024-02-16,Gedera,,31.811252250000003,34.77693431445762
+12,Ishay Gertner,23.0,Modiin,Israeli,2024-02-16,Gedera,,31.811252250000003,34.77693431445762
+13,Yair Yaakov,59.0,Nir Oz,Israeli,2023-10-07,Gaza,"February 15, 2024",31.4432234,34.360007
+14,Dr. Lara Tannous,42.0,Jerusalem,Israeli,2024-01-24,North of Ofra,,31.955588,35.260222
+15,Yossi Sharabi,51.0,Beeri,Israeli,2024-01-16,Gaza,"January 16, 2024",31.4432234,34.360007
+16,Edna Bluestein,79.0,Raanana,Israeli,2024-01-15,Raanana,,32.1860244,34.8678359
+17,Itay Svirsky,38.0,Tel Aviv-Yafo,Israeli,2024-01-16,Gaza,"January 16, 2024",31.4432234,34.360007
+18,Mira Ayalon,76.0,Kfar Yuval,Israeli,2024-01-04,Kfar Yuval,,33.2474176,35.5974916
+19,Tamir Adar,38.0,Nir Oz,Israeli,2024-01-01,Gaza,"January 1, 2024",31.4432234,34.360007
+20,Ilan Weiss,56.0,Beeri,Israeli,2023-10-07,Beeri,"January 1, 2024",31.424554,34.489927
+21,Judy Weinstein-Haggai,70.0,Nir Oz,Israeli,2023-10-07,Gaza,"December 28, 2023",31.4432234,34.360007
+22,Gad Haggai,73.0,Nir Oz,Israeli,2023-12-22,Gaza,"December 22, 2023",31.4432234,34.360007
+23,Elia Toledano,27.0,Tel Aviv-Yafo,Israeli,2023-12-11,Gaza,"December 11, 2023",31.4432234,34.360007
+24,Eden Zacharia,28.0,Rishon LeZion,Israeli,2023-12-13,Gaza,"December 13, 2023",31.4432234,34.360007
+25,Tal Haimi,41.0,Nir Yitzhak,Israeli,2023-10-07,Gaza,"December 13, 2023",31.4432234,34.360007
+26,Yotam Haim,28.0,Kfar Azza,Israeli,2023-12-15,IDF,,,
+27,Alon Lulu Shamriz,26.0,Kfar Azza,Israeli,2023-12-15,IDF,,,
+28,Samer Fuad El-Talalka,22.0,Hura,Israeli,2023-12-15,IDF,,,
+29,Inbar Haiman,27.0,Haifa,Israeli,2023-12-16,Gaza,"December 16, 2023",31.4432234,34.360007
+30,Eyal Uzan,54.0,Netua,Israeli,2023-12-07,Netua,,33.0649415,35.3233116
+31,Dror Kaplun,68.0,Beeri,Israeli,2023-10-07,Gaza,"December 7, 2023",31.4432234,34.360007
+32,Sahar Baruch,25.0,Beeri,Israeli,2024-01-03,Gaza,"January 3, 2023",31.4432234,34.360007
+33,Eitan Levy,53.0,Bat Yam,Israeli,2023-10-07,Gaza,"December 8, 2023",31.4432234,34.360007
+34,Yonatan Samerano,21.0,Tel Aviv-Yafo,Israeli,2023-12-03,Gaza,"December 3, 2023",31.4432234,34.360007
+35,Ofra Keidar,70.0,Beeri,Israeli,2023-12-01,Gaza,"December 1, 2023",31.4432234,34.360007
+36,Sami Keidar,70.0,Beeri,Israeli,,Beeri,,31.424554,34.489927
+37,Eliyahu (Churchill) Margalit,75.0,Nir Oz,Israeli,2023-12-01,Gaza,"December 1, 2023",31.4432234,34.360007
+38,Arieh Zalmanovitch,85.0,Nir Oz,Israeli,2023-12-01,Gaza,"December 1, 2023",31.4432234,34.360007
+39,Yuval Doron Kastleman,38.0,Mevaseret Zion,Israeli,2023-11-30,Jerusalem,,31.7788242,35.2257626
+40,Livia Dickman,24.0,Jerusalem,Israeli,2023-11-30,Jerusalem,,31.7788242,35.2257626
+41,Hanna Ifergan,67.0,Jerusalem,Israeli,2023-11-30,Jerusalem,,31.7788242,35.2257626
+42,Rabbi Elimelech Wasserman,73.0,Ashdod,Israeli,2023-11-30,Jerusalem,,31.7788242,35.2257626
+43,Ofir Tzarfati,27.0,Kiryat Ata,Israeli,2023-10-07,Gaza,"November 30, 2023",31.4432234,34.360007
+44,Ravid Arie Katz,51.0,Nir Oz,Israeli,2023-10-07,Gaza,"November 28, 2023",31.4432234,34.360007
+45,Goytum Jabrahiwat,,Unknown,Eritrean,2023-10-07,Sderot,,31.53288635,34.5937376656627
+46,Chi Zanhung,47.0,China,Chinese,2023-10-07,Sderot,,31.53288635,34.5937376656627
+47,Zishom Wohn,36.0,China,Chinese,2023-10-07,Sderot,,31.53288635,34.5937376656627
+48,Dali Zoeo,35.0,China,Chinese,2023-10-07,Sderot,,31.53288635,34.5937376656627
+49,Natalia Demidova,39.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+50,Mark Mordehai Peretz,51.0,Rishon LeZion,Israeli,2023-10-07,Sa’ad Junction,,31.4697983,34.52855015257353
+51,Shulamit Merenstein,83.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+52,Freha Ifergan,81.0,Ashkelon,Israeli,2023-10-07,Ashkelon,,31.6687545,34.57404853627754
+53,Clemence Felix Matenga,22.0,Tanzania,Tanzanian,2023-10-07,Nir Oz,,31.3095982,34.400815
+54,Sumchai Sayang,24.0,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+55,Papontanei Pongkrueh,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+56,Chaya Reksanon,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+57,Arenthit Kayson,29.0,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+58,Pathay Kiyatissek,35.0,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+59,Saryut Penkitwanitcharon,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+60,Tawatchai Sieto,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+61,Pongfat Suchart,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+62,Dueh Sayan,35.0,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+63,Tianchai Yodtongdi,32.0,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+64,Kraysorn Tomiyoma,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+65,Cherkpan Diotaisong,37.0,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+66,Seta Homsorn,36.0,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+67,Shmil Abasov,33.0,Beer Sheva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+68,Eden Abdulayev,23.0,Ramat Gan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+69,Semion Abdilemov,66.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+70,Yazan Zecharia Abu Jama,5.0,Arara,Israeli,2023-10-07,Arara,,32.494341,35.099345
+71,Orel Abuhazera,25.0,Rosh Haayin,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+72,Ossama Abu Madiam,28.0,Rahat,Israeli,2023-10-07,Mivtahim,,31.2417561,34.4072666
+73,Dalia Abu Madiam,30.0,Rahat,Israeli,2023-10-07,Rahat,,31.392909,34.753914
+74,Mai Zuhir Abu Sabieh,13.0,Kukhleh,Israeli,2023-10-07,Kukhleh,,31.2853735,35.0574735
+75,Faiza Abu Sabieh,57.0,Kukhleh,Israeli,2023-10-07,Kukhleh,,31.2853735,35.0574735
+76,Mussa Abu Sebila,41.0,Abu Talul,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+77,Amar Abu Sebila,25.0,Abu Talul,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+78,Ossama Abu Issa,36.0,Tel Sheva,Israeli,2023-10-07,Tel Sheva,,31.2456487,34.8577683
+79,Noy Aviv,29.0,Eilat,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+80,Dor Avitan,26.0,Eilat,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+81,Lotan Abir,24.0,Gan Haim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+82,Gil Yosef Avni,26.0,Caesarea,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+83,Hen Even,45.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+84,Alon Even,16.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+85,Ido Even,14.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+86,Rinat Even,44.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+87,Oded Abergil,27.0,Merkaz Shapira,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+88,Ilan Avraham,57.0,Beit Arye,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+89,Lior Abramoz,20.0,Pardes Hanna,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+90,Michael Abramov,55.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+91,Angeline Agirs,32.0,Philippines,Philippine,2023-10-07,Alumim,,31.4521295,34.5137154
+92,Assaf Mordechai Edberg,23.0,Hadera,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+93,Mapal Adam,27.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+94,Michal Admoni,51.0,Kfar Azza,Israeli,2023-10-07,Kfar Aza,,31.4833351,34.5333225
+95,Gili Adar,24.0,Lapid,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+96,Aviad Avraham Edri,31.0,Nitzan Bet,Israeli,2023-10-07,Kfar Aza,,31.4833351,34.5333225
+97,Idan Edri,36.0,Hasolelim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+98,Ziva Ovitz,77.0,Ami’oz,Israeli,2023-10-07,Ami’oz,,31.24831,34.4139745
+99,Chum Udum,24.0,Cambodia,Cambodian,2023-10-07,Karmia,,31.6053505,34.5430183
+100,Eliyahu Uzan,40.0,Ashdod,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+101,Arieh Uzan,66.0,Gilat,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+102,Eliad Ohayon,23.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+103,Moshe Ohayon,52.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+104,Sylvia Ohayon,59.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+105,Eden Liz Ohayon,24.0,Tirat HaCarmel,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+106,Daniel Ohana,24.0,Jerusalem,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+107,Adi Ohana,43.0,Mavki’im,Israeli,2023-10-07,Mavki’im,,31.6221558,34.5771198
+108,Michael Ostrovsky,77.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+109,Yonah Or,50.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+110,Eliyahu Orgad,72.0,Kfar Azza,Israeli,2023-10-07,Kfar Aza,,31.4833351,34.5333225
+111,Ben Uri,31.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+112,Aviel Oren,29.0,Jerusalem,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+113,Gabi Azulai,44.0,Kiryat Malachi,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+114,Yochai Azulai,28.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+115,Yonatan Hai Azulai,28.0,Jerusalem,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+116,Omri Ahrak,26.0,Elyakhin,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+117,Ofek Aton,24.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+118,Dorin Atias,24.0,Ganei Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+119,Majed Ibrahim,20.0,Abu Gosh,Israeli,2023-10-14,Abu Gosh,,31.806500550000003,35.108856489764165
+120,Niv Aivas,25.0,Jerusalem,Israeli,2023-10-08,Unknown,,,
+121,Liel Itah,22.0,Anatot,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+122,Sigal Itah,27.0,Beer Sheva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+123,Shira Ayalon,23.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+124,Elia Iluz,27.0,Ashkelon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+125,Guy Iluz,26.0,Raanana,Israeli,2023-12-01,Gaza,"December 1, 2023",31.4432234,34.360007
+126,Adam Iliev,22.0,Ashdod,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+127,Ivan Illarramendi Saizar,46.0,Kissufim,Israeli,2023-10-07,Kissufim,,31.3741608,34.3994488
+128,Lili Itamari,63.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+129,Ran Itamati,56.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+130,Liz Elharar Halfon,46.0,Holit,Israeli,2023-10-07,Holit,,31.2318728,34.3265102
+131,Meir Elharar,46.0,Holit,Israeli,2023-10-07,Holit,,31.2318728,34.3265102
+132,Abed AlRahman Aatef Elziadna,29.0,Rahat,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+133,Mofid Alzir,57.0,Abu Snan,Israeli,2023-10-15,Abu Snan,,32.96603485,35.16356280662865
+134,Fatma Altlakat,35.0,Arara,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+135,Solomon Aliagoyev,28.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+136,Aviv Eliyahu,38.0,Elkosh,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+137,Yehonatan Eliyahu,21.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+138,Noam Elyakim,47.0,Nahal Oz,Israeli,2023-10-07,Nahal Oz,,31.4727794,34.497652161839866
+139,Marina Almagor,76.0,Kfar Saba,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+140,Matan Almalam,47.0,Dimona,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+141,Abed AlRahman Alensara,50.0,Kuseife,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+142,Oren Elfasi,22.0,Rehovot,Israeli,2023-10-07,Nirim,,31.335199,34.395
+143,Shlomo Elfasi,52.0,Ashkelon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+144,Haled AlFahrin,50.0,Arara,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+145,Motti Alkavetz,40.0,Yated,Israeli,2023-10-07,Nirim,,31.335199,34.395
+146,Sivan Alkavetz,23.0,Ashdod,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+147,Einav Elkayam Levy,32.0,Givatayim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+148,Loretta Alkarra,,Alumim,Philippine,2023-10-07,Alumim,,31.4521295,34.5137154
+149,Abed Elcarim el-Nasasra,53.0,Kuseife,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+150,Amin Akel AlKaran,11.0,Kukhleh,Israeli,2023-10-07,Kukhleh,,31.2853735,35.0574735
+151,Juwas Ibrahim AlKaran,15.0,Kukhleh,Israeli,2023-10-07,Kukhleh,,31.2853735,35.0574735
+152,Malek Ibrahim AlKaran,14.0,Kukhleh,Israeli,2023-10-07,Kukhleh,,31.2853735,35.0574735
+153,Taleb AlKaran,22.0,Kukhleh,Israeli,2023-10-07,Kukhleh,,31.2853735,35.0574735
+154,Mohamed Div AlKaran,12.0,Kukhleh,Israeli,2023-10-07,Kukhleh,,31.2853735,35.0574735
+155,Suheyb abu Amar al-Razm,22.0,Jerusalem,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+156,Shlomo Eliyahu Elsheikh,28.0,Bnei Brak,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+157,Mordehai (Modi) Amir,67.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+158,Lior Asulin,44.0,Raanana,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+159,Liraz Asulin,37.0,Kiryat Malachi,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+160,Ronen Engel,54.0,Nir Oz,Israeli,2023-12-01,Gaza,"December 1, 2023",31.4432234,34.360007
+161,Noa Englander,23.0,Kiryat Bialik,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+162,Liav Asayag,25.0,Afula,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+163,John Esselnov,70.0,Ashdod,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+164,Yossi (Zigi) Appleton,77.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+165,Yarin Moshe Efraim,24.0,Petah Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+166,Noam Liel Efraim,24.0,Had Nes,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+167,Hagai Efrat,83.0,Rishon LeZion,Israeli,2023-10-08,"Alexandria, Egypt",,31.1991806,29.8951716
+168,Bilhah Epstein,84.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+169,Neta Epstein,22.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+170,Aviv Atzili,49.0,Nir Oz,Israeli,2023-11-30,Gaza,"November 30, 2023",31.4432234,34.360007
+171,Or Akuni,32.0,Netiv HaAsara,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+172,Aryeh Akuni,,Netiv HaAsara,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+173,Ruth (Rutti) Akuni,,Netiv HaAsara,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+174,Matan Eckstein,23.0,Even Yehuda,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+175,Uri Arad,22.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+176,Nevo Arad,25.0,Saad,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+177,Dan Ariel,22.0,Herzliya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+178,Mordehai Ben Ariel Biton,22.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+179,Ayelet Arnin,22.0,Atzmon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+180,Sahar Ashuan,22.0,Netanya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+181,Haim Ashraf,68.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+182,Gideon Babani,66.0,Yehud,Israeli,2023-10-07,Nirim,,31.335199,34.395
+183,Frabash Bandari,,Nepal,Nepalese,2023-10-07,Nirim,,31.335199,34.395
+184,Dror Bahat,30.0,Beit Alfa,Israeli,2023-10-07,Reim,,31.3848038,34.4585901
+185,Ortal Bobets Ben Ayun,22.0,Jerusalem,Israeli,2023-10-07,Reim,,31.3848038,34.4585901
+186,Yuval Buyum,21.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+187,Inbar Buyum,23.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+188,Caroline Bohl,22.0,Berlin,German,2023-10-07,Nir Oz,,31.3095982,34.400815
+189,Doron Boldas,34.0,Gan Hashomron,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+190,Sophia Bongart,21.0,Carmiel,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+191,Petro Bosko,35.0,Holit,Israeli,2023-10-07,Holit,,31.2318728,34.3265102
+192,Neta Boaziz Morelli,40.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+193,Raz Bukobza,23.0,Beit Nehemia,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+194,Liam Bor Galon,26.0,Dimona,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+195,Bnayahu Biton,23.0,Jerusalem,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+196,Maya Biton,23.0,Petah Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+197,Neomi Baker,19.0,Ashdod,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+198,Ariel Bilia,28.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+199,Sapir Bilmas,24.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+200,Oron Beilin,24.0,Ramat Gan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+201,Zinaida Beilin,60.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+202,Sagiv Beilin Ben Zvi,24.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+203,Dipash Raj Bista,24.0,Nepal,Nepalese,2023-10-07,Alumim,,31.4521295,34.5137154
+204,Oron Bira,54.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+205,Tal Bira,62.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+206,Yasmin Bira,51.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+207,Tahel Bira,15.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+208,Tair Bira,22.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+209,Geula Bachar,60.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+210,Dana Bachar,48.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+211,Carmel Bachar,15.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+212,Mazi Bachar,63.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+213,Yehuda Bachar,24.0,Beit Shemesh,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+214,Itzhak (Itzik) Balato,53.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+215,Hen Ben Avi,21.0,Mivtahim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+216,Amit Ben Abeida,19.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+217,Hana Ben Artzi,70.0,Kfar Aviv,Israeli,2023-10-08,Kfar Aviv,,31.8318165,34.7213367
+218,Yarden Buskila,25.0,Kfar Masaryk,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+219,Matias Hernen Burstein,41.0,Carmiel,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+220,Einav Hen Burstein,39.0,Carmiel,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+221,Berta Bastain Shemayev,56.0,Ofakim,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+222,Itay Banjo,30.0,Haifa,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+223,Maya ben David,48.0,Kfar Haim,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+224,Celine Rahek Ben Daviv Nager,32.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+225,Ido Ben Zino,26.0,Merkaz Shapira,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+226,Gilad Ben Yehuda,28.0,Naán,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+227,Yuval Ben Yehuda,27.0,Ramat Gan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+228,Yohai Ben Zecharia,23.0,Netanya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+229,Rivka Ben Horin,74.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+230,Oren Haim Ben Hemo,19.0,Rehovot,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+231,Dan Ben Hemp,26.0,Raanana,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+232,Michael Ben Moshe,26.0,Ashkelon,Israeli,2023-10-07,near Gaza,,31.416322,34.43329
+233,Haim Benaim,56.0,Netiv HaAsara,Israeli,2023-10-07,Nahal Shikma,,31.5606189,34.5791938
+234,Shahar Ben Naim,43.0,Tzur Moshe,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+235,Daniel Ben Senior,34.0,Or Akiva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+236,Hava Ben Ami,62.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+237,Shani Ben Ami,26.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+238,Moshe Ben Porat,60.0,Tiberias,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+239,Amitai Ben Tzvi,80.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+240,Eden Ben Rubi,23.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+241,Amnon Betzalel,64.0,Bat Yam,Israeli,2023-10-08,"Alexandria, Egypt",,31.1991806,29.8951716
+242,Dean Nehorai Bar,27.0,Ahuzat Barak,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+243,Yuval Bar,65.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+244,Maayan Bar,65.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+245,Yuval Bar On,35.0,Kfar Yona,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+246,Gabriel Yishai Barel,22.0,Safed,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+247,Eldad Angel Bergman,26.0,Merkaz Shapira,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+248,Nurit Berger,59.0,Netiv HaAsara,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+249,Liron Barda,27.0,Shaarei Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+250,Hadar Berdichevsky,30.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+251,Itai Berdichevsky,30.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+252,Shiraz Brodash,23.0,Ramot Meir,Israeli,2023-10-07,near Gaza,,31.416322,34.43329
+253,Shoshana Brosh,75.0,Nahal Oz,Israeli,2023-10-07,Nahal Oz,,31.4727794,34.497652161839866
+254,Stav Barazani,23.0,Gan Ner,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+255,Tal Bartik (Klein),48.0,Beer Sheva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+256,Nadav Barta,23.0,Beit Arye,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+257,Adam Barima,47.0,Sudan,Sudanese,2023-10-07,Sderot,,31.53288635,34.5937376656627
+258,Romi Brandt Eliyahu,38.0,Modiin,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+259,Eliyahu Ya’akov Bernstein,20.0,Jerusalem,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+260,Ben Bernstein,23.0,Tzipori,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+261,Yoram Bar Sinai,75.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+262,Daniel Braslevski,31.0,Kiryat Gat,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+263,Ilay Bar Am,27.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+264,Mor Gabai,30.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+265,Amit Gabai,18.0,Reim,Israeli,2023-10-07,Reim,,31.3848038,34.4585901
+266,Shani Gabai,25.0,Yokneam,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+267,Ayelet Goddard,63.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+268,Manny Goddard,73.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+269,Tom Godot,53.0,Kissufim,Israeli,2023-10-07,Kissufim,,31.3741608,34.3994488
+270,Tamar Guttman,27.0,Kfar Ben Nun,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+271,Oren Golding,33.0,Nir Yitzhak,Israeli,2023-10-07,Nir Yitzhak,,31.2378574,34.3577888
+272,Nitzan Goldenberg,28.0,Netanya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+273,Tamar Goldenberg,24.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+274,Nadav Goldstein,46.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+275,Daniel Galtman,26.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+276,Margarita Rita Gussek,21.0,Gan Yavne,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+277,Dr. Lilia Gurevitch,38.0,Omer,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+278,Shir Hanna Georgie,22.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+279,Sharon Goradny,25.0,Kidron,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+280,Rephael Ariel Guri,30.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+281,Anton Guryanov,37.0,Safed,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+282,Victoria Gorlov,23.0,Bat Yam,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+283,Avner Goren,56.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+284,Eren Goren,33.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+285,Tova Goren,65.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+286,Maya Goren,56.0,Nir Oz,Israeli,2023-12-01,Gaza,"December 1, 2023",31.4432234,34.360007
+287,Eden Gez,31.0,Ashkelon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+288,Stav Coral Gete,30.0,Ashkelon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+289,Yaroslav Giller,28.0,Carmiel,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+290,Lilia Giller,61.0,Ofakim,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+291,Shahar Gindi,21.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+292,Shalev Gal,24.0,Ahuzat Barak,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+293,Noa Glasberg,43.0,Ein HaShlosha,Israeli,2023-10-07,Ein HaShlosha,,31.3513501,34.400966
+294,Andrei Zemkov,39.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+295,Zoya Zemkov,45.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+296,Isabella Gandin,27.0,Ashdod,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+297,Avia Ganot,32.0,Tzofim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+298,Shiran Ganon,38.0,Bat Yam,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+299,Sefi Yossef Gennis,30.0,Ramat Gan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+300,Benny Gennish,70.0,Ashkelon,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+301,Jakfung Jantassana,,Thailand,Thai,2023-10-07,Kissufim,,31.3741608,34.3994488
+302,Sammi Jarjawi,,Palestine,Palestinian,2023-10-07,Segev Shalom,,31.194398,34.84036848769573
+303,Dr. Victoria Gridskol,81.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+304,Prof. Sergei Gridskol,81.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+305,Yossef (Yussinio) Gross,75.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+306,Shenhav Ya’akov Gerfi,26.0,Herzliya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+307,Shoham Ya’akov Gerfi,28.0,Herzliya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+308,Liel Gerfi,28.0,Herzliya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+309,Maor Graziani,22.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+310,Braha Grekovich,47.0,Kissufim,Israeli,2023-10-07,Kissufim,,31.3741608,34.3994488
+311,Kineret Gat,68.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+312,Lukandra Sinj Dami,24.0,Nepal,Nepalese,2023-10-07,Alumim,,31.4521295,34.5137154
+313,Rahel Rachel Deb,25.0,Kiryat Yam,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+314,Adi Danan,68.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+315,Naomi Dgani,80.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+316,Avi Dadon,44.0,Afula,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+317,Yitzhak Itzik Dahan,48.0,Kiryat Malachi,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+318,Giora Duvdevani,81.0,Talmei Yosef,Israeli,2023-10-07,Talmei Yosef,,31.2005275,34.3638285
+319,Hodaya David,27.0,Beit Degan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+320,Tair Davis,24.0,Beit Degan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+321,Amit Yitzhak David,24.0,Beit Shemesh,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+322,Barak Davidi,28.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+323,Karina Davidov,31.0,Kiryat Gat,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+324,Shlomi Davidovitch,50.0,Gevim,Israeli,2023-10-07,Mefalsim,,31.5026787,34.5621232
+325,Shon Deutshvili,25.0,Beer Sheva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+326,Idan Dor,25.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+327,Ronen Ditchman,49.0,Beer Sheva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+328,Dan Damari,21.0,Tzohar,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+329,Kim Damti,22.0,Gedera,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+330,Carmella Dan,80.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+331,Noya Dan,12.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+332,Gal Danguri,23.0,Beit Arye,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+333,Tal Daniely,24.0,Beer Sheva,Israeli,2023-10-07,Kerem Shalom,,42.46310845,-71.38524814946598
+334,Lynn Daphne,22.0,Ein HaMifratz,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+335,Awad Darawshe,25.0,Iksal,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+336,Daniel Dan Darlington,34.0,the United Kingdom,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+337,Itai Huston Hadar,27.0,Beer Sheva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+338,Reuven Heinik,56.0,Ashkelon,Israeli,2023-10-07,Kissufim,,31.3741608,34.3994488
+339,Sharon Hirsch Uzan,46.0,Ramat Hasharon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+340,Aviad Halevy,29.0,Gan HaDarom,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+341,Narkis Hand,56.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+342,Ze’ev Hacker,72.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+343,Zehava Hacker,68.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+344,Idan Herman,26.0,Palmachim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+345,Varda Haramati,80.0,Reim,Israeli,2023-10-07,Reim,,31.3848038,34.4585901
+346,Idan Haramati,22.0,Alfei Menashe,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+347,Avshalom Haran,65.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+348,Maayana Hershkowitz,65.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+349,Noah Hershkowitz,68.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+350,Oren Aharon Vaknin,45.0,Netanya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+351,Limor Vaknin Permutter,49.0,Beer Sheva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+352,Daniel Vadai,27.0,Jerusalem,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+353,Yossef Wahab,65.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+354,Moshe Wahadi,37.0,Ashkelon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+355,Dani Wobak,45.0,Netiv HaAsara,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+356,Daniel Waldman,24.0,Kiryat Tivon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+357,Zishon Won,36.0,China,Chinese,2023-10-07,Sderot,,31.53288635,34.5937376656627
+358,Simon Vigdorgaz,21.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+359,Reuven Weisman,56.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+360,Adi Vitel Kaplon,34.0,Dekel,Israeli,2023-10-07,Holit,,31.2318728,34.3265102
+361,Ron Weinberg,24.0,Yokneam,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+362,Matti Weiss,69.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+363,Amir Weiss,69.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+364,Yehudit Weiss,65.0,Beeri,Israeli,2023-11-16,Gaza,"November 16, 2023",31.4432234,34.360007
+365,Shmuel Shmulik Weiss,65.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+366,Alina Weissberg,17.0,Beer Sheva,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+367,Yahav Viner,37.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+368,Lior Weizmann,32.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+369,Brona Valeno,24.0,Kfar Saba,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+370,Michael Vaknin,35.0,Jerusalem,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+371,Igal Vax,53.0,Netiv HaAsara,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+372,Alon Verber,26.0,Raanana,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+373,Lori Vardi,26.0,Raanana,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+374,Aviv Vertheim,57.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+375,Dorit Vertheim,54.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+376,Karin Vernikov,22.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+377,Hatib Zaruk,,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+378,Ronit Hodaya Zagadon,23.0,Eelazar,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+379,Yonatan Zahavi,10.0,Ashkelon,Israeli,2023-10-07,Yakhini,,31.4832232,34.6000858
+380,Motti Zowernman,74.0,Ramat Hasharon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+381,Bar Zohar,23.0,Kfar Warburg,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+382,Haim Zohar,73.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+383,Yaniv Zohar,54.0,Nahal Oz,Israeli,2023-10-07,Nahal Oz,,31.4727794,34.497652161839866
+384,Yasmin Zohar,49.0,Nahal Oz,Israeli,2023-10-07,Nahal Oz,,31.4727794,34.497652161839866
+385,Keshet Zohar,20.0,Nahal Oz,Israeli,2023-10-07,Nahal Oz,,31.4727794,34.497652161839866
+386,Tchelet Zohar,18.0,Nahal Oz,Israeli,2023-10-07,Nahal Oz,,31.4727794,34.497652161839866
+387,Dan Zomer,27.0,Nes Ziona,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+388,Vladimir Zhukov,63.0,Ashkelon,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+389,Karin Zourno,27.0,Mazkeret Batya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+390,Or Ziv,24.0,Adi,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+391,Eitan Ziv,74.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+392,Yonatan Zeidman,26.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+393,Nirel Zini,31.0,Tlamin,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+394,Hillel Zalmanovitch,60.0,Ashdod,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+395,Noa Zander,22.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+396,Matan Zenati,23.0,Dimona,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+397,Itai Za’afrani,23.0,Eilat,Israeli,2023-10-07,Reim,,31.3848038,34.4585901
+398,Noy Tiferet Za’afrani,27.0,Nokdim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+399,Itai Zak,53.0,Kissufim,Israeli,2023-10-07,Kissufim,,31.3741608,34.3994488
+400,Etti Zak,50.0,Kissufim,Israeli,2023-10-07,Kissufim,,31.3741608,34.3994488
+401,Sagi Zak,16.0,Kissufim,Israeli,2023-10-07,Kissufim,,31.3741608,34.3994488
+402,Avi Zakuto,53.0,Beer Sheva,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+403,Michal Zarbialov,60.0,Ofakim,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+404,Shaked Habani,20.0,Nes Ziona,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+405,Ziv Hajbi,29.0,Gevim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+406,Elizur Tzuriel Hajbi,60.0,Yakhini,Israeli,2023-10-07,Yakhini,,31.4832232,34.6000858
+407,Yehonatan Hajbi,18.0,Yakhini,Israeli,2023-10-07,Yakhini,,31.4832232,34.6000858
+408,Yizhar Hajbi,60.0,Yakhini,Israeli,2023-10-07,Yakhini,,31.4832232,34.6000858
+409,Lior Hadad Atias,36.0,Rehovot,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+410,Menuha Holati,76.0,Kissufim,Israeli,2023-10-07,Kissufim,,31.3741608,34.3994488
+411,Hadar Hushan,27.0,Petah Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+412,Yehoshua Hatav,67.0,Ashkelon,Israeli,2023-10-11,Ashkelon,,31.6687545,34.57404853627754
+413,Avraham Avi Hatuel,57.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+414,Gidi Hiel,24.0,Ahuzat Barak,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+415,Noa Hiel,27.0,Ahuzat Barak,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+416,Shimon Hiat,29.0,Ofakim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+417,Maya Haim,22.0,Rosh HaAyin,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+418,Gaya Halifa,23.0,Kiryat Ono,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+419,Ella Hamoy,26.0,Nir Yitzhak,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+420,Yehezkel Hezi Hanum,31.0,Petah Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+421,Avi Hasdai,53.0,Ramat Gan,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+422,Ben Hassid,23.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+423,Shraga Hassid,77.0,Mazkeret Batya,Israeli,2023-10-07,Ashkelon,,31.6687545,34.57404853627754
+424,Naor Hassidim,23.0,Ashdod,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+425,Arie Hefetz,28.0,Ramla,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+426,Ayala Hezroni,73.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+427,Yanai Hezroni,12.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+428,Liel Hezroni,12.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+429,Omer Hermesh,47.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+430,Katarina Tabegan,26.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+431,Yiftah Twig,27.0,Azaria,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+432,Adiel Twito,30.0,Petah Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+433,Alon Toledano,50.0,Tel Aviv-Yafo,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+434,Natalya Tomayev,71.0,Netivot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+435,Tamar Haya Torpiashvilli,9.0,Ashdod,Israeli,2023-10-28,Ashdod,,31.7977314,34.6529922
+436,Avraham Gilad Tiberg,24.0,Petah Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+437,Nadav Yosef Hai Taib,17.0,Beit Shikma,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+438,Marsel Talia,63.0,Kiryat Arba,Israeli,2023-10-07,Ein HaShlosha,,31.3513501,34.400966
+439,Amir Tanbura,23.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+440,Lior Tekach,23.0,Beer Sheva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+441,Mor Terabelsi,27.0,Nahariya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+442,Vitaly Trobanov,,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+443,Ori Tchernichovsky,29.0,Petah Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+444,Lior Tereshanski,16.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+445,Yiftah Yahengilov,66.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+446,Maria Yahengilov,60.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+447,Yuri Yedgarov,76.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+448,Rosa Yedgarov,81.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+449,Ron Yehudai,26.0,Yehud,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+450,Michael Yoav,46.0,Givat Zeev,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+451,Bilhah Yinon,75.0,Netiv HaAsara,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+452,Ya’akov Yinon,78.0,Netiv HaAsara,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+453,Ilan Moshe Ya’akov,29.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+454,Shuval Ya’akov,27.0,Mehola,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+455,San Amnon Yakobov,22.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+456,Yehudit Yitzhaki,65.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+457,Mai Yitzhaki,25.0,Hod Hasharon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+458,Shir Yaron,21.0,Tzohar,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+459,Shiraz-Shiran Yashmireni (Tamam),38.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+460,Ohad Cohen,43.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+461,Mila Cohen,1.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+462,Binyamin Ben Cohen,27.0,Beit Hashmonai,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+463,Bernard Cohen,57.0,Sufa,Israeli,2023-10-07,Sufa,,31.236852,34.341092
+464,Danielle Cohen,25.0,Netanya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+465,Daniel Asher Cohen,32.0,Ramat Gan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+466,Yona Cohen,73.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+467,Libi Cohen Maguri,24.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+468,Mor Cohen,24.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+469,Amit Cohen,25.0,Hod Hasharon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+470,Amit Haim Cohen,25.0,Meitar,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+471,Pessia (Pessi) Cohen,69.0,Hod Hasharon,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+472,Gilad Kfir,48.0,Gan Yavne,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+473,Efrat Katz,69.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+474,Tal Katz,37.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+475,Shoshana (Shosh) Karasanti,87.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+476,Omri Lavi,25.0,Hazor HaGlilit,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+477,Amit Lahav,23.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+478,Vitali Logvinchenko,34.0,Ashkelon,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+479,Leonid Luzovski,51.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+480,Guy Gabriel Levi,24.0,Neve Yamin,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+481,Dr. Daniel Levi,35.0,Kiryat Ono,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+482,Itzhak Levi,27.0,Beit Shemesh,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+483,Livnat Levi,27.0,Kiryat Ono,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+484,Lidor Levi,28.0,Kfar Saba,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+485,Naor Levi,28.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+486,Nissim Levi,30.0,Rehovot,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+487,Sigal Levi,31.0,Netanya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+488,Amit Levi,22.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+489,Ronnie Levi,80.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+490,Rotem Rahel Levi,23.0,Yokneam,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+491,Zion Levi,72.0,Dekel,Israeli,2023-10-07,Tzohar,,31.234514,34.426471
+492,Allysia Levine,34.0,Carmiel,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+493,Braha Levinson,74.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+494,Igor Lusov,58.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+495,Marina Lusov,60.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+496,Alexandre Look,35.0,Montreal,Canadian,2023-10-07,Nova Music Festival,,31.397778,34.471667
+497,Shani Nicol Louk,23.0,Srigim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+498,Haim Livne,87.0,Nahal Oz,Israeli,2023-10-07,Nahal Oz,,31.4727794,34.497652161839866
+499,Nizan Libstein,19.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+500,Yuri Lisuboy,63.0,Ashdod,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+501,Svetlana Lisuboy,61.0,Ashdod,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+502,Anita Lisman,25.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+503,Oriah Litman Ricardo,26.0,Caesarea,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+504,David Lischov,35.0,Kiryat Yam,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+505,Ilan Lipovsky,30.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+506,Oleg Lipschitz,61.0,Ashkelon,Israeli,2023-10-07,Reim,,31.3848038,34.4585901
+507,Yulia Lamai,29.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+508,Tiferet Lapidot,23.0,Harish,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+509,Doron Meir,58.0,Nirim,Israeli,2023-10-07,Nirim,,31.335199,34.395
+510,Mor Meir,37.0,Nirim,Israeli,2023-10-07,Nirim,,31.335199,34.395
+511,Zohar Meiri,55.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+512,Avi Meguira,48.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+513,Amit Magnazi,22.0,Nes Ziona,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+514,Nir Madmon,23.0,Peduim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+515,Shalev Madmoni,24.0,Rosh HaAyin,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+516,Shahak Yossef Madar,26.0,Dimona,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+517,Meir Moyal,55.0,Kiryat Shmona,Israeli,2023-11-06,Majdal Shams,,33.26871625,35.76690122903867
+518,Ayelet Molko,54.0,Netiv HaAsara,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+519,Shlomi Molko,62.0,Netiv HaAsara,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+520,Joshua Loitu Mollel,21.0,Tanzania,Tanzanian,2023-12-13,Gaza,"December 13, 2023",31.4432234,34.360007
+521,Roie Monder,51.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+522,Naama Mualem,28.0,Beit Shean,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+523,Shai Shalom Elior Mutzafi,37.0,Bat Yam,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+524,Avi Mor,61.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+525,Maayan Mor,30.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+526,Raffi Mordo,84.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+527,Ya’akov Mortov,66.0,Ofakim,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+528,Michael Mozrakov,69.0,Netivot,Israeli,2023-10-07,Netivot,,31.4213546,34.5884252
+529,Eliran Mizrahi,24.0,Petah Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+530,Ben Menashe Mizrahi,22.0,Yavne,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+531,Raz Mizrahi,22.0,Gedera,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+532,Adi Rivka Meisel,21.0,Karei Shomron,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+533,Ablum (Albert) Mills,80.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+534,Lior Maimon,22.0,Ramat Gan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+535,Sylvia Mirenski,81.0,Ein HaShlosha,Israeli,2023-10-07,Ein HaShlosha,,31.3513501,34.400966
+536,Anna Ella Misheyev,65.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+537,Amitai Malihi,20.0,Rosh HaAyin,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+538,Dor Malka,29.0,Eilat,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+539,Meir Malka,78.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+540,Edna Malekmo,45.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+541,Shahar Mansour,28.0,Shoham,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+542,Norel Mansouri,25.0,Hod Hasharon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+543,Revaya Mansouri,22.0,Hod Hasharon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+544,Antonio Massias Monteno,27.0,Kfar Saba,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+545,Adir Mesika,23.0,Even Yehuda,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+546,Netanel Maskelchi,36.0,Netivot,Israeli,2023-10-07,Netivot,,31.4213546,34.5884252
+547,Refale Meir Maskelchi,12.0,Netivot,Israeli,2023-10-07,Netivot,,31.4213546,34.5884252
+548,Noy Maudi,29.0,Yated,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+549,Netiv Nave Maayan,60.0,Netivot,Israeli,2023-10-07,Netivot,,31.4213546,34.5884252
+550,Steven Makrachenko,4.0,Carmiel,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+551,Adi Margalit,24.0,Haniel,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+552,Matan Lior Mordehai,35.0,Sdei Hemed,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+553,Jake Marlo,26.0,Great Britain,British,2023-10-07,Nova Music Festival,,31.397778,34.471667
+554,Shulamit Merenstein,83.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+555,Shulamit Merenstein,83.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+556,Said (David) Moshe,75.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+557,Eden Moshe,27.0,Beit Hashmonai,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+558,Shahr Mattias,47.0,Holit,Israeli,2023-10-07,Holit,,31.2318728,34.3265102
+559,Shlomi Mattias,46.0,Holit,Israeli,2023-10-07,Holit,,31.2318728,34.3265102
+560,Gal Navon,30.0,Ramat Gan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+561,Mordehai Neve,76.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+562,Narayan Prasad Neupane,22.0,Nepal,Nepalese,2023-10-07,Alumim,,31.4521295,34.5137154
+563,Ilkin Nazarov,30.0,Kiryat Yam,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+564,David Yair Shalom Ne’eman,30.0,Jerusalem,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+565,Shifra Noy,71.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+566,David Nahum,24.0,Mivtahim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+567,Adrienne Neta,66.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+568,Hanani Nidgalski Glazer,24.0,Petah Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+569,Rotem Neiman,25.0,Hod Hasharon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+570,Jenny Nisenboim Carmelli,32.0,Bat Yam,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+571,Liraz Nissan,20.0,Carmiel,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+572,Sujith Nissanka,48.0,Shri Lanka,Shri Lankian,2023-10-07,Beeri,,31.424554,34.489927
+573,Mai Naim,22.0,Gan Haim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+574,Eden Naftali,23.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+575,Phichit Najan,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+576,Bar Lior Nakmoli,27.0,Rehovot,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+577,Nitikorn Sae Wang,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+578,Sattawat Phiaaia,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+579,Duwa Sayan,35.0,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+580,Somchai Sayang,24.0,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+581,Tou Cae Lee,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+582,Aviv Sassi,64.0,Los Angeles,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+583,Shlomo (Shlomi) Sividia,37.0,Ganei Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+584,Orit Sela Svirsky,70.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+585,Raffi Svisrsky,71.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+586,Havik Segal,78.0,Netiv HaAsara,Israeli,2023-10-07,Netiv HaAsara,,31.5716799,34.5395488
+587,Ananda Shah,,Nepal,Nepali,2023-10-07,Alumim,,31.4521295,34.5137154
+588,Odaya Swisa,33.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+589,Dolev Swisa,34.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+590,Raj Kumar Swarnakar,27.0,Nepal,Nepali,2023-10-07,Alumim,,31.4521295,34.5137154
+591,Moriah Or Swissa,23.0,Herzliya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+592,Tamar Suchman,76.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+593,Hili Solomon,27.0,Kfar Yona,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+594,Yuval Solomon,29.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+595,Roland Sultan,68.0,Holit,Israeli,2023-10-07,Holit,,31.2318728,34.3265102
+596,Ronit Sultan,56.0,Holit,Israeli,2023-10-07,Holit,,31.2318728,34.3265102
+597,Anucha Sophakun,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+598,Phongphat Suchat,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+599,Dmitri Sorokin,51.0,Ashkelon,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+600,Sakda Surakhai,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+601,Karla Stelzer Mendes,42.0,Kiryat Malachi,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+602,Tomer Strosta,23.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+603,Hana Siton,73.0,Hod Hasharon,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+604,Tal Siton,49.0,Hod Hasharon,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+605,Yitzhak Siton,76.0,Hod Hasharon,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+606,Tawachi Saytu,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+607,Vivian Silver,74.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+608,Yossi Silberman,67.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+609,Margit Silberman,63.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+610,Tamar Kedem Siman Tov,35.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+611,Arbel Siman Tov,6.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+612,Omer Siman Tov,2.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+613,Shachar Siman Tov,6.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+614,Yehonatan (Johnny) Siman Tov,36.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+615,Carol Siman Tov,70.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+616,Ram Sela,33.0,Neve Ur,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+617,Elazar Samuelov,21.0,Ashdod,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+618,Alexander Samoilov,28.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+619,Tamar Samet,20.0,Pardes Hanna,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+620,Gina Smiatich,90.0,Kissufim,Israeli,2023-10-07,Kissufim,,31.3741608,34.3994488
+621,Chairat Sanusan,,Thailand,Thai,2023-10-07,Kissufim,,31.3741608,34.3994488
+622,Tzur Saidi,29.0,Gan HaDarom,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+623,Moshe (Moshiko) Saidian,26.0,Yavne,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+624,Nadejda Spravchikov,79.0,Netivot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+625,Rudy Skrzewski,57.0,Ohad,Israeli,2023-10-07,near Gaza,,31.416322,34.43329
+626,Yaniv Sarudi,26.0,Ashdod,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+627,Gal Abdush,34.0,Kiryat Ekron,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+628,Naji Abdush,35.0,Kiryat Ekron,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+629,Shalom Abudi,56.0,Tiberias,Israeli,2023-11-12,Dovev,,33.0524574,35.4074874
+630,Ofer Udi,42.0,Beit Shemesh,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+631,Guy Azar,23.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+632,Oz Moshe Ezra,23.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+633,Lior Atun,25.0,Hadera,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+634,Maayan Idan,18.0,Nahal Oz,Israeli,2023-10-07,Nahal Oz,,31.4727794,34.497652161839866
+635,Roi Idan,45.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+636,Dani Alush,53.0,Omer,Israeli,2023-10-18,Omer,,31.26357,34.84951
+637,Hanania Hanan Amar,38.0,Ashkelon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+638,Mercedes Oria Amar,33.0,Kiryat Ekron,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+639,Dikla Arava,51.0,Nahal Oz,Israeli,2023-10-07,Nahal Oz,,31.4727794,34.497652161839866
+640,Tomer Eliaz Arava,17.0,Nahal Oz,Israeli,2023-10-07,Nahal Oz,,31.4727794,34.497652161839866
+641,Gideon Fauker,80.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+642,Somkhoun Pansa-ard,39.0,Thailand,Thai,2023-10-07,Alumim,,31.4521295,34.5137154
+643,Yoad Pe’er,21.0,Jerusalem,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+644,Assaf Feber,23.0,Reim,Israeli,2023-10-07,Reim,,31.3848038,34.4585901
+645,Rafael Fahimi,63.0,Netivot,Israeli,2023-10-21,Netivot,,31.4213546,34.5884252
+646,Roni Polvanov,23.0,Ramla,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+647,Maya Foder,25.0,Zikhron Yaakov,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+648,Rajan Fulara,,Nepal,Nepali,2023-10-07,Alumim,,31.4521295,34.5137154
+649,Emma Poliakov,86.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+650,Evgeni Postel,25.0,Beer Sheva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+651,Vladimir Popov,74.0,Ofakim,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+652,Sofia Popov,68.0,Ofakim,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+653,Nir Nikita Popov,25.0,Ashdod,Israeli,2023-10-07,Ashdod,,31.7977314,34.6529922
+654,Roi Popplewell,54.0,Nirim,Israeli,2023-10-07,Nirim,,31.335199,34.395
+655,Nir Forti,30.0,Omer,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+656,Laura Ludmilla Furman,78.0,Ofakim,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+657,Arnan Phetrkaeo,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+658,Roni Petrovski,24.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+659,Daniella (Dana) Patrenko,23.0,Haifa,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+660,Patti Kiatisk,35.0,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+661,Nanthawat Pinjai,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+662,Tchelet Fishbein Za’arur,18.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+663,Ben Fishman,21.0,Kfar Saba,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+664,Tammy Peleg Ziv,72.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+665,Gila Peled,59.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+666,Daniel Peled,28.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+667,Izhar Peled,62.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+668,Alina Falhati,23.0,Beit Shean,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+669,Yigal Flash,66.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+670,Sindi Flash,67.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+671,Seriyut Pankitwanitchirnm,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+672,Orel Pesso,26.0,Kiryat Yam,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+673,Kobi Paryante,43.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+674,Valery Freidman,60.0,Dimona,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+675,Karina Pritika,23.0,Ariel,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+676,Noa Farage,22.0,Tel Mond,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+677,Yona Friker,60.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+678,Ziv Frenkel,22.0,Kiryat Motzkin,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+679,Dr. Marcelle Freulich,64.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+680,Hadar Prince,21.0,Gedera,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+681,Mark (Mordechai) Peretz,51.0,Rishon LeZion,Israeli,2023-10-07,Saad Junction,,31.469348,34.534417
+682,Ido Peretz,23.0,Ramat Gan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+683,Arik (Arie) Peretz,58.0,Kiryat Haim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+684,Ruth Hodaya Peretz,17.0,Kiryat Haim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+685,Thanakrit Prakotwong,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+686,Ashish Chaudhary,25.0,Nepal,Nepali,2023-10-07,near Gaza,,31.416322,34.43329
+687,Israel Chana,30.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+688,Yulia Chaban,24.0,Arad,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+689,Omer Zadikevitch,50.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+690,Saksit Khotmee,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+691,Dado Tsafir,45.0,Ashkelon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+692,Hai Zfati,27.0,Kiryat Ata,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+693,Jaroon Chatdumdee,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+694,Gracie Cabrera,45.0,Philippines,Philippine,2023-10-07,Beeri,,31.424554,34.489927
+695,Shahar Gal Kadman,34.0,Yesha,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+696,Srithat Kawao,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+697,Saksit Khotmee,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+698,Apichart Gusaram,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+699,Phongphat Suchat,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+700,Yitzhak Cozin,72.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+701,Ganesh Kumar Nepali,20.0,Nepal,Nepalese,2023-10-07,Alumim,,31.4521295,34.5137154
+702,Irit Konderov,27.0,Ashkelon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+703,Ylena Kostizin,78.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+704,Pongsatorn Khunsree,25.0,Thailand,Thai,2023-10-07,Alumim,,31.4521295,34.5137154
+705,Shani Kupervaser,28.0,Haifa,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+706,Zelta Kosovski,28.0,Kiryat Gat,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+707,Aviv Kutz,54.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+708,Yonatan Kutz,16.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+709,Yiftah Kutz,14.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+710,Livnat Kutz,50.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+711,Igor Korcher,72.0,Ofakim,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+712,Tehila Katabi,32.0,Holit,Israeli,2023-10-07,Holit,,31.2318728,34.3265102
+713,Segev Israel Kishner,22.0,Atzmon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+714,Hila Klein,41.0,Mazkeret Batya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+715,Lily Keizman,63.0,Holit,Israeli,2023-10-07,Holit,,31.2318728,34.3265102
+716,Arnatit Kayson,29.0,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+717,Ofek Kimhi,22.0,Bat Yam,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+718,Daniel Kimmenfeld,64.0,Ashkelon,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+719,Linor Keinan,23.0,Mazkeret Batya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+720,Lilach Kipnis,60.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+721,Eviatar Kipnis,65.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+722,Savyon Chen Kipper,31.0,Kiryat Ono,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+723,Rotem Kalderon,66.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+724,Ma’ayan Kalihman,22.0,Nir Banim,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+725,Theerapong Klangsuwan,,Thailand,Thai,2023-10-07,Kissufim,,31.3741608,34.3994488
+726,Stav Kimhi,35.0,Talmei Yossef,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+727,Jonathan Meir Ken-Dror,28.0,Hod Hasharon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+728,Keshet Kasruti-Kalfa,22.0,Samar,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+729,Paul Vincent Castelvi,42.0,Philippines,Philippine,2023-10-07,Beeri,,31.424554,34.489927
+730,Evgeny Kapshetar,36.0,Dimona,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+731,Dina Kapshetar,35.0,Dimona,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+732,Aline Kapshetar,8.0,Dimona,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+733,Eitan Kapshetar,5.0,Dimona,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+734,Avraham (Rami) Katzir,78.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+735,David Katzir,72.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+736,Galit Carbone,66.0,Hod Hasharon,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+737,David Karol,72.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+738,Shachaf Kreif,17.0,Gilat,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+739,Chana Kritzman,88.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+740,Tal Keren,17.0,Netiv HaAsara,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+741,Dvir Karp,46.0,Reim,Israeli,2023-10-07,Reim,,31.3848038,34.4585901
+742,Moriah Raviv,23.0,Kiryat Motzkin,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+743,Niv Raviv,27.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+744,Ofek Rabia,23.0,Beit Arye,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+745,Yuval Rabia,33.0,Yesha,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+746,Noam Rabia,30.0,Yesha,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+747,Shai Regev,25.0,Ramat Yishai,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+748,Michal Roimi,23.0,Nesher,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+749,Yvonne Eden Patricia Rubio Vargas,27.0,Kfar Saba,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+750,Jana Roderman,48.0,Ashkelon,Israeli,2023-10-07,Ashkelon,,31.6687545,34.57404853627754
+751,Yael Rozman,26.0,Kfar Saba,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+752,Matan Rosenburg,17.0,Dimona,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+753,Yehonatan Rom,23.0,Mevaseret Zion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+754,Olga Naomi Romashkin,28.0,Petah Tikva,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+755,Ofer Ron,70.0,Kissufim,Israeli,2023-10-07,Kissufim,,31.3741608,34.3994488
+756,Tzvi Shlomo Ron,78.0,Nahal Oz,Israeli,2023-10-07,Nahal Oz,,31.4727794,34.497652161839866
+757,Nira Ronen,86.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+758,Yehezkel (Hezi) Razilov,30.0,Katzrin,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+759,Nitzan Rahum,28.0,Pardesiya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+760,Aviel Shalom Rahamim,27.0,Merkaz Shapira,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+761,Rabbi Binyamin Rahamim,52.0,Ofakim,Israeli,2023-10-07,Ofakim,,31.3067921,34.61821999590485
+762,Dvir Rahamim,23.0,Ashdod,Israeli,2023-10-07,Reim,,31.3848038,34.4585901
+763,Anula Jayathilaka,49.0,Shri Lanka,Shri Lankian,2023-10-07,Beeri,,31.424554,34.489927
+764,Gideon Harel Rivlin,18.0,Otniel,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+765,Moshe Ridler,91.0,Holit,Israeli,2023-10-07,Holit,,31.2318728,34.3265102
+766,Dor Rider,21.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+767,Eliyahu (Eliko) Reichenstein,75.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+768,Yonatan Richter,48.0,Ein Hod,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+769,Meechai Ritthiphon,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+770,Omri Ram,29.0,Aseret,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+771,Eli Refai,42.0,Yavne,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+772,Sharon Refai,28.0,Yavne,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+773,Dr. Hagit Refaeli Mishkin,48.0,Hod Hasharon,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+774,Yonatan Rapaport,40.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+775,Chai Recsanun,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+776,Robert Shaulov,70.0,Ashdod,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+777,Elia Shametz,35.0,Haifa,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+778,Tomer Segev,30.0,Herzliya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+779,Sivan Sharhabani,21.0,Ramat Gan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+780,Moshe Shova,33.0,Kfar Yona,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+781,David Alberto Schwartzman,67.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+782,Orly Schwartzman Pinko,67.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+783,Ziv Shopen,56.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+784,Segev Shushan,28.0,Modiin,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+785,Mira Shtahl,54.0,Kfar Azza,Israeli,2023-10-07,Kfar Azza,,31.4833351,34.5333225
+786,Roni Shitrit,24.0,Beit Yitzhak,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+787,Naomi Shitrit Azulay,52.0,Sderot,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+788,Noam Shai,26.0,Kfar Tavor,Israeli,2023-10-07,Reim,,31.3848038,34.4585901
+789,Daniel Sheinkerman,25.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+790,Mark Shindel,23.0,Kfar Yona,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+791,Bar Shechter,32.0,Katzir,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+792,David Shalev,75.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+793,Tal Shalev,34.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+794,Shai Shalev,50.0,Ahuzat Barak,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+795,Noam Shalon,25.0,Harish,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+796,Ram Shalom,25.0,Givat Zeev,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+797,Assaf Shlesinger,57.0,Rosh HaAyin,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+798,Sharona Shmunis Harel,40.0,Rishon LeZion,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+799,Inbar Shem Tov,22.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+800,Alon Shamli,34.0,Bat Yam,Israeli,2023-10-08,"Alexandria, Egypt",,31.1991806,29.8951716
+801,Ben Shimoni,31.0,Ashkelon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+802,Yaakov (Kobi) Shmaiya,47.0,Beer Sheva,Israeli,2023-10-07,Reim,,31.3848038,34.4585901
+803,Ron Shemer,23.0,Lod,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+804,Tatiana Schnitman,70.0,Ofakim,Israeli,2023-10-07,Sderot,,31.53288635,34.5937376656627
+805,Eitan Snir,21.0,Ahuzat Barak,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+806,Dor Hanan Shafir,30.0,Modiin,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+807,Yirmiyahu (Yirmi) Shafir,75.0,Nir Oz,Israeli,2023-10-07,Nir Oz,,31.3095982,34.400815
+808,Ziv Pepe Shapira,26.0,Nir Am,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+809,Tomer Shpirer,37.0,Gedera,Israeli,2023-10-07,Mefalsim,,31.5026787,34.5621232
+810,Ran Shefer,48.0,Beeri,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+811,Dudi Sharon,47.0,Nahariya,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+812,Liam Shrem,25.0,Tel Aviv-Yafo,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+813,Yahel Sharabi,13.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+814,Lian Sharabi,48.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+815,Noya Sharabi,16.0,Beeri,Israeli,2023-10-07,Beeri,,31.424554,34.489927
+816,Padam Thapa,,Nepal,Nepali,2023-10-07,Alumim,,31.4521295,34.5137154
+817,Bar Tomer,26.0,Ein Shemer,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+818,Avidan Turgeman,26.0,Masuot Yitzhak,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+819,Dudi Turgeman,26.0,Sde Nitan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+820,Shoham Lia Turgeman,24.0,Beit Shean,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+821,Phithak Tholaeng,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+822,Niv Tel Tzur,22.0,Ramat Gan,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+823,Adir Tamam,40.0,Holon,Israeli,2023-10-07,Nova Music Festival,,31.397778,34.471667
+824,Phirun Thanonphim,,Thailand,Thai,2023-10-07,near Gaza,,31.416322,34.43329
+825,Or Tasa,16.0,Netiv HaAsara,Israeli,2023-10-07,Zikim Beach,,31.6124626,34.50432
+826,Lior Rudaeff,61.0,Nir Yitzhak,Israeli,2023-10-07,Gaza,"May 7, 2024",31.4432234,34.360007
+827,Elyakim Libman,24.0,Unknown,Israeli,2023-10-07,Gaza,"May 3, 2024",31.4432234,34.360007
+828,Wolderaphael (Tiger) Hagos Berhe,40.0,Unknown,Eritrean,2023-10-07,Sderot,,31.53288635,34.5937376656627

@@ -1,547 +1,547 @@
-;name;age;hometown;rank;murder_date;is_reservist;rank_fixed
-0;Haim Sabach;20.0;Holon;Staff Sergeant;2024-05-08;0;Staff Sergeant
-1;Dan Kamkagi;31.0;Kfar HaOranim;Master Sergeant;2024-05-06;1;Sergeant First Class
-2;Michael Ruzal;18.0;Rishon LeZion;Sergeant;2024-05-05;0;Sergeant
-3;Ido Testa;19.0;Jerusalem;Staff Sergeant;2024-05-05;0;Staff Sergeant
-4;Ruben Marc Mordechai Assouline;18.0;Ranana;Staff Sergeant;2024-05-05;0;Staff Sergeant
-5;Ido Aviv;28.0;Carmiel;Master Sergeant;2024-04-28;1;Sergeant First Class
-6;Salm Alkreshat;42.0;Abu-Rabia;Sergeant First Class;2024-04-22;0;Staff Sergeant
-7;Dor Zimel;27.0;Even Yehuda;Major;2024-04-21;1;Major
-8;Reef Harush;20.0;Kibbutz Ramat David;Sergeant;2024-04-06;0;Sergeant
-9;Ido Baruch;21.0;Tel Mond;Captain;2024-04-06;0;Captain
-10;Amitai Even Shoshan;20.0;Moshav Azri'el;Sergeant;2024-04-06;0;Sergeant
-11;Nadav Cohen;20.0;Haifa;Staff Sergeant;2024-03-31;0;Staff Sergeant
-12;Alon Kudriashov;21.0;Modiin;Sergeant Major;2024-03-29;0;Sergeant Major
-13;Nissim Kachlon;21.0;Hadera;Staff Sergeant;2024-03-27;0;Staff Sergeant
-14;Lior Raviv;21.0;Rishon LeZion;Staff Sergeant;2024-03-23;0;Staff Sergeant
-15;Ilay David Garfinkel;21.0;Moshav Sitria;Sergeant Major;2024-03-22;0;Sergeant Major
-16;Sebastian Haion;51.0;Rosh HaAyin;Warrant Officer;2024-03-19;1;Warrant Officer
-17;Matan Vinogradov;20.0;Jerusalem;Staff Sergeant;2024-03-18;0;Staff Sergeant
-18;Daniel Perez;22.0;Yad Binyamin;Captain;2024-03-17;0;Captain
-19;Uri Moyal;51.0;Dimona;Command Sergeant Major;2024-03-14;0;Command Sergeant Major
-20;Itay Hen;19.0;Netanya;Staff Sergeant;2024-03-12;0;Staff Sergeant
-21;Michael Gal;29.0;Jerusalem;Sergeant First Class;2024-03-10;1;Staff Sergeant
-22;Amishar Ben David;43.0;Eli;Major;2024-03-08;1;Major
-23;David Sasson;21.0;Ganot Hadar;Staff Sergeant;2024-03-06;0;Staff Sergeant
-24;Dennis Yekimov;33.0;Beer Sheva;Sergeant Major;2024-03-02;1;Sergeant Major
-25;Inon Itzhak;20.0;Mitzpe Ramon;Sergeant;2024-03-01;0;Sergeant
-26;Dolev Malca;19.0;Shlomi;Sergeant;2024-03-01;0;Sergeant
-27;Itai Seif;24.0;Yeruham;Captain;2024-02-27;0;Captain
-28;Oz Daniel;19.0;Kfar Saba;Sergeant;2024-02-25;0;Sergeant
-29;Ido Eli Zrihen;20.0;Jerusalem;Staff Sergeant;2024-02-24;0;Staff Sergeant
-30;Eyal Shuminov;24.0;Karmiel;Major;2024-02-24;0;Major
-31;Avraham Wovagen;21.0;Netanya;Staff Sergeant;2024-02-20;0;Staff Sergeant
-32;Maoz Morell;22.0;Talmon;Staff Sergeant;2024-02-19;0;Staff Sergeant
-33;Simon Shlomov;20.0;Kiriat Bialik;Staff Sergeant;2024-02-18;0;Staff Sergeant
-34;Ori Yaish;27.0;Modiin;Sergeant First Class;2024-02-16;1;Staff Sergeant
-35;Noam Haba;21.0;Jerusalem;Staff Sergeant;2024-02-15;0;Staff Sergeant
-36;Omer Sarah Benjo;20.0;Moshav Ge'a;Staff Sergeant;2024-02-14;0;Staff Sergeant
-37;Yair Cohen;30.0;Ramat Gan;Major;2024-02-12;1;Major
-38;Ziv Chen;27.0;Kfar Saba;Sergeant First Class;2024-02-12;1;Staff Sergeant
-39;Adi Eldor;21.0;Haifa;Sergeant First Class;2024-02-11;0;Staff Sergeant
-40;Hanan Drori;26.0;Jerusalem;Staff Sergeant;2024-02-07;0;Staff Sergeant
-41;David Shakuri;30.0;Rehovot;Major;2024-02-06;0;Major
-42;Shimon Yehoshua Asulin;24.0;Beit Shemesh;Sergeant First Class;2024-02-03;1;Staff Sergeant
-43;Yitzhar Hofman;36.0;Eshhar;Major;2024-01-31;1;Major
-44;Yuval Nir;43.0;Kfar Etzion;Warrant Officer;2024-01-30;1;Warrant Officer
-45;Netzer Simchi;30.0;Masad;Major;2024-01-30;1;Major
-46;Eliran Yeger;36.0;Tel Aviv;Sergeant Major;2024-01-25;1;Sergeant Major
-47;Zegeye Daniel Kasau;38.0;Yokneam Illit;Sergeant Major;2024-01-22;1;Sergeant Major
-48;Itamar Tal;32.0;Kibbutz Mesilot;Sergeant Major;2024-01-22;1;Sergeant Major
-49;Adam Bismut;33.0;Karnei Shomron;Sergeant Major;2024-01-22;1;Sergeant Major
-50;Ahmad Abu Latif;26.0;Rahat;Sergeant First Class;2024-01-22;1;Staff Sergeant
-51;Ariel Mordechay Wollfstal;28.0;Elazar;Captain;2024-01-22;1;Captain
-52;Elkana Vizel;35.0;Bnei Dekalim;Master Sergeant;2024-01-22;0;Sergeant First Class
-53;Nir Binyamin;29.0;Givatayim;Captain;2024-01-22;1;Captain
-54;Sagi Idan;24.0;Rosh HaAyin;Sergeant First Class;2024-01-22;1;Staff Sergeant
-55;Mark Kononovich;35.0;Herzliya;Sergeant Major;2024-01-22;1;Sergeant Major
-56;Israel Socol;24.0;Karnei Shomron;Sergeant First Class;2024-01-22;0;Staff Sergeant
-57;Rafael Elias Mosheyoff;33.0;Pardes Hanna-Karkur;Sergeant Major;2024-01-22;1;Sergeant Major
-58;Barak Haim Ben Valid;33.0;Rishon LeZion;Sergeant Major;2024-01-22;1;Sergeant Major
-59;Cydrick Garin;23.0;Tel Aviv;Sergeant First Class;2024-01-22;1;Staff Sergeant
-60;Nicholas Berger;22.0;Jerusalem;Sergeant First Class;2024-01-22;1;Staff Sergeant
-61;Yoav Levi;29.0;Yehud-Monosson;Master Sergeant;2024-01-22;1;Sergeant First Class
-62;Elkana Yehuda;25.0;Kiriat Arba;Sergeant First Class;2024-01-22;1;Staff Sergeant
-63;Sergey Gontmaherr;37.0;Ramat Gan;Sergeant Major;2024-01-22;1;Sergeant Major
-64;Hadar Kapeluk;23.0;Moshav Mevo Beitar;Sergeant First Class;2024-01-22;1;Staff Sergeant
-65;Matan Lazar;32.0;Haifa;Sergeant Major;2024-01-22;1;Sergeant Major
-66;Yoval Lopez;27.0;Alon Shvut;Sergeant First Class;2024-01-22;1;Staff Sergeant
-67;Eyal Mevorach Twito;22.0;Moshav Beit Gamliel;Captain;2024-01-22;0;Captain
-68;Ilay Levy;24.0;Tel Aviv;Major;2024-01-22;0;Major
-69;David Nati Alfasi;27.0;Beer Sheva;Major;2024-01-22;0;Major
-70;Uriel Aviad Silberman;23.0;Moshav Nehalim;Sergeant First Class;2024-01-19;1;Staff Sergeant
-71;Ori Gerby;20.0;Herzliya;Staff Sergeant;2024-01-18;0;Staff Sergeant
-72;Anwar Serhan;26.0;Hurfeish;Master Sergeant;2024-01-17;0;Sergeant First Class
-73;Zechariah Pesach Haber;32.0;Jerusalem;Master Sergeant;2024-01-16;1;Sergeant First Class
-74;Noam Ashram;37.0;Kfar Saba;Sergeant Major;2024-01-16;1;Sergeant Major
-75;Nitzan Schessler;21.0;Hadera;Sergeant First Class;2024-01-15;1;Staff Sergeant
-76;Barak Ayalon;45.0;Moshav Kfar Yuval;Sergeant First Class;2024-01-14;1;Staff Sergeant
-77;Andu’alem Kabeda;21.0;Kiriat Gat;Sergeant First Class;2024-01-13;1;Staff Sergeant
-78;Dan Wajdenbaum;24.0;Raanana;Master Sergeant;2024-01-12;1;Sergeant First Class
-79;Elkana Newlander;24.0;Efrat;Sergeant First Class;2024-01-09;1;Staff Sergeant
-80;Akiva Yasinskiy;35.0;Ramat Gan;Sergeant Major;2024-01-08;1;Sergeant Major
-81;Denis Krokhmalov Veksler;32.0;Beer Sheva;Captain;2024-01-08;1;Captain
-82;Ron Efrimi;26.0;Hod Hasharon;Captain;2024-01-08;1;Captain
-83;Amit Shahar;25.0;Kibbutz Ramat Yohanan;Master Sergeant;2024-01-08;1;Sergeant First Class
-84;David Schwartz;27.0;Elazar;Sergeant First Class;2024-01-08;1;Staff Sergeant
-85;Gavriel Bloom;27.0;Beit Shemesh;Sergeant First Class;2024-01-08;1;Staff Sergeant
-86;Roi Tal;19.0;Kfar Yehoshua;Sergeant;2024-01-08;0;Sergeant
-87;Yakir Hexter;26.0;Jerusalem;Sergeant First Class;2024-01-08;1;Staff Sergeant
-88;Roee Yohay Yosef Mordechay;31.0;Tel Aviv;Lieutenant Colonel;2024-01-06;0;Lieutenant Colonel
-89;Sufian Dagash;21.0;Maghar;Staff Sergeant;2024-01-02;0;Staff Sergeant
-90;Amichai Yisrael Yehoshua Oster;24.0;Karnei Shomron;Sergeant First Class;2024-01-01;1;Staff Sergeant
-91;Liav Seada;23.0;Tiberias;Sergeant First Class;2023-12-31;1;Staff Sergeant
-92;Eliraz Gabai;37.0;Petah Tikva;Sergeant Major;2023-12-30;1;Sergeant Major
-93;Harel Ittah;22.0;Netanya;Captain;2023-12-30;0;Captain
-94;Harel Sharvit;33.0;Kokhav Ya’akov;Captain;2023-12-29;1;Captain
-95;Dvir David Fima;32.0;Kfar Yona;Major;2023-12-27;0;Major
-96;Asaf Pinhas Tubul;22.0;Kiriat Motzkin;Sergeant First Class;2023-12-27;1;Staff Sergeant
-97;Efraim Yachman;21.0;Neve Daniel;Staff Sergeant;2023-12-27;0;Staff Sergeant
-98;Itay Buton;20.0;Petah Tikva;Staff Sergeant;2023-12-27;0;Staff Sergeant
-99;Yaron Eliezer Chitiz;23.0;Raanana;Lieutenant;2023-12-27;0;Lieutenant
-100;Shaul Greenglick;26.0;Raanana;Captain;2023-12-26;1;Captain
-101;Shay Shamriz;26.0;Merkaz Shapira;Major;2023-12-26;0;Major
-102;Joseph Gitarts;25.0;Tel Aviv;Sergeant First Class;2023-12-25;0;Staff Sergeant
-103;Daniel Nachmani;21.0;Kfar Saba;Staff Sergeant;2023-12-24;0;Staff Sergeant
-104;Nitai Meisels;30.0;Rehovot;Master Sergeant;2023-12-24;1;Sergeant First Class
-105;Aryeh Rein;39.0;Kibbutz Mishmarot;Major;2023-12-24;1;Major
-106;Roy Elias;21.0;Moshav Tzofar;Staff Sergeant;2023-12-23;0;Staff Sergeant
-107;Itamar Shemen;21.0;Lapid;Staff Sergeant;2023-12-23;0;Staff Sergeant
-108;Orel Bashan;20.0;Haifa;Staff Sergeant;2023-12-23;0;Staff Sergeant
-109;David Bogdanovskyi;19.0;Haifa;Staff Sergeant;2023-12-23;0;Staff Sergeant
-110;Ohad Ashur;23.0;Kfar Yona;Sergeant First Class;2023-12-23;1;Staff Sergeant
-111;Elyassaf Shoshan;23.0;Jerusalem;Sergeant First Class;2023-12-23;1;Staff Sergeant
-112;Eliyahu Meir Ohana;28.0;Haifa;Master Sergeant;2023-12-23;1;Sergeant First Class
-113;Nadav Issachar Farhi;30.0;Herzliya;Master Sergeant;2023-12-23;1;Sergeant First Class
-114;Oshri Moshe Butzhak;22.0;Haifa;Captain;2023-12-23;0;Captain
-115;Alexander Shpits;41.0;Carmiel;Warrant Officer;2023-12-22;1;Warrant Officer
-116;Birhanu Kassie;22.0;Beit Shemesh;Staff Sergeant;2023-12-22;0;Staff Sergeant
-117;Nir Rafael Kananian;20.0;Kibbutz Beit Keshet;Staff Sergeant;2023-12-22;0;Staff Sergeant
-118;Amit Hod Ziv;19.0;Rosh HaAyin;Sergeant;2023-12-22;0;Sergeant
-119;Shai Ayeli;21.0;Ashkelon;Lieutenant;2023-12-21;0;Lieutenant
-120;Lavi Ghasi;19.0;Hashmonaim;Sergeant;2023-12-20;0;Sergeant
-121;Omri Shwartz;21.0;Moshav Shadmot Dvora;Lieutenant;2023-12-20;0;Lieutenant
-122;Uriel Cohen;33.0;Tzur Hadassah;Master Sergeant First Class;2023-12-19;1;Sergeant First Class
-123;Maoz Fenigstein;25.0;Susya;Master Sergeant First Class;2023-12-19;1;Sergeant First Class
-124;Rotem Yoseff Levy;24.0;Oranit;Captain;2023-12-18;1;Captain
-125;Netanel Silberg;33.0;Moshav Na'ama;Captain;2023-12-18;1;Captain
-126;Yarin Gahali;22.0;Rehovot;Captain;2023-12-18;0;Captain
-127;Lidor Yosef Karavani;23.0;Eilat;Sergeant First Class;2023-12-17;1;Staff Sergeant
-128;Etan Naeh;26.0;Kibbutz Sde Eliyahu;Master Sergeant;2023-12-17;0;Sergeant First Class
-129;Liav Aloush;21.0;Gedera;Sergeant First Class;2023-12-17;0;Staff Sergeant
-130;Urija Bayer;20.0;Ma'alot-Tarshiha;Sergeant First Class;2023-12-17;0;Staff Sergeant
-131;Boris Dunavetski;21.0;Kiriat Bialik;Staff Sergeant;2023-12-17;0;Staff Sergeant
-132;Joseph Avner Doran;26.0;Jerusalem;Master Sergeant;2023-12-16;1;Sergeant First Class
-133;Yehezkel Azaria;53.0;Petah Tikva;Warrant Officer;2023-12-16;1;Warrant Officer
-134;Tomer Shlomo Myara;28.0;Netanya;Master Sergeant;2023-12-15;1;Sergeant First Class
-135;Ron Sherman;19.0;Lehavim;Sergeant;2023-12-15;0;Sergeant
-136;Nik Beizer;19.0;Beer Sheva;Corporal;2023-12-15;0;Corporal
-137;Oz Shmuel Aradi;19.0;Kibbutz Hatsor;Sergeant;2023-12-14;0;Sergeant
-138;Elisha Levinshtern;38.0;Harish;Master Sergeant;2023-12-13;0;Sergeant First Class
-139;Itzhak Ben Basat;44.0;Moshav Sde Ya’akov;Colonel;2023-12-12;0;Colonel
-140;Rom Hecht;20.0;Givatayim;Sergeant First Class;2023-12-12;0;Staff Sergeant
-141;Ben Shelly;26.0;Moshav Kidron;Major;2023-12-12;0;Major
-142;Liel Hayo;22.0;Shoham;Captain;2023-12-12;0;Captain
-143;Oriya Yaakov;19.0;Ashkelon;Staff Sergeant;2023-12-12;0;Staff Sergeant
-144;Achia Daskal;19.0;Haifa;Sergeant;2023-12-12;0;Sergeant
-145;Moshe Avram Bar On;23.0;Raanana;Major;2023-12-12;0;Major
-146;Roei Meldas;23.0;Afula;Major;2023-12-12;0;Major
-147;Tomer Grinberg;35.0;Kibbutz Almog;Lieutenant Colonel;2023-12-12;0;Lieutenant Colonel
-148;Tzvika Lavi;30.0;Eli;Master Sergeant;2023-12-11;1;Sergeant First Class
-149;Gal Becher;36.0;Oranit;Major;2023-12-10;0;Major
-150;Eliya Yanovsky;24.0;Jerusalem;Captain;2023-12-10;1;Captain
-151;Roman Bronshtein;46.0;Bat Yam;Major;2023-12-10;1;Major
-152;Evyatar Cohen;42.0;Kfar Saba;Major;2023-12-10;1;Major
-153;Etay Perry;36.0;Modiin;Sergeant Major;2023-12-10;1;Sergeant Major
-154;Gideon Ilani;35.0;Asa'el;Sergeant Major;2023-12-10;1;Sergeant Major
-155;Nethanel Menachem Eitan;22.0;Jerusalem;Lieutenant;2023-12-10;0;Lieutenant
-156;Haim Meir Eden;20.0;Rehovot;Staff Sergeant;2023-12-09;0;Staff Sergeant
-157;Jonatan Dean Jr Haim ;;;Staff Sergeant;2023-12-08;0;Staff Sergeant
-158;Liav Atiya;25.0;beer Sheva;Master Sergeant;2023-12-08;1;Sergeant First Class
-159;Omri Ben Shachar;25.0;Givatayim;Master Sergeant;2023-12-08;1;Sergeant First Class
-160;Maor Cohen Eisenkot;19.0;Eilat;Sergeant;2023-12-08;0;Sergeant
-161;Eyal Meir Berkowitz;28.0;Jerusalem;Master Sergeant;2023-12-07;1;Sergeant First Class
-162;Jonathan David Deitch;34.0;Harish;Sergeant Major;2023-12-07;1;Sergeant Major
-163;Kobi Dvash;41.0;Tiberias;Sergeant Major;2023-12-07;1;Sergeant Major
-164;Gal Meir Eisenkot;25.0;Herzliya;Master Sergeant;2023-12-07;1;Sergeant First Class
-165;Maor Gershoni;24.0;Yokneam Illit;Sergeant First Class;2023-12-06;1;Staff Sergeant
-166;Amit Bonzel;22.0;Shoham;Staff Sergeant;2023-12-06;0;Staff Sergeant
-167;Adi Shani;39.0;Tzur Yitzhak;Sergeant Major;2023-12-06;1;Sergeant Major
-168;Yochai Gur Hershberg;52.0;Philip Farms;Lieutenant Colonel;2023-12-05;0;Lieutenant Colonel
-169;Ilay Eliyahu Cohen;23.0;Moshav Beit Nehemia;Master Sergeant;2023-12-05;1;Sergeant First Class
-170;Matan Damari;31.0;Dimona;Master Sergeant;2023-12-05;1;Sergeant First Class
-171;Yahel Gazit;21.0;Rakefet;Captain;2023-12-04;0;Captain
-172;Eitan Fisch;23.0;Pedu’el;Captain;2023-12-04;0;Captain
-173;Yakir Yedidya Schenkolewski;21.0;Migdal Oz;Sergeant;2023-12-04;0;Sergeant
-174;Tuval Yaakov Tsanani;20.0;Kiriat Gat;Staff Sergeant;2023-12-04;0;Staff Sergeant
-175;Binyamin Yehoshua Needham;19.0;Zikhron Ya’akov;Sergeant;2023-12-03;0;Sergeant
-176;Ben Zussman;22.0;Jerusalem;Sergeant First Class;2023-12-03;1;Staff Sergeant
-177;Or Brandes;25.0;Shoham;Sergeant First Class;2023-12-02;1;Staff Sergeant
-178;Eitan Dov Rosenzweig;21.0;Alon Shvut;Staff Sergeant;2023-11-22;0;Staff Sergeant
-179;Liron Snir;25.0;Ofra;Captain;2023-11-21;0;Captain
-180;Arnon Moshe Avraham Benvenisti Vaspi;26.0;Moshav Yesud HaMa'ala;Captain;2023-11-20;1;Captain
-181;Eytan Dishon;21.0;Jerusalem;Staff Sergeant;2023-11-20;0;Staff Sergeant
-182;Yinon Tamir;20.0;Pardes Hanna-Karkur;Sergeant;2023-11-20;0;Sergeant
-183;Adir Portugal;23.0;Mazkeret Batya;Lieutenant;2023-11-19;1;Lieutenant
-184;Dvir Barazani;20.0;Jerusalem;Staff Sergeant;2023-11-19;0;Staff Sergeant
-185;Yakir Biton;34.0;Jerusalem;Master Sergeant;2023-11-18;1;Sergeant First Class
-186;Rani Tahan;40.0;Kibbutz Sde Nehemia;Sergeant Major;2023-11-18;1;Sergeant Major
-187;Shlomo Gurtovnik;21.0;Modi’in-Maccabim-Reut;Staff Sergeant;2023-11-18;0;Staff Sergeant
-188;Eden Provisor;21.0;Alfei Menashe;Captain;2023-11-18;0;Captain
-189;Adi Malik Harb;19.0;Beit Jann;Staff Sergeant;2023-11-18;0;Staff Sergeant
-190;Jamal Abbas;23.0;Peki'in;Major;2023-11-18;0;Major
-191;Shachar Fridman;21.0;Jerusalem;Staff Sergeant;2023-11-18;0;Staff Sergeant
-192;Binyamin Meir Airly;21.0;Beit Shemesh;Sergeant;2023-11-18;0;Sergeant
-193;Roey Biber;28.0;Moshav Tzur Moshe;Captain;2023-11-18;1;Captain
-194;Avraham Fetena;20.0;Haifa;Corporal;2023-11-16;0;Corporal
-195;Asaf;22.0;Kibbutz Bahan;Captain Master;2023-11-15;0;Captain
-196;Noa Marciano;19.0;Modiin;Corporal;2023-11-14;0;Corporal
-197;Yedidya Asher Lev;26.0;Tal Menashe;Captain;2023-11-14;0;Captain
-198;Raz Abulafia;27.0;Moshav Rishpon;Master Sergeant;2023-11-13;1;Sergeant First Class
-199;Isachar Natan;28.0;Kiriat Malachi;Major;2023-11-12;0;Major
-200;Matan Meir;38.0;Moshav Odem;Master Sergeant;2023-11-10;1;Sergeant First Class
-201;Yossi Hershkovitz;44.0;Gva'ot;Sergeant Major;2023-11-10;1;Sergeant Major
-202;Moshe Yedidyah Leiter;39.0;Kibbutz Ein Tzurim;Major;2023-11-10;1;Major
-203;Sergey Shmerkin;32.0;Kiriat Shemona;Master Sergeant;2023-11-10;1;Sergeant First Class
-204;Netanel (Nati) Harush;34.0;Jerusalem;Master Sergeant;2023-11-10;1;Sergeant First Class
-205;Gilad Rozenblit;21.0;Kibbutz Ginegar;Staff Sergeant;2023-11-09;0;Staff Sergeant
-206;Eliahou Benjamin Elmakayes;29.0;Jerusalem;Sergeant First Class;2023-11-08;1;Staff Sergeant
-207;Jonathan Chazor;22.0;Katzir;Sergeant First Class;2023-11-07;0;Staff Sergeant
-208;Shahar Cohen Mivtach;22.0;Carmiel;Staff Sergeant;2023-11-05;0;Staff Sergeant
-209;Salman Habka;33.0;Yanuh-Jat;Lieutenant Colonel;2023-11-02;0;Lieutenant Colonel
-210;Uriah Mash;41.0;Talmon;Master Sergeant;2023-11-02;1;Sergeant First Class
-211;Yehonatan Yosef Brand;28.0;Jerusalem;Master Sergeant;2023-11-02;1;Sergeant First Class
-212;Gil Pishitz;39.0;Harish;Sergeant Major;2023-11-02;1;Sergeant Major
-213;Yair Nifousy;20.0;Adi;Staff Sergeant;2023-11-02;0;Staff Sergeant
-214;Elhanan Ariel Klein;;Einav;Sergeant First Class;2023-11-02;1;Staff Sergeant
-215;Itay Saadon;;Har Halutz;Staff Sergeant;2023-11-02;0;Staff Sergeant
-216;Shalev Zion Sharabi;22.0;Teneh Omarim;Sergeant First Class;2023-11-01;1;Staff Sergeant
-217;Ariel Reich;21.0;Jerusalem;Captain;2023-10-31;0;Captain
-218;Halel Solomon;20.0;Dimona;Staff Sergeant;2023-10-31;0;Staff Sergeant
-219;Asif Luger;21.0;Kibbutz Yagur;Sergeant;2023-10-31;0;Sergeant
-220;Erez Mishlovsky;20.0;Oranit;Staff Sergeant;2023-10-31;0;Staff Sergeant
-221;Adi Leon;20.0;Nili;Staff Sergeant;2023-10-31;0;Staff Sergeant
-222;Ido Ovadia;19.0;Tel Aviv;Sergeant;2023-10-31;0;Sergeant
-223;Lior Siminovich;19.0;Herzliya;Sergeant;2023-10-31;0;Sergeant
-224;Roei Dawi;20.0;Jerusalem;Staff Sergeant;2023-10-31;0;Staff Sergeant
-225;Pdaya Menachem Mark;;Otniel;Lieutenant;2023-10-31;0;Lieutenant
-226;Roei Sargosti;;Nahal Haroe Farm;Staff Sergeant;2023-10-31;0;Staff Sergeant
-227;Itay Yehuda;20.0;Rishon LeZion;Staff Sergeant;2023-10-31;0;Staff Sergeant
-228;Shay Arvas;20.0;Holon;Staff Sergeant;2023-10-31;0;Staff Sergeant
-229;Roei Wolf;;Ramat Gan;Staff Sergeant;2023-10-30;0;Staff Sergeant
-230;Yinon Fleishman;31.0;Jerusalem;Sergeant First Class;2023-10-29;1;Staff Sergeant
-231;Shoam Moshe Ben-Harush;20.0;Moshav Haspin;Staff Sergeant;2023-10-26;0;Staff Sergeant
-232;Meidan Israel;35.0;Moshav Yarhiv;Lieutenant Colonel;2023-10-25;0;Lieutenant Colonel
-233;Tamir Barak;19.0;Kibbutz Nir Elyahu;Sergeant;2023-10-22;0;Sergeant
-234;Omer Balva;22.0;Herzliya;Sergeant First Class;2023-10-20;1;Staff Sergeant
-235;Liel Vainshtein;19.0;Netanya;Sergeant;2023-10-15;0;Sergeant
-236;Omer Nissim Bitan;22.0;Binyamina;Sergeant First Class;2023-10-14;1;Staff Sergeant
-237;Yakov Nedlin;36.0;Or Akiva;Captain;2023-10-13;1;Captain
-238;Adi Odeya Borech;22.0;Kiriat Netafim;Staff Sergeant;2023-10-12;1;Staff Sergeant
-239;Yuval Yoffe;21.0;Moshav Tzofit;Lieutenant;2023-10-11;0;Lieutenant
-240;Itai Moreno;24.0;Moshav Aderet;Master Sergeant;2023-10-11;1;Sergeant First Class
-241; Master Ido Keslasi;23.0;Kibbutz Harel;Sergeant;2023-10-11;1;Sergeant
-242;Amichay Shimon Rubin;23.0;Acre;Sergeant;2023-10-10;0;Sergeant
-243;Dor Sade;22.0;Moshav Arugot;Captain;2023-10-09;0;Captain
-244;Matanya Alster;23.0;Moshav Sde Ilan;Sergeant First Class;2023-10-09;1;Staff Sergeant
-245;Ofir Yeruchin;19.0;Givat Shmuel;Sergeant;2023-10-09;0;Sergeant
-246;Roi Nahary;23.0;Moshav Ora;Captain;2023-10-09;0;Captain
-247;Aviel Melkamu;21.0;Kiriat Ono;Sergeant First Class;2023-10-09;0;Staff Sergeant
-248;Jawad Amer;23.0;Hurfeish;Sergeant First Class;2023-10-09;0;Staff Sergeant
-249;Gilad Molcho;33.0;Tel Aviv;Master Sergeant;2023-10-09;1;Sergeant First Class
-250;Eitan Menachem Neeman;44.0;Teneh;Major;2023-10-09;1;Major
-251;Yuval Halivni;30.0;Moshav Misgav Dov;Captain;2023-10-09;1;Captain
-252;Avihay Amsalem;30.0;Hadera;Master Sergeant;2023-10-09;1;Sergeant First Class
-253;Alim Abdallah;40.0;Yanuh-Jat;Lieutenant Colonel;2023-10-09;0;Lieutenant Colonel
-254;Lion Bar;53.0;Gedera;Colonel;2023-10-08;1;Colonel
-255;Elhanan Meir Kalmanson;41.0;Otniel;Captain;2023-10-08;1;Captain
-256;Neria Ben David;22.0;Haifa;Staff Sergeant;2023-10-08;0;Staff Sergeant
-257;Sagi Golan;30.0;Raanana;Major;2023-10-08;0;Major
-258;Ofek Rousso;21.0;Kadima Zoran;Sergeant First Class;2023-10-08;0;Staff Sergeant
-259;Ariel Ohana;19.0;Kibbutz Revadim;Sergeant;2023-10-08;0;Sergeant
-260;Tomer Dolev;34.0;Ashkelon;Master Sergeant;2023-10-08;1;Sergeant First Class
-261;Alexander Masliy;21.0;Afula;Staff Sergeant;2023-10-08;0;Staff Sergeant
-262;Eli Ginsberg;42.0;Kibbutz Dovrat;Lieutenant Colonel;2023-10-08;0;Lieutenant Colonel
-263;Josef Itamar Bruchim;20.0;Ashdod;Staff Sergeant;2023-10-08;0;Staff Sergeant
-264;Shilo Cohen;24.0;Sderot;Captain;2023-10-08;0;Captain
-265;Shay Levinson;19.0;Givat Avni;Sergeant;2023-10-07;0;Sergeant
-266;Shaked Dahan;19.0;Afula;Sergeant;2023-10-07;0;Sergeant
-267;Kiril Brodski;29.0;Ramat Gan;Sergeant;2023-10-07;0;Sergeant
-268;Tomer Yaakov Ahimas;20.0;Lehavim;Staff Sergeant;2023-10-07;0;Staff Sergeant
-269;Roni Eshel;19.0;Tzur Yitzhak;Sergeant;2023-10-07;0;Sergeant
-270;Yam Glass;20.0;Modi’in Maccabim-Reut;Staff Sergeant;2023-10-07;0;Staff Sergeant
-271;Shirel Haim Pour;20.0;Rishon LeZion;Staff Sergeant;2023-10-07;0;Staff Sergeant
-272;Ziv Dado;36.0;Rehovot;Warrant Officer;2023-10-07;0;Warrant Officer
-273;Ran Poslushni;48.0;Kibbutz Nahal Oz;Sergeant Major;2023-10-07;1;Sergeant Major
-274;Itay Yehoshua;36.0;Moshav Hadid;Master Sergeant;2023-10-07;1;Sergeant First Class
-275;Arie Kraunik;54.0;Kibbutz Be’eri;Sergeant Major;2023-10-07;1;Sergeant Major
-276;Oren Stern;49.0;Moshav Netiv HaAsara;Major;2023-10-07;1;Major
-277;Hagay Avni;50.0;Kibbutz Be’eri;Sergeant Major;2023-10-07;1;Sergeant Major
-278;Ofir Libstein;50.0;Kibbutz Kfar Aza;Master Sergeant;2023-10-07;1;Sergeant First Class
-279;Tal Eilon;;Kibbutz Kfar Aza;Sergeant Major;2023-10-07;1;Sergeant Major
-280;Yuval Gabay;35.0;Rehovot;Master Sergeant;2023-10-07;1;Sergeant First Class
-281;Eitan Hadad;43.0;Kibbutz Be’eri;Sergeant Major;2023-10-07;1;Sergeant Major
-282;Ofir Erez;57.0;Kibbutz Sufa;Major;2023-10-07;1;Major
-283;Shalev Dagan;20.0;Kiriat Yam;Staff Sergeant;2023-10-07;0;Staff Sergeant
-284;Ofir Mordechai Yaron;51.0;Kibbutz Magen;Sergeant Major;2023-10-07;1;Sergeant Major
-285;Nadav Amikam;39.0;Kibbutz Kfar Aza;Sergeant Major;2023-10-07;1;Sergeant Major
-286;Boaz Abraham;61.0;Kibbutz Nir Yitzhak;Sergeant Major;2023-10-07;1;Sergeant Major
-287;Amit Vax;49.0;Moshav Netiv HaAsara;Warrant Officer;2023-10-07;1;Warrant Officer
-288;Daniel Rashed;19.0;Shefaram;Staff Sergeant;2023-10-07;0;Staff Sergeant
-289;Ram Negbi;57.0;Kibbutz Ein HaShlosha;Major;2023-10-07;1;Major
-290;Yaron Victor Shahar;51.0;Kibbutz Nir Yitzhak;Master Sergeant;2023-10-07;1;Sergeant First Class
-291;Ofir Shoshani;20.0;Kfar Aza;Staff Sergeant;2023-10-07;0;Staff Sergeant
-292;Abraham Gabriel Korin;56.0;Kibbutz Holit;Sergeant Major;2023-10-07;1;Sergeant Major
-293;Uri Shimon Russo;44.0;Kibbutz Kfar Aza;Major;2023-10-07;1;Major
-294;Shachar Aviani;56.0;Kfar Aza;Sergeant Major;2023-10-07;1;Sergeant Major
-295;Ofek Arazi;28.0;Kibbutz Nir Yitzhak;Sergeant First Class;2023-10-07;1;Staff Sergeant
-296;Elisaf Ben Porat;21.0;Safed;Staff Sergeant;2023-10-07;0;Staff Sergeant
-297;Saar Margolis;37.0;Kibbutz Kissufim;Sergeant Major;2023-10-07;1;Sergeant Major
-298;Gil Avital;56.0;Moshav Yesha;Sergeant Major;2023-10-07;1;Sergeant Major
-299;Aviv Baram;33.0;Kibbutz Kfar Aza;Sergeant Major;2023-10-07;1;Sergeant Major
-300;Avraham Fleisher;61.0;Kibbutz Magen;Chief Warrant Officer;2023-10-07;1;Chief Warrant Officer
-301;Itamar Ben Yehuda;21.0;Rehovot;Staff Sergeant;2023-10-07;0;Staff Sergeant
-302;Ibrahim Kharuba;39.0;Maghar;Warrant Officer;2023-10-07;0;Warrant Officer
-303;Adi Baharav Rabinovitz;62.0;Moshav Netiv HaAsara;Captain;2023-10-07;1;Captain
-304;Dan Assulin;38.0;Moshav Mivtahim;Master Sergeant;2023-10-07;1;Sergeant First Class
-305;Adi Landman;19.0;Yokneam Illit;Staff Sergeant;2023-10-07;0;Staff Sergeant
-306;Omri Perez.;20.0;Elyakhin;Staff Sergeant;2023-10-07;0;Staff Sergeant
-307;Shachar Zemach;39.0;Kibbutz Be’eri;Sergeant Major;2023-10-07;1;Sergeant Major
-308;Iftach Gorny;52.0;Moshav Be'er Milka;Captain;2023-10-07;1;Captain
-309;Osher Simha Barzilay;19.0;Mazkeret Batya;Sergeant;2023-10-07;0;Sergeant
-310;Rotem Kutz;18.0;Kibbutz Kfar Aza;Sergeant;2023-10-07;0;Sergeant
-311;Shahaf Bergsten;;Kibbutz Kfar Aza;Sergeant Major;2023-10-07;1;Sergeant Major
-312;Gil Bowom;55.0;Kibbutz Be’eri;Warrant Officer;2023-10-07;1;Warrant Officer
-313;Noy Shosh;36.0;Kibbutz Be’eri;Major;2023-10-07;0;Major
-314;Tomer Leibovitz;19.0;Tel Aviv;Sergeant;2023-10-07;0;Sergeant
-315;Yam Almog Goldstein;20.0;Kibbutz Kfar Aza;Staff Sergeant;2023-10-07;0;Staff Sergeant
-316;Guy Admoni;25.0;Kibbutz Kfar Aza;Captain;2023-10-07;0;Captain
-317;Roi Haim Guri;21.0;Ofakim;Staff Sergeant;2023-10-07;0;Staff Sergeant
-318;Hayim Yeshurun Katsman;32.0;Kibbutz Holit;Master Sergeant;2023-10-07;1;Sergeant First Class
-319;Itay Avraham Ron;20.0;Nes Ziona;Staff Sergeant;2023-10-07;0;Staff Sergeant
-320;Benyamin Belay;20.0;Rehovot;Staff Sergeant;2023-10-07;0;Staff Sergeant
-321;Ori Karmi;20.0;Rishon LeZion;Staff Sergeant;2023-10-07;0;Staff Sergeant
-322;Nahman Dekel;20.0;Immanuel;Sergeant;2023-10-07;0;Sergeant
-323;Avraham Hananel Hindi;37.0;Kibbutz Kfar Aza;Captain;2023-10-07;1;Captain
-324;Daniel Bezgodov;22.0;Afula;Staff Sergeant;2023-10-07;0;Staff Sergeant
-325;Shlomo Reshetnikov;20.0;Haifa;Staff Sergeant;2023-10-07;0;Staff Sergeant
-326;Aner Elyakim Shapiro;22.0;Jerusalem;Staff Sergeant;2023-10-07;0;Staff Sergeant
-327;Dor Lazimi;21.0;Kfar Tabor;Staff Sergeant;2023-10-07;0;Staff Sergeant
-328;Shuham Shlome Nidam;19.0;Kiriat Shemona;Sergeant;2023-10-07;0;Sergeant
-329;Nadav Biton;20.0;Ofakim;Staff Sergeant;2023-10-07;0;Staff Sergeant
-330;Gali Roy Shakotai;20.0;Moshav Tsofar;Staff Sergeant;2023-10-07;0;Staff Sergeant
-331;Adir Eshto Bogale;20.0;Ariel;Staff Sergeant;2023-10-07;0;Staff Sergeant
-332;Nehoray Levi Amitay;20.0;Moshav Rinatya;Staff Sergeant;2023-10-07;0;Staff Sergeant
-333;Maru Alem;20.0;Ashkelon;Staff Sergeant;2023-10-07;0;Staff Sergeant
-334;Neta Bar Am;21.0;Hadera;Staff Sergeant;2023-10-07;0;Staff Sergeant
-335;Or Mizrahi;29.0;Ramat Gan;Staff Sergeant;2023-10-07;0;Staff Sergeant
-336;Shilo Har-Even;25.0;Almon;Major;2023-10-07;0;Major
-337;Edan Barukh;20.0;Kibbutz Be’eri;Corporal;2023-10-07;0;Corporal
-338;Ido Hubara;36.0;Kibbutz Sufa;Major;2023-10-07;1;Major
-339;Matan Abargel;19.0;Hermesh;Sergeant;2023-10-07;0;Sergeant
-340;Yishay Slotki;24.0;Beer Sheva;Master Sergeant;2023-10-07;0;Sergeant First Class
-341;Omer Wolf;22.0;Givat Haim (Meuhad);Captain;2023-10-07;0;Captain
-342;Amir Naim;27.0;Kibbutz Erez;Major;2023-10-07;1;Major
-343;Ofek Arbib;32.0;Bat Yam;Staff Sergeant;2023-10-07;0;Staff Sergeant
-344;Elay Adany;21.0;Tel Mond;Captain;2023-10-07;0;Captain
-345;Shachaf Nesani;20.0;Ashkelon;Staff Sergeant;2023-10-07;0;Staff Sergeant
-346;Boaz Menache Yoggev;19.0;Talmon;Sergeant;2023-10-07;0;Sergeant
-347;Noam Slotki;31.0;Jerusalem;Sergeant Major;2023-10-07;1;Sergeant Major
-348;Shoham Bar;21.0;Ahuzat Barak;Staff Sergeant;2023-10-07;0;Staff Sergeant
-349;Yishay Fitusi;21.0;Talmon;Staff Sergeant;2023-10-07;0;Staff Sergeant
-350;Amir Eyal;19.0;Haifa;Sergeant;2023-10-07;0;Sergeant
-351; Staff Yarin Mari Peled;20.0;Kibbutz Be’eri;Sergeant;2023-10-07;0;Sergeant
-352;Aviad Gad Cohen;;;Sergeant Major;2023-10-07;1;Sergeant Major
-353;Noa Prais;20.0;Mabu'im;Staff Sergeant;2023-10-07;0;Staff Sergeant
-354;Habib Kiean;19.0;Hura;Sergeant;2023-10-07;0;Sergeant
-355;Dvir Haim Rossler;21.0;Kdumim;Staff Sergeant;2023-10-07;0;Staff Sergeant
-356;Yael Leibushor;20.0;Moshav Ge'a;Sergeant;2023-10-07;0;Sergeant
-357;Sahar Tal;20.0;Kibbutz Tzora;Lieutenant;2023-10-07;0;Lieutenant
-358;Matan Malka;19.0;Kibbutz Gesher HaZiv;Sergeant;2023-10-07;0;Sergeant
-359;Hadar Miriam Cohen;18.0;Moshav Zeitan;Corporal;2023-10-07;0;Corporal
-360;Daniel Kasvachuk;21.0;Sderot;Staff Sergeant;2023-10-07;0;Staff Sergeant
-361;Or Avital;20.0;Kibbutz Merom Golan;Sergeant;2023-10-07;0;Sergeant
-362;Ilan Fiorentino;38.0;Kibbutz Nahal Oz;Sergeant Major;2023-10-07;1;Sergeant Major
-363;Itai Ofek Glisko;20.0;Yokneam Illit;Staff Sergeant;2023-10-07;0;Staff Sergeant
-364;Benyamin Gavriel Yona;19.0;Jerusalem;Sergeant;2023-10-07;0;Sergeant
-365;Lidor Makayes;19.0;Ofakim;Corporal;2023-10-07;0;Corporal
-366;Barak Ben David;19.0;Dimona;Staff Sergeant;2023-10-07;0;Staff Sergeant
-367;Nativ Kuzaro;21.0;Maale Adumim;Sergeant;2023-10-07;0;Sergeant
-368;Valentin Elie Ghnassia;22.0;Jerusalem;Staff Sergeant;2023-10-07;0;Staff Sergeant
-369;Shimon Lugasi;19.0;Acre;Sergeant;2023-10-07;0;Sergeant
-370;Karin Shwarchman;20.0;Holon;Sergeant;2023-10-07;0;Sergeant
-371;Liran Mones Almosnino;42.0;moshav Kmehin;Sergeant Major;2023-10-07;1;Sergeant Major
-372;Shirat Yam Amar;18.0;Kiriat Ono;Corporal;2023-10-07;0;Corporal
-373;Naor Siboni;20.0;Moshav Gilat;Staff Sergeant;2023-10-07;0;Staff Sergeant
-374;Aviv Hagage;19.0;Moshav Gilat;Sergeant;2023-10-07;0;Sergeant
-375;Ilay Noam Ben Muha;20.0;Ashdod;Sergeant;2023-10-07;0;Sergeant
-376;Shir Eilat;20.0;Moshav Kfar Shmuel;Captain;2023-10-07;0;Captain
-377;Idan Baloi;20.0;Rishon LeZion;Captain;2023-10-07;0;Captain
-378;Shilo Rauchberger;23.0;Eli;Captain;2023-10-07;0;Captain
-379;Yohai Dukhan;26.0;Kiriat Arba;Lieutenant;2023-10-07;0;Lieutenant
-380;Shirel Mor;19.0;Raanana;Sergeant;2023-10-07;0;Sergeant
-381;Daniel Shperber;20.0;Yehud-Monosson;Staff Sergeant;2023-10-07;0;Staff Sergeant
-382;Dor Yarhi;20.0;Rishon LeZion;Staff Sergeant;2023-10-07;0;Staff Sergeant
-383;Maya Villalobo Polo;19.0;Givatayim;Corporal;2023-10-07;0;Corporal
-384;Reouven Chicheportiche;36.0;Shlomit;Sergeant Major;2023-10-07;1;Sergeant Major
-385;Aviad Revlin;23.0;Otniel;Staff Sergeant;2023-10-07;0;Staff Sergeant
-386;Adam Agmon;21.0;Kamon;Staff Sergeant;2023-10-07;0;Staff Sergeant
-387;Itay Yehudah Bausi;22.0;Kvutzat Yavne;Sergeant First Class;2023-10-07;0;Staff Sergeant
-388;Yonatan Elazari;19.0;Alon Shvut;Corporal;2023-10-07;0;Corporal
-389;Shimon Alroy Ben Shitrit;20.0;Beit Shean;Staff Sergeant;2023-10-07;0;Staff Sergeant
-390;Dolev Amouyal;21.0;Netanya;Staff Sergeant;2023-10-07;0;Staff Sergeant
-391;Ido Binenshtock;19.0;Ramat Gan;Sergeant;2023-10-07;0;Sergeant
-392;Ilay Zisser;27.0;Givat Ela;Major;2023-10-07;0;Major
-393;Dvir Zakai;20.0;Tiberias;Staff Sergeant;2023-10-07;0;Staff Sergeant
-394;Itamar Cohen;19.0;Carmiel;Sergeant;2023-10-07;0;Sergeant
-395;Tomer Yaakov Mizrahi;21.0;Hoshaya;Staff Sergeant;2023-10-07;0;Staff Sergeant
-396;Sahar Meidani;20.0;Kiriat Ekron;Staff Sergeant;2023-10-07;0;Staff Sergeant
-397;Noam Avramovich;19.0;Kibbutz Givat Brenner;Corporal;2023-10-07;0;Corporal
-398;Emil Samoylov;22.0;Haifa;Sergeant;2023-10-07;0;Sergeant
-399;Bechor Swid;32.0;Shlomit;Master Sergeant;2023-10-07;1;Sergeant First Class
-400;Moshe Yedidya Raziel;31.0;Kibbutz Kerem Shalom;Master Sergeant;2023-10-07;1;Sergeant First Class
-401;Ben Bronshtein;24.0;Holon;Major;2023-10-07;0;Major
-402;Shay Ashram;19.0;Rehovot;Sergeant;2023-10-07;0;Sergeant
-403;Avraham Nerya Cohen;20.0;Jerusalem;Staff Sergeant;2023-10-07;0;Staff Sergeant
-404;Bar Yankilov;19.0;Carmiel;Sergeant;2023-10-07;0;Sergeant
-405;Ori Mordechay Shani;22.0;Kiriat Arba;Captain;2023-10-07;0;Captain
-406;Michael Ben Hamo;21.0;Rehovot;Staff Sergeant;2023-10-07;0;Staff Sergeant
-407;Ron Zarfati;22.0;Hadera;Captain;2023-10-07;0;Captain
-408;Noam Elimelech Rojtenbarg;24.0;Beer Sheva;Staff Sergeant;2023-10-07;0;Staff Sergeant
-409;Tomer Nagar;20.0;Azor;Sergeant;2023-10-07;0;Sergeant
-410;Brando David Flores Garcia;21.0;Beer Sheva;Staff Sergeant;2023-10-07;0;Staff Sergeant
-411;Israel Amichay Vitzen;33.0;Kibbutz Kerem Shalom;Master Sergeant;2023-10-07;1;Sergeant First Class
-412;Lavi Buhnik;20.0;Moshav Peduim;Sergeant;2023-10-07;0;Sergeant
-413;Nathane Hai Lyard;20.0;Netanya;Sergeant;2023-10-07;0;Sergeant
-414;Salman Eben Marei;41.0;Segev Shalom;Sergeant Major;2023-10-07;0;Sergeant Major
-415;Elad Michael Sasson;21.0;Motza Illit;Sergeant First Class;2023-10-07;0;Staff Sergeant
-416;Oriel Bibi;30.0;Shlomit;Major;2023-10-07;0;Major
-417;Shalev Baranes;20.0;Moshav Kfar Baruch;Staff Sergeant;2023-10-07;0;Staff Sergeant
-418;Bar Rozenshtein;20.0;Rishon LeZion;Staff Sergeant;2023-10-07;0;Staff Sergeant
-419;Nehoray Said;21.0;Ofakim;Staff Sergeant;2023-10-07;0;Staff Sergeant
-420;David Mittelman;20.0;Modi’in Illit;Sergeant;2023-10-07;0;Sergeant
-421;Sahar Saudian;21.0;Rosh Haayin;Captain;2023-10-07;0;Captain
-422;Ofir Melman;21.0;Kibbutz Nir Yitzhak;Staff Sergeant;2023-10-07;0;Staff Sergeant
-423;Regev Amar;20.0;Kibbutz Sde Nehemia;Staff Sergeant;2023-10-07;0;Staff Sergeant
-424;Yonnatan Savitsky;21.0;Modiin;Sergeant First Class;2023-10-07;0;Staff Sergeant
-425;Eyal Klein;22.0;Moshav Kfar HaRif;Captain;2023-10-07;0;Captain
-426;Roy Bareket;20.0;Tel Aviv;Staff Sergeant;2023-10-07;0;Staff Sergeant
-427;Amit Most;20.0;Modi’in Maccabim-Reut;Staff Sergeant;2023-10-07;0;Staff Sergeant
-428;Amir Zur;23.0;Jerusalem;Captain;2023-10-07;0;Captain
-429;Evyatar Ohayon;22.0;Jerusalem;Staff Sergeant;2023-10-07;0;Staff Sergeant
-430;Mordechay Shamir;29.0;Havot Yair;Major;2023-10-07;0;Major
-431;Segev Schwartz;20.0;Beit Shean;Sergeant;2023-10-07;0;Sergeant
-432;Uriel Segal;19.0;Petah Tikva;Sergeant;2023-10-07;0;Sergeant
-433;Amir Lavi;19.0;Jerusalem;Sergeant;2023-10-07;0;Sergeant
-434;Lior Ben Yaakov;44.0;Moshav Yesha;Sergeant Major;2023-10-07;1;Sergeant Major
-435;Tal Maman;38.0;Moshav Mivtahim;Sergeant Major;2023-10-07;1;Sergeant Major
-436;Adi Tzur;20.0;Jerusalem;Staff Sergeant;2023-10-07;0;Staff Sergeant
-437;Reem Meir Betito;19.0;Netanya;Sergeant;2023-10-07;0;Sergeant
-438;Josheph Malachi Guedalia;22.0;Jerusalem;Sergeant First Class;2023-10-07;0;Staff Sergeant
-439;Omri Belkin;25.0;Ramat Hasharon;Master Sergeant;2023-10-07;1;Sergeant First Class
-440;Tomer Barak;20.0;Petah Tikva;Staff Sergeant;2023-10-07;0;Staff Sergeant
-441;Ido Israel Shani;29.0;Ramat Gan;Major;2023-10-07;0;Major
-442;Max Rabinov;21.0;Ashdod;Staff Sergeant;2023-10-07;0;Staff Sergeant
-443;Raz Peretz;24.0;Afula;Major;2023-10-07;0;Major
-444;Shir Shlomo;19.0;Netanya;Sergeant;2023-10-07;0;Sergeant
-445;Osher Chemaya;19.0;Beer Sheva;Sergeant;2023-10-07;0;Sergeant
-446;Yaad Ben Yacov;20.0;Petah Tikva;Staff Sergeant;2023-10-07;0;Staff Sergeant
-447;Benjamin Loeb;23.0;Jerusalem;Staff Sergeant;2023-10-07;0;Staff Sergeant
-448;Shir Biton;19.0;Ashdod;Sergeant;2023-10-07;0;Sergeant
-449;Dekel Suissa;23.0;Moshav Bar Giora;Captain;2023-10-07;0;Captain
-450;Daniel Moshe Danino;21.0;Haifa;Staff Sergeant;2023-10-07;0;Staff Sergeant
-451;Yakir Levi;21.0;Moreshet;Staff Sergeant;2023-10-07;0;Staff Sergeant
-452;Ilay Azar;18.0;Kibbutz Shefayim;Corporal;2023-10-07;0;Corporal
-453;Amit Peled;21.0;Haifa;Sergeant First Class;2023-10-07;0;Staff Sergeant
-454;Sivan Simha Asraf;20.0;Ashkelon;Sergeant;2023-10-07;0;Sergeant
-455;Tal Cohen;30.0;Moshav Ganei Tal;Major;2023-10-07;0;Major
-456;Ariel Erez;19.0;Moshav Amka;Sergeant;2023-10-07;0;Sergeant
-457;Itay Nachmias;20.0;Moshav Yesha;Staff Sergeant;2023-10-07;0;Staff Sergeant
-458;Yogev Aharon;20.0;Pardes Hanna;Staff Sergeant;2023-10-07;0;Staff Sergeant
-459;Hallel Shmuel Saadon;21.0;Ma'ale Michmash;Staff Sergeant;2023-10-07;0;Staff Sergeant
-460;Hadar Kama;24.0;Moshav Givat Shapira;Captain;2023-10-07;0;Captain
-461;Yonatan Golan;21.0;Yehud-Monosson;Staff Sergeant;2023-10-07;0;Staff Sergeant
-462;David Ratner;20.0;Ashdod;Staff Sergeant;2023-10-07;0;Staff Sergeant
-463;Ofir Testa;21.0;Jerusalem;Sergeant;2023-10-07;0;Sergeant
-464;Amichay Yaacov Vanino;22.0;Katzrin;Staff Sergeant;2023-10-07;0;Staff Sergeant
-465;Tal Levy;21.0;Jerusalem;Staff Sergeant;2023-10-07;0;Staff Sergeant
-466;Alina Pravosudova;23.0;Haifa;Captain;2023-10-07;0;Captain
-467;Roey Chapell;25.0;Zikhron Ya'akov;Major;2023-10-07;0;Major
-468;Eden Nimri;22.0;Modiin;Captain;2023-10-07;0;Captain
-469;Lior Azizov;20.0;Ashkelon;Sergeant;2023-10-07;0;Sergeant
-470;Rotem Dushi;20.0;Shimshit;Staff Sergeant;2023-10-07;0;Staff Sergeant
-471;Or Malka;21.0;Acre;Staff Sergeant;2023-10-07;0;Staff Sergeant
-472;David Haim Meir;31.0;Jerusalem;Major;2023-10-07;1;Major
-473;Roei Peri;19.0;Shoham;Sergeant;2023-10-07;0;Sergeant
-474;Idan Raz;20.0;Kibbutz Ein HaMifratz;Staff Sergeant;2023-10-07;0;Staff Sergeant
-475;Nave Elazar Lax;21.0;Lod;Lieutenant;2023-10-07;0;Lieutenant
-476;Teshager Taka;21.0;Jerusalem;Staff Sergeant;2023-10-07;0;Staff Sergeant
-477;Yonatan Goutin;20.0;Modi’in-Maccabim-Reut;Lieutenant;2023-10-07;0;Lieutenant
-478;Adir Tahar;19.0;Jerusalem;Sergeant;2023-10-07;0;Sergeant
-479;Nitay Amar;20.0;Kibbutz Alumim;Captain;2023-10-07;0;Captain
-480;Amit Tsur;19.0;Elyakhin;Sergeant;2023-10-07;0;Sergeant
-481;Shira Shohat;19.0;Modi’in-Maccabim-Re’ut;Sergeant;2023-10-07;0;Sergeant
-482;Roee Negri;28.0;Tel Aviv;Major;2023-10-07;1;Major
-483;Peleg Salem;30.0;Moshav Yakhini;Major;2023-10-07;0;Major
-484;Yaron Oree Shay;21.0;Kadima-Zoran;Staff Sergeant;2023-10-07;0;Staff Sergeant
-485;Ben Rubinshtain;20.0;Hod Hasharon;Staff Sergeant;2023-10-07;0;Staff Sergeant
-486;Etai Cohen;22.0;Rehovot;Captain;2023-10-07;0;Captain
-487;Ilay Bar Sadeh;19.0;Ramat Gan;Sergeant;2023-10-07;0;Sergeant
-488;Orel Moshe;21.0;Rekhasim;Staff Sergeant;2023-10-07;0;Staff Sergeant
-489;Lior Levy;19.0;Dimona;Corporal;2023-10-07;0;Corporal
-490;Ariel Ben Moshe;27.0;Kiriat Bialik;Major;2023-10-07;0;Major
-491;Shilo Cohen;24.0;Sderot;Captain;2023-10-07;0;Captain
-492;Amir Skoury;31.0;Jerusalem;Major;2023-10-07;0;Major
-493;Aharon Farash;36.0;Ofakim;Sergeant Major;2023-10-07;0;Sergeant Major
-494;Danit Cohen;19.0;Sderot;Sergeant;2023-10-07;0;Sergeant
-495;Ido Rosenthal;45.0;Moshav Ben Shemen;Chief Warrant Officer;2023-10-07;0;Chief Warrant Officer
-496;Amit Guetta;21.0;Rehovot;Sergeant;2023-10-07;0;Sergeant
-497;Or Mizrachi;21.0;Petah Tikva;Staff Sergeant;2023-10-07;0;Staff Sergeant
-498;Roey Weiser;21.0;Efrat;Staff Sergeant;2023-10-07;0;Staff Sergeant
-499;Adir Gaory;21.0;Jerusalem;Lieutenant;2023-10-07;0;Lieutenant
-500;Guy Simhi;20.0;Gedera;Staff Sergeant;2023-10-07;0;Staff Sergeant
-501;Ariel Eliyahu;19.0;Mitzpe Yeriho;Sergeant;2023-10-07;0;Sergeant
-502;Tal Grushka;25.0;Kfar Saba;Major;2023-10-07;0;Major
-503;Rom Shlomi;23.0;Moshav Granot;Captain;2023-10-07;0;Captain
-504;Itamar Ayash;19.0;Kiriat Gat;Sergeant;2023-10-07;0;Sergeant
-505;Vitaly Skipakevich;21.0;Ariel;Sergeant First Class;2023-10-07;0;Staff Sergeant
-506;Omri Michaeli;35.0;Nes Ziona;Sergeant Major;2023-10-07;0;Sergeant Major
-507;Ido Yehoshua;27.0;Kibbutz Ayelet HaShahar;Major;2023-10-07;0;Major
-508;Tomer Shoham;23.0;Srigim;Captain;2023-10-07;0;Captain
-509;Roy Joseph Levy;44.0;Moshav Shavei Tzion;Colonel;2023-10-07;0;Colonel
-510;Ohad Cohen;20.0;Moshav Idan;Sergeant First Class;2023-10-07;0;Staff Sergeant
-511;Aryeh Shlomo Ziering;27.0;Raanana;Major;2023-10-07;0;Major
-512;Uri Locker;19.0;Pardes Hanna-Karkur;Sergeant;2023-10-07;0;Sergeant
-513;Ofir Davidiyan;18.0;Moshav Patish;Corporal;2023-10-07;0;Corporal
-514;Ilay Gamzu;20.0;Ashdod;Staff Sergeant;2023-10-07;0;Staff Sergeant
-515;Itay Maor;23.0;Rosh Ha’Ayin;Captain;2023-10-07;0;Captain
-516;Avraham Hovelashvili;26.0;Ashdod;Major;2023-10-07;0;Major
-517;Itay-Eliyahu Marchiano;20.0;Moshav Beit Arif;Staff Sergeant;2023-10-07;0;Staff Sergeant
-518;Yehonatan Tzor;33.0;Kdumim;Lieutenant Colonel;2023-10-07;0;Lieutenant Colonel
-519;David (Dudi) Digmi;43.0;Rishom LeZion;Master Sergeant;2023-10-07;0;Sergeant First Class
-520;Yaron Zohar;19.0;Kiriat Ata;Sergeant;2023-10-07;0;Sergeant
-521;Adir Abudi;23.0;Modiin;Major;2023-10-07;0;Major
-522;Yotam Ben Bassat;24.0;Bat Hefer;Captain;2023-10-07;0;Captain
-523;Ofir Zioni;21.0;Yokneam Illit;Staff Sergeant;2023-10-07;0;Staff Sergeant
-524;Adar Ben Simon;20.0;Neve Ziv;Lieutenant;2023-10-07;0;Lieutenant
-525;Or Esatu;21.0;Beer Sheva;Staff Sergeant;2023-10-07;0;Staff Sergeant
-526;Sahar Zion Machlof;36.0;Modiin;Lieutenant Colonel;2023-10-07;0;Lieutenant Colonel
-527;Afik Rosenthal;20.0;Kibbutz Kfar Menahem;Staff Sergeant;2023-10-07;0;Staff Sergeant
-528;Yannai Kaminka;20.0;Tzur Hadassah;Lieutenant;2023-10-07;0;Lieutenant
-529;Or Moses;22.0;Ashdod;Captain;2023-10-07;0;Captain
-530;Omri Niv Firshtein;20.0;Givataim;Staff Sergeant;2023-10-07;0;Staff Sergeant
-531;Dvir Lisha;21.0;Nitzan;Sergeant;2023-10-07;0;Sergeant
-532;Eden Alon Levy;19.0;Nirit;Staff Sergeant;2023-10-07;0;Staff Sergeant
-533;Yoval Ben Yakov;20.0;Kibbutz Kfar Menahem;Staff Sergeant;2023-10-07;0;Staff Sergeant
-534;Guy Bazak;19.0;Kokhav Yair;Sergeant;2023-10-07;0;Sergeant
-535;Neria Aaron Nagari;18.0;Talmon;Corporal;2023-10-07;0;Corporal
-536;Naama Bonny;19.0;Afula;Corporal;2023-10-07;0;Corporal
-537;Yiftah Yavetz;23.0;Ramat Hasharon;Captain;2023-10-07;0;Captain
-538;Ido Harush;21.0;Mitzpe Ramon;Staff Sergeant;2023-10-07;0;Staff Sergeant
-539;Yoav Malayev;19.0;Kiriat Ono;Lieutenant;2023-10-07;0;Lieutenant
-540;Nathanel Young;20.0;Tel Aviv;Sergeant;2023-10-07;0;Sergeant
-541;Chen Bouchris;26.0;Ashdod;Major;2023-10-07;0;Major
-542;Or Yossef Ran;29.0;Itamar;Major;2023-10-07;0;Major
-543;Adi Groman;19.0;Moshav Hogla;Sergeant;2023-10-07;0;Sergeant
-544;Ido Edri;24.0;Moshav Gibton;Lieutenant;2023-10-07;1;Lieutenant
-545;Yehonatan Steinberg;42.0;Kibbutz Shomria;Colonel;2023-10-07;0;Colonel
+,name,age,hometown,rank,murder_date,is_reservist,rank_fixed
+0,Haim Sabach,20.0,Holon,Staff Sergeant,2024-05-08,0,Staff Sergeant
+1,Dan Kamkagi,31.0,Kfar HaOranim,Master Sergeant,2024-05-06,1,Sergeant First Class
+2,Michael Ruzal,18.0,Rishon LeZion,Sergeant,2024-05-05,0,Sergeant
+3,Ido Testa,19.0,Jerusalem,Staff Sergeant,2024-05-05,0,Staff Sergeant
+4,Ruben Marc Mordechai Assouline,18.0,Ranana,Staff Sergeant,2024-05-05,0,Staff Sergeant
+5,Ido Aviv,28.0,Carmiel,Master Sergeant,2024-04-28,1,Sergeant First Class
+6,Salm Alkreshat,42.0,Abu-Rabia,Sergeant First Class,2024-04-22,0,Staff Sergeant
+7,Dor Zimel,27.0,Even Yehuda,Major,2024-04-21,1,Major
+8,Reef Harush,20.0,Kibbutz Ramat David,Sergeant,2024-04-06,0,Sergeant
+9,Ido Baruch,21.0,Tel Mond,Captain,2024-04-06,0,Captain
+10,Amitai Even Shoshan,20.0,Moshav Azri'el,Sergeant,2024-04-06,0,Sergeant
+11,Nadav Cohen,20.0,Haifa,Staff Sergeant,2024-03-31,0,Staff Sergeant
+12,Alon Kudriashov,21.0,Modiin,Sergeant Major,2024-03-29,0,Sergeant Major
+13,Nissim Kachlon,21.0,Hadera,Staff Sergeant,2024-03-27,0,Staff Sergeant
+14,Lior Raviv,21.0,Rishon LeZion,Staff Sergeant,2024-03-23,0,Staff Sergeant
+15,Ilay David Garfinkel,21.0,Moshav Sitria,Sergeant Major,2024-03-22,0,Sergeant Major
+16,Sebastian Haion,51.0,Rosh HaAyin,Warrant Officer,2024-03-19,1,Warrant Officer
+17,Matan Vinogradov,20.0,Jerusalem,Staff Sergeant,2024-03-18,0,Staff Sergeant
+18,Daniel Perez,22.0,Yad Binyamin,Captain,2024-03-17,0,Captain
+19,Uri Moyal,51.0,Dimona,Command Sergeant Major,2024-03-14,0,Command Sergeant Major
+20,Itay Hen,19.0,Netanya,Staff Sergeant,2024-03-12,0,Staff Sergeant
+21,Michael Gal,29.0,Jerusalem,Sergeant First Class,2024-03-10,1,Staff Sergeant
+22,Amishar Ben David,43.0,Eli,Major,2024-03-08,1,Major
+23,David Sasson,21.0,Ganot Hadar,Staff Sergeant,2024-03-06,0,Staff Sergeant
+24,Dennis Yekimov,33.0,Beer Sheva,Sergeant Major,2024-03-02,1,Sergeant Major
+25,Inon Itzhak,20.0,Mitzpe Ramon,Sergeant,2024-03-01,0,Sergeant
+26,Dolev Malca,19.0,Shlomi,Sergeant,2024-03-01,0,Sergeant
+27,Itai Seif,24.0,Yeruham,Captain,2024-02-27,0,Captain
+28,Oz Daniel,19.0,Kfar Saba,Sergeant,2024-02-25,0,Sergeant
+29,Ido Eli Zrihen,20.0,Jerusalem,Staff Sergeant,2024-02-24,0,Staff Sergeant
+30,Eyal Shuminov,24.0,Karmiel,Major,2024-02-24,0,Major
+31,Avraham Wovagen,21.0,Netanya,Staff Sergeant,2024-02-20,0,Staff Sergeant
+32,Maoz Morell,22.0,Talmon,Staff Sergeant,2024-02-19,0,Staff Sergeant
+33,Simon Shlomov,20.0,Kiriat Bialik,Staff Sergeant,2024-02-18,0,Staff Sergeant
+34,Ori Yaish,27.0,Modiin,Sergeant First Class,2024-02-16,1,Staff Sergeant
+35,Noam Haba,21.0,Jerusalem,Staff Sergeant,2024-02-15,0,Staff Sergeant
+36,Omer Sarah Benjo,20.0,Moshav Ge'a,Staff Sergeant,2024-02-14,0,Staff Sergeant
+37,Yair Cohen,30.0,Ramat Gan,Major,2024-02-12,1,Major
+38,Ziv Chen,27.0,Kfar Saba,Sergeant First Class,2024-02-12,1,Staff Sergeant
+39,Adi Eldor,21.0,Haifa,Sergeant First Class,2024-02-11,0,Staff Sergeant
+40,Hanan Drori,26.0,Jerusalem,Staff Sergeant,2024-02-07,0,Staff Sergeant
+41,David Shakuri,30.0,Rehovot,Major,2024-02-06,0,Major
+42,Shimon Yehoshua Asulin,24.0,Beit Shemesh,Sergeant First Class,2024-02-03,1,Staff Sergeant
+43,Yitzhar Hofman,36.0,Eshhar,Major,2024-01-31,1,Major
+44,Yuval Nir,43.0,Kfar Etzion,Warrant Officer,2024-01-30,1,Warrant Officer
+45,Netzer Simchi,30.0,Masad,Major,2024-01-30,1,Major
+46,Eliran Yeger,36.0,Tel Aviv,Sergeant Major,2024-01-25,1,Sergeant Major
+47,Zegeye Daniel Kasau,38.0,Yokneam Illit,Sergeant Major,2024-01-22,1,Sergeant Major
+48,Itamar Tal,32.0,Kibbutz Mesilot,Sergeant Major,2024-01-22,1,Sergeant Major
+49,Adam Bismut,33.0,Karnei Shomron,Sergeant Major,2024-01-22,1,Sergeant Major
+50,Ahmad Abu Latif,26.0,Rahat,Sergeant First Class,2024-01-22,1,Staff Sergeant
+51,Ariel Mordechay Wollfstal,28.0,Elazar,Captain,2024-01-22,1,Captain
+52,Elkana Vizel,35.0,Bnei Dekalim,Master Sergeant,2024-01-22,0,Sergeant First Class
+53,Nir Binyamin,29.0,Givatayim,Captain,2024-01-22,1,Captain
+54,Sagi Idan,24.0,Rosh HaAyin,Sergeant First Class,2024-01-22,1,Staff Sergeant
+55,Mark Kononovich,35.0,Herzliya,Sergeant Major,2024-01-22,1,Sergeant Major
+56,Israel Socol,24.0,Karnei Shomron,Sergeant First Class,2024-01-22,0,Staff Sergeant
+57,Rafael Elias Mosheyoff,33.0,Pardes Hanna-Karkur,Sergeant Major,2024-01-22,1,Sergeant Major
+58,Barak Haim Ben Valid,33.0,Rishon LeZion,Sergeant Major,2024-01-22,1,Sergeant Major
+59,Cydrick Garin,23.0,Tel Aviv,Sergeant First Class,2024-01-22,1,Staff Sergeant
+60,Nicholas Berger,22.0,Jerusalem,Sergeant First Class,2024-01-22,1,Staff Sergeant
+61,Yoav Levi,29.0,Yehud-Monosson,Master Sergeant,2024-01-22,1,Sergeant First Class
+62,Elkana Yehuda,25.0,Kiriat Arba,Sergeant First Class,2024-01-22,1,Staff Sergeant
+63,Sergey Gontmaherr,37.0,Ramat Gan,Sergeant Major,2024-01-22,1,Sergeant Major
+64,Hadar Kapeluk,23.0,Moshav Mevo Beitar,Sergeant First Class,2024-01-22,1,Staff Sergeant
+65,Matan Lazar,32.0,Haifa,Sergeant Major,2024-01-22,1,Sergeant Major
+66,Yoval Lopez,27.0,Alon Shvut,Sergeant First Class,2024-01-22,1,Staff Sergeant
+67,Eyal Mevorach Twito,22.0,Moshav Beit Gamliel,Captain,2024-01-22,0,Captain
+68,Ilay Levy,24.0,Tel Aviv,Major,2024-01-22,0,Major
+69,David Nati Alfasi,27.0,Beer Sheva,Major,2024-01-22,0,Major
+70,Uriel Aviad Silberman,23.0,Moshav Nehalim,Sergeant First Class,2024-01-19,1,Staff Sergeant
+71,Ori Gerby,20.0,Herzliya,Staff Sergeant,2024-01-18,0,Staff Sergeant
+72,Anwar Serhan,26.0,Hurfeish,Master Sergeant,2024-01-17,0,Sergeant First Class
+73,Zechariah Pesach Haber,32.0,Jerusalem,Master Sergeant,2024-01-16,1,Sergeant First Class
+74,Noam Ashram,37.0,Kfar Saba,Sergeant Major,2024-01-16,1,Sergeant Major
+75,Nitzan Schessler,21.0,Hadera,Sergeant First Class,2024-01-15,1,Staff Sergeant
+76,Barak Ayalon,45.0,Moshav Kfar Yuval,Sergeant First Class,2024-01-14,1,Staff Sergeant
+77,Andu’alem Kabeda,21.0,Kiriat Gat,Sergeant First Class,2024-01-13,1,Staff Sergeant
+78,Dan Wajdenbaum,24.0,Raanana,Master Sergeant,2024-01-12,1,Sergeant First Class
+79,Elkana Newlander,24.0,Efrat,Sergeant First Class,2024-01-09,1,Staff Sergeant
+80,Akiva Yasinskiy,35.0,Ramat Gan,Sergeant Major,2024-01-08,1,Sergeant Major
+81,Denis Krokhmalov Veksler,32.0,Beer Sheva,Captain,2024-01-08,1,Captain
+82,Ron Efrimi,26.0,Hod Hasharon,Captain,2024-01-08,1,Captain
+83,Amit Shahar,25.0,Kibbutz Ramat Yohanan,Master Sergeant,2024-01-08,1,Sergeant First Class
+84,David Schwartz,27.0,Elazar,Sergeant First Class,2024-01-08,1,Staff Sergeant
+85,Gavriel Bloom,27.0,Beit Shemesh,Sergeant First Class,2024-01-08,1,Staff Sergeant
+86,Roi Tal,19.0,Kfar Yehoshua,Sergeant,2024-01-08,0,Sergeant
+87,Yakir Hexter,26.0,Jerusalem,Sergeant First Class,2024-01-08,1,Staff Sergeant
+88,Roee Yohay Yosef Mordechay,31.0,Tel Aviv,Lieutenant Colonel,2024-01-06,0,Lieutenant Colonel
+89,Sufian Dagash,21.0,Maghar,Staff Sergeant,2024-01-02,0,Staff Sergeant
+90,Amichai Yisrael Yehoshua Oster,24.0,Karnei Shomron,Sergeant First Class,2024-01-01,1,Staff Sergeant
+91,Liav Seada,23.0,Tiberias,Sergeant First Class,2023-12-31,1,Staff Sergeant
+92,Eliraz Gabai,37.0,Petah Tikva,Sergeant Major,2023-12-30,1,Sergeant Major
+93,Harel Ittah,22.0,Netanya,Captain,2023-12-30,0,Captain
+94,Harel Sharvit,33.0,Kokhav Ya’akov,Captain,2023-12-29,1,Captain
+95,Dvir David Fima,32.0,Kfar Yona,Major,2023-12-27,0,Major
+96,Asaf Pinhas Tubul,22.0,Kiriat Motzkin,Sergeant First Class,2023-12-27,1,Staff Sergeant
+97,Efraim Yachman,21.0,Neve Daniel,Staff Sergeant,2023-12-27,0,Staff Sergeant
+98,Itay Buton,20.0,Petah Tikva,Staff Sergeant,2023-12-27,0,Staff Sergeant
+99,Yaron Eliezer Chitiz,23.0,Raanana,Lieutenant,2023-12-27,0,Lieutenant
+100,Shaul Greenglick,26.0,Raanana,Captain,2023-12-26,1,Captain
+101,Shay Shamriz,26.0,Merkaz Shapira,Major,2023-12-26,0,Major
+102,Joseph Gitarts,25.0,Tel Aviv,Sergeant First Class,2023-12-25,0,Staff Sergeant
+103,Daniel Nachmani,21.0,Kfar Saba,Staff Sergeant,2023-12-24,0,Staff Sergeant
+104,Nitai Meisels,30.0,Rehovot,Master Sergeant,2023-12-24,1,Sergeant First Class
+105,Aryeh Rein,39.0,Kibbutz Mishmarot,Major,2023-12-24,1,Major
+106,Roy Elias,21.0,Moshav Tzofar,Staff Sergeant,2023-12-23,0,Staff Sergeant
+107,Itamar Shemen,21.0,Lapid,Staff Sergeant,2023-12-23,0,Staff Sergeant
+108,Orel Bashan,20.0,Haifa,Staff Sergeant,2023-12-23,0,Staff Sergeant
+109,David Bogdanovskyi,19.0,Haifa,Staff Sergeant,2023-12-23,0,Staff Sergeant
+110,Ohad Ashur,23.0,Kfar Yona,Sergeant First Class,2023-12-23,1,Staff Sergeant
+111,Elyassaf Shoshan,23.0,Jerusalem,Sergeant First Class,2023-12-23,1,Staff Sergeant
+112,Eliyahu Meir Ohana,28.0,Haifa,Master Sergeant,2023-12-23,1,Sergeant First Class
+113,Nadav Issachar Farhi,30.0,Herzliya,Master Sergeant,2023-12-23,1,Sergeant First Class
+114,Oshri Moshe Butzhak,22.0,Haifa,Captain,2023-12-23,0,Captain
+115,Alexander Shpits,41.0,Carmiel,Warrant Officer,2023-12-22,1,Warrant Officer
+116,Birhanu Kassie,22.0,Beit Shemesh,Staff Sergeant,2023-12-22,0,Staff Sergeant
+117,Nir Rafael Kananian,20.0,Kibbutz Beit Keshet,Staff Sergeant,2023-12-22,0,Staff Sergeant
+118,Amit Hod Ziv,19.0,Rosh HaAyin,Sergeant,2023-12-22,0,Sergeant
+119,Shai Ayeli,21.0,Ashkelon,Lieutenant,2023-12-21,0,Lieutenant
+120,Lavi Ghasi,19.0,Hashmonaim,Sergeant,2023-12-20,0,Sergeant
+121,Omri Shwartz,21.0,Moshav Shadmot Dvora,Lieutenant,2023-12-20,0,Lieutenant
+122,Uriel Cohen,33.0,Tzur Hadassah,Master Sergeant First Class,2023-12-19,1,Sergeant First Class
+123,Maoz Fenigstein,25.0,Susya,Master Sergeant First Class,2023-12-19,1,Sergeant First Class
+124,Rotem Yoseff Levy,24.0,Oranit,Captain,2023-12-18,1,Captain
+125,Netanel Silberg,33.0,Moshav Na'ama,Captain,2023-12-18,1,Captain
+126,Yarin Gahali,22.0,Rehovot,Captain,2023-12-18,0,Captain
+127,Lidor Yosef Karavani,23.0,Eilat,Sergeant First Class,2023-12-17,1,Staff Sergeant
+128,Etan Naeh,26.0,Kibbutz Sde Eliyahu,Master Sergeant,2023-12-17,0,Sergeant First Class
+129,Liav Aloush,21.0,Gedera,Sergeant First Class,2023-12-17,0,Staff Sergeant
+130,Urija Bayer,20.0,Ma'alot-Tarshiha,Sergeant First Class,2023-12-17,0,Staff Sergeant
+131,Boris Dunavetski,21.0,Kiriat Bialik,Staff Sergeant,2023-12-17,0,Staff Sergeant
+132,Joseph Avner Doran,26.0,Jerusalem,Master Sergeant,2023-12-16,1,Sergeant First Class
+133,Yehezkel Azaria,53.0,Petah Tikva,Warrant Officer,2023-12-16,1,Warrant Officer
+134,Tomer Shlomo Myara,28.0,Netanya,Master Sergeant,2023-12-15,1,Sergeant First Class
+135,Ron Sherman,19.0,Lehavim,Sergeant,2023-12-15,0,Sergeant
+136,Nik Beizer,19.0,Beer Sheva,Corporal,2023-12-15,0,Corporal
+137,Oz Shmuel Aradi,19.0,Kibbutz Hatsor,Sergeant,2023-12-14,0,Sergeant
+138,Elisha Levinshtern,38.0,Harish,Master Sergeant,2023-12-13,0,Sergeant First Class
+139,Itzhak Ben Basat,44.0,Moshav Sde Ya’akov,Colonel,2023-12-12,0,Colonel
+140,Rom Hecht,20.0,Givatayim,Sergeant First Class,2023-12-12,0,Staff Sergeant
+141,Ben Shelly,26.0,Moshav Kidron,Major,2023-12-12,0,Major
+142,Liel Hayo,22.0,Shoham,Captain,2023-12-12,0,Captain
+143,Oriya Yaakov,19.0,Ashkelon,Staff Sergeant,2023-12-12,0,Staff Sergeant
+144,Achia Daskal,19.0,Haifa,Sergeant,2023-12-12,0,Sergeant
+145,Moshe Avram Bar On,23.0,Raanana,Major,2023-12-12,0,Major
+146,Roei Meldas,23.0,Afula,Major,2023-12-12,0,Major
+147,Tomer Grinberg,35.0,Kibbutz Almog,Lieutenant Colonel,2023-12-12,0,Lieutenant Colonel
+148,Tzvika Lavi,30.0,Eli,Master Sergeant,2023-12-11,1,Sergeant First Class
+149,Gal Becher,36.0,Oranit,Major,2023-12-10,0,Major
+150,Eliya Yanovsky,24.0,Jerusalem,Captain,2023-12-10,1,Captain
+151,Roman Bronshtein,46.0,Bat Yam,Major,2023-12-10,1,Major
+152,Evyatar Cohen,42.0,Kfar Saba,Major,2023-12-10,1,Major
+153,Etay Perry,36.0,Modiin,Sergeant Major,2023-12-10,1,Sergeant Major
+154,Gideon Ilani,35.0,Asa'el,Sergeant Major,2023-12-10,1,Sergeant Major
+155,Nethanel Menachem Eitan,22.0,Jerusalem,Lieutenant,2023-12-10,0,Lieutenant
+156,Haim Meir Eden,20.0,Rehovot,Staff Sergeant,2023-12-09,0,Staff Sergeant
+157,Jonatan Dean Jr Haim ,,,Staff Sergeant,2023-12-08,0,Staff Sergeant
+158,Liav Atiya,25.0,beer Sheva,Master Sergeant,2023-12-08,1,Sergeant First Class
+159,Omri Ben Shachar,25.0,Givatayim,Master Sergeant,2023-12-08,1,Sergeant First Class
+160,Maor Cohen Eisenkot,19.0,Eilat,Sergeant,2023-12-08,0,Sergeant
+161,Eyal Meir Berkowitz,28.0,Jerusalem,Master Sergeant,2023-12-07,1,Sergeant First Class
+162,Jonathan David Deitch,34.0,Harish,Sergeant Major,2023-12-07,1,Sergeant Major
+163,Kobi Dvash,41.0,Tiberias,Sergeant Major,2023-12-07,1,Sergeant Major
+164,Gal Meir Eisenkot,25.0,Herzliya,Master Sergeant,2023-12-07,1,Sergeant First Class
+165,Maor Gershoni,24.0,Yokneam Illit,Sergeant First Class,2023-12-06,1,Staff Sergeant
+166,Amit Bonzel,22.0,Shoham,Staff Sergeant,2023-12-06,0,Staff Sergeant
+167,Adi Shani,39.0,Tzur Yitzhak,Sergeant Major,2023-12-06,1,Sergeant Major
+168,Yochai Gur Hershberg,52.0,Philip Farms,Lieutenant Colonel,2023-12-05,0,Lieutenant Colonel
+169,Ilay Eliyahu Cohen,23.0,Moshav Beit Nehemia,Master Sergeant,2023-12-05,1,Sergeant First Class
+170,Matan Damari,31.0,Dimona,Master Sergeant,2023-12-05,1,Sergeant First Class
+171,Yahel Gazit,21.0,Rakefet,Captain,2023-12-04,0,Captain
+172,Eitan Fisch,23.0,Pedu’el,Captain,2023-12-04,0,Captain
+173,Yakir Yedidya Schenkolewski,21.0,Migdal Oz,Sergeant,2023-12-04,0,Sergeant
+174,Tuval Yaakov Tsanani,20.0,Kiriat Gat,Staff Sergeant,2023-12-04,0,Staff Sergeant
+175,Binyamin Yehoshua Needham,19.0,Zikhron Ya’akov,Sergeant,2023-12-03,0,Sergeant
+176,Ben Zussman,22.0,Jerusalem,Sergeant First Class,2023-12-03,1,Staff Sergeant
+177,Or Brandes,25.0,Shoham,Sergeant First Class,2023-12-02,1,Staff Sergeant
+178,Eitan Dov Rosenzweig,21.0,Alon Shvut,Staff Sergeant,2023-11-22,0,Staff Sergeant
+179,Liron Snir,25.0,Ofra,Captain,2023-11-21,0,Captain
+180,Arnon Moshe Avraham Benvenisti Vaspi,26.0,Moshav Yesud HaMa'ala,Captain,2023-11-20,1,Captain
+181,Eytan Dishon,21.0,Jerusalem,Staff Sergeant,2023-11-20,0,Staff Sergeant
+182,Yinon Tamir,20.0,Pardes Hanna-Karkur,Sergeant,2023-11-20,0,Sergeant
+183,Adir Portugal,23.0,Mazkeret Batya,Lieutenant,2023-11-19,1,Lieutenant
+184,Dvir Barazani,20.0,Jerusalem,Staff Sergeant,2023-11-19,0,Staff Sergeant
+185,Yakir Biton,34.0,Jerusalem,Master Sergeant,2023-11-18,1,Sergeant First Class
+186,Rani Tahan,40.0,Kibbutz Sde Nehemia,Sergeant Major,2023-11-18,1,Sergeant Major
+187,Shlomo Gurtovnik,21.0,Modi’in-Maccabim-Reut,Staff Sergeant,2023-11-18,0,Staff Sergeant
+188,Eden Provisor,21.0,Alfei Menashe,Captain,2023-11-18,0,Captain
+189,Adi Malik Harb,19.0,Beit Jann,Staff Sergeant,2023-11-18,0,Staff Sergeant
+190,Jamal Abbas,23.0,Peki'in,Major,2023-11-18,0,Major
+191,Shachar Fridman,21.0,Jerusalem,Staff Sergeant,2023-11-18,0,Staff Sergeant
+192,Binyamin Meir Airly,21.0,Beit Shemesh,Sergeant,2023-11-18,0,Sergeant
+193,Roey Biber,28.0,Moshav Tzur Moshe,Captain,2023-11-18,1,Captain
+194,Avraham Fetena,20.0,Haifa,Corporal,2023-11-16,0,Corporal
+195,Asaf,22.0,Kibbutz Bahan,Captain Master,2023-11-15,0,Captain
+196,Noa Marciano,19.0,Modiin,Corporal,2023-11-14,0,Corporal
+197,Yedidya Asher Lev,26.0,Tal Menashe,Captain,2023-11-14,0,Captain
+198,Raz Abulafia,27.0,Moshav Rishpon,Master Sergeant,2023-11-13,1,Sergeant First Class
+199,Isachar Natan,28.0,Kiriat Malachi,Major,2023-11-12,0,Major
+200,Matan Meir,38.0,Moshav Odem,Master Sergeant,2023-11-10,1,Sergeant First Class
+201,Yossi Hershkovitz,44.0,Gva'ot,Sergeant Major,2023-11-10,1,Sergeant Major
+202,Moshe Yedidyah Leiter,39.0,Kibbutz Ein Tzurim,Major,2023-11-10,1,Major
+203,Sergey Shmerkin,32.0,Kiriat Shemona,Master Sergeant,2023-11-10,1,Sergeant First Class
+204,Netanel (Nati) Harush,34.0,Jerusalem,Master Sergeant,2023-11-10,1,Sergeant First Class
+205,Gilad Rozenblit,21.0,Kibbutz Ginegar,Staff Sergeant,2023-11-09,0,Staff Sergeant
+206,Eliahou Benjamin Elmakayes,29.0,Jerusalem,Sergeant First Class,2023-11-08,1,Staff Sergeant
+207,Jonathan Chazor,22.0,Katzir,Sergeant First Class,2023-11-07,0,Staff Sergeant
+208,Shahar Cohen Mivtach,22.0,Carmiel,Staff Sergeant,2023-11-05,0,Staff Sergeant
+209,Salman Habka,33.0,Yanuh-Jat,Lieutenant Colonel,2023-11-02,0,Lieutenant Colonel
+210,Uriah Mash,41.0,Talmon,Master Sergeant,2023-11-02,1,Sergeant First Class
+211,Yehonatan Yosef Brand,28.0,Jerusalem,Master Sergeant,2023-11-02,1,Sergeant First Class
+212,Gil Pishitz,39.0,Harish,Sergeant Major,2023-11-02,1,Sergeant Major
+213,Yair Nifousy,20.0,Adi,Staff Sergeant,2023-11-02,0,Staff Sergeant
+214,Elhanan Ariel Klein,,Einav,Sergeant First Class,2023-11-02,1,Staff Sergeant
+215,Itay Saadon,,Har Halutz,Staff Sergeant,2023-11-02,0,Staff Sergeant
+216,Shalev Zion Sharabi,22.0,Teneh Omarim,Sergeant First Class,2023-11-01,1,Staff Sergeant
+217,Ariel Reich,21.0,Jerusalem,Captain,2023-10-31,0,Captain
+218,Halel Solomon,20.0,Dimona,Staff Sergeant,2023-10-31,0,Staff Sergeant
+219,Asif Luger,21.0,Kibbutz Yagur,Sergeant,2023-10-31,0,Sergeant
+220,Erez Mishlovsky,20.0,Oranit,Staff Sergeant,2023-10-31,0,Staff Sergeant
+221,Adi Leon,20.0,Nili,Staff Sergeant,2023-10-31,0,Staff Sergeant
+222,Ido Ovadia,19.0,Tel Aviv,Sergeant,2023-10-31,0,Sergeant
+223,Lior Siminovich,19.0,Herzliya,Sergeant,2023-10-31,0,Sergeant
+224,Roei Dawi,20.0,Jerusalem,Staff Sergeant,2023-10-31,0,Staff Sergeant
+225,Pdaya Menachem Mark,,Otniel,Lieutenant,2023-10-31,0,Lieutenant
+226,Roei Sargosti,,Nahal Haroe Farm,Staff Sergeant,2023-10-31,0,Staff Sergeant
+227,Itay Yehuda,20.0,Rishon LeZion,Staff Sergeant,2023-10-31,0,Staff Sergeant
+228,Shay Arvas,20.0,Holon,Staff Sergeant,2023-10-31,0,Staff Sergeant
+229,Roei Wolf,,Ramat Gan,Staff Sergeant,2023-10-30,0,Staff Sergeant
+230,Yinon Fleishman,31.0,Jerusalem,Sergeant First Class,2023-10-29,1,Staff Sergeant
+231,Shoam Moshe Ben-Harush,20.0,Moshav Haspin,Staff Sergeant,2023-10-26,0,Staff Sergeant
+232,Meidan Israel,35.0,Moshav Yarhiv,Lieutenant Colonel,2023-10-25,0,Lieutenant Colonel
+233,Tamir Barak,19.0,Kibbutz Nir Elyahu,Sergeant,2023-10-22,0,Sergeant
+234,Omer Balva,22.0,Herzliya,Sergeant First Class,2023-10-20,1,Staff Sergeant
+235,Liel Vainshtein,19.0,Netanya,Sergeant,2023-10-15,0,Sergeant
+236,Omer Nissim Bitan,22.0,Binyamina,Sergeant First Class,2023-10-14,1,Staff Sergeant
+237,Yakov Nedlin,36.0,Or Akiva,Captain,2023-10-13,1,Captain
+238,Adi Odeya Borech,22.0,Kiriat Netafim,Staff Sergeant,2023-10-12,1,Staff Sergeant
+239,Yuval Yoffe,21.0,Moshav Tzofit,Lieutenant,2023-10-11,0,Lieutenant
+240,Itai Moreno,24.0,Moshav Aderet,Master Sergeant,2023-10-11,1,Sergeant First Class
+241, Master Ido Keslasi,23.0,Kibbutz Harel,Sergeant,2023-10-11,1,Sergeant
+242,Amichay Shimon Rubin,23.0,Acre,Sergeant,2023-10-10,0,Sergeant
+243,Dor Sade,22.0,Moshav Arugot,Captain,2023-10-09,0,Captain
+244,Matanya Alster,23.0,Moshav Sde Ilan,Sergeant First Class,2023-10-09,1,Staff Sergeant
+245,Ofir Yeruchin,19.0,Givat Shmuel,Sergeant,2023-10-09,0,Sergeant
+246,Roi Nahary,23.0,Moshav Ora,Captain,2023-10-09,0,Captain
+247,Aviel Melkamu,21.0,Kiriat Ono,Sergeant First Class,2023-10-09,0,Staff Sergeant
+248,Jawad Amer,23.0,Hurfeish,Sergeant First Class,2023-10-09,0,Staff Sergeant
+249,Gilad Molcho,33.0,Tel Aviv,Master Sergeant,2023-10-09,1,Sergeant First Class
+250,Eitan Menachem Neeman,44.0,Teneh,Major,2023-10-09,1,Major
+251,Yuval Halivni,30.0,Moshav Misgav Dov,Captain,2023-10-09,1,Captain
+252,Avihay Amsalem,30.0,Hadera,Master Sergeant,2023-10-09,1,Sergeant First Class
+253,Alim Abdallah,40.0,Yanuh-Jat,Lieutenant Colonel,2023-10-09,0,Lieutenant Colonel
+254,Lion Bar,53.0,Gedera,Colonel,2023-10-08,1,Colonel
+255,Elhanan Meir Kalmanson,41.0,Otniel,Captain,2023-10-08,1,Captain
+256,Neria Ben David,22.0,Haifa,Staff Sergeant,2023-10-08,0,Staff Sergeant
+257,Sagi Golan,30.0,Raanana,Major,2023-10-08,0,Major
+258,Ofek Rousso,21.0,Kadima Zoran,Sergeant First Class,2023-10-08,0,Staff Sergeant
+259,Ariel Ohana,19.0,Kibbutz Revadim,Sergeant,2023-10-08,0,Sergeant
+260,Tomer Dolev,34.0,Ashkelon,Master Sergeant,2023-10-08,1,Sergeant First Class
+261,Alexander Masliy,21.0,Afula,Staff Sergeant,2023-10-08,0,Staff Sergeant
+262,Eli Ginsberg,42.0,Kibbutz Dovrat,Lieutenant Colonel,2023-10-08,0,Lieutenant Colonel
+263,Josef Itamar Bruchim,20.0,Ashdod,Staff Sergeant,2023-10-08,0,Staff Sergeant
+264,Shilo Cohen,24.0,Sderot,Captain,2023-10-08,0,Captain
+265,Shay Levinson,19.0,Givat Avni,Sergeant,2023-10-07,0,Sergeant
+266,Shaked Dahan,19.0,Afula,Sergeant,2023-10-07,0,Sergeant
+267,Kiril Brodski,29.0,Ramat Gan,Sergeant,2023-10-07,0,Sergeant
+268,Tomer Yaakov Ahimas,20.0,Lehavim,Staff Sergeant,2023-10-07,0,Staff Sergeant
+269,Roni Eshel,19.0,Tzur Yitzhak,Sergeant,2023-10-07,0,Sergeant
+270,Yam Glass,20.0,Modi’in Maccabim-Reut,Staff Sergeant,2023-10-07,0,Staff Sergeant
+271,Shirel Haim Pour,20.0,Rishon LeZion,Staff Sergeant,2023-10-07,0,Staff Sergeant
+272,Ziv Dado,36.0,Rehovot,Warrant Officer,2023-10-07,0,Warrant Officer
+273,Ran Poslushni,48.0,Kibbutz Nahal Oz,Sergeant Major,2023-10-07,1,Sergeant Major
+274,Itay Yehoshua,36.0,Moshav Hadid,Master Sergeant,2023-10-07,1,Sergeant First Class
+275,Arie Kraunik,54.0,Kibbutz Be’eri,Sergeant Major,2023-10-07,1,Sergeant Major
+276,Oren Stern,49.0,Moshav Netiv HaAsara,Major,2023-10-07,1,Major
+277,Hagay Avni,50.0,Kibbutz Be’eri,Sergeant Major,2023-10-07,1,Sergeant Major
+278,Ofir Libstein,50.0,Kibbutz Kfar Aza,Master Sergeant,2023-10-07,1,Sergeant First Class
+279,Tal Eilon,,Kibbutz Kfar Aza,Sergeant Major,2023-10-07,1,Sergeant Major
+280,Yuval Gabay,35.0,Rehovot,Master Sergeant,2023-10-07,1,Sergeant First Class
+281,Eitan Hadad,43.0,Kibbutz Be’eri,Sergeant Major,2023-10-07,1,Sergeant Major
+282,Ofir Erez,57.0,Kibbutz Sufa,Major,2023-10-07,1,Major
+283,Shalev Dagan,20.0,Kiriat Yam,Staff Sergeant,2023-10-07,0,Staff Sergeant
+284,Ofir Mordechai Yaron,51.0,Kibbutz Magen,Sergeant Major,2023-10-07,1,Sergeant Major
+285,Nadav Amikam,39.0,Kibbutz Kfar Aza,Sergeant Major,2023-10-07,1,Sergeant Major
+286,Boaz Abraham,61.0,Kibbutz Nir Yitzhak,Sergeant Major,2023-10-07,1,Sergeant Major
+287,Amit Vax,49.0,Moshav Netiv HaAsara,Warrant Officer,2023-10-07,1,Warrant Officer
+288,Daniel Rashed,19.0,Shefaram,Staff Sergeant,2023-10-07,0,Staff Sergeant
+289,Ram Negbi,57.0,Kibbutz Ein HaShlosha,Major,2023-10-07,1,Major
+290,Yaron Victor Shahar,51.0,Kibbutz Nir Yitzhak,Master Sergeant,2023-10-07,1,Sergeant First Class
+291,Ofir Shoshani,20.0,Kfar Aza,Staff Sergeant,2023-10-07,0,Staff Sergeant
+292,Abraham Gabriel Korin,56.0,Kibbutz Holit,Sergeant Major,2023-10-07,1,Sergeant Major
+293,Uri Shimon Russo,44.0,Kibbutz Kfar Aza,Major,2023-10-07,1,Major
+294,Shachar Aviani,56.0,Kfar Aza,Sergeant Major,2023-10-07,1,Sergeant Major
+295,Ofek Arazi,28.0,Kibbutz Nir Yitzhak,Sergeant First Class,2023-10-07,1,Staff Sergeant
+296,Elisaf Ben Porat,21.0,Safed,Staff Sergeant,2023-10-07,0,Staff Sergeant
+297,Saar Margolis,37.0,Kibbutz Kissufim,Sergeant Major,2023-10-07,1,Sergeant Major
+298,Gil Avital,56.0,Moshav Yesha,Sergeant Major,2023-10-07,1,Sergeant Major
+299,Aviv Baram,33.0,Kibbutz Kfar Aza,Sergeant Major,2023-10-07,1,Sergeant Major
+300,Avraham Fleisher,61.0,Kibbutz Magen,Chief Warrant Officer,2023-10-07,1,Chief Warrant Officer
+301,Itamar Ben Yehuda,21.0,Rehovot,Staff Sergeant,2023-10-07,0,Staff Sergeant
+302,Ibrahim Kharuba,39.0,Maghar,Warrant Officer,2023-10-07,0,Warrant Officer
+303,Adi Baharav Rabinovitz,62.0,Moshav Netiv HaAsara,Captain,2023-10-07,1,Captain
+304,Dan Assulin,38.0,Moshav Mivtahim,Master Sergeant,2023-10-07,1,Sergeant First Class
+305,Adi Landman,19.0,Yokneam Illit,Staff Sergeant,2023-10-07,0,Staff Sergeant
+306,Omri Perez.,20.0,Elyakhin,Staff Sergeant,2023-10-07,0,Staff Sergeant
+307,Shachar Zemach,39.0,Kibbutz Be’eri,Sergeant Major,2023-10-07,1,Sergeant Major
+308,Iftach Gorny,52.0,Moshav Be'er Milka,Captain,2023-10-07,1,Captain
+309,Osher Simha Barzilay,19.0,Mazkeret Batya,Sergeant,2023-10-07,0,Sergeant
+310,Rotem Kutz,18.0,Kibbutz Kfar Aza,Sergeant,2023-10-07,0,Sergeant
+311,Shahaf Bergsten,,Kibbutz Kfar Aza,Sergeant Major,2023-10-07,1,Sergeant Major
+312,Gil Bowom,55.0,Kibbutz Be’eri,Warrant Officer,2023-10-07,1,Warrant Officer
+313,Noy Shosh,36.0,Kibbutz Be’eri,Major,2023-10-07,0,Major
+314,Tomer Leibovitz,19.0,Tel Aviv,Sergeant,2023-10-07,0,Sergeant
+315,Yam Almog Goldstein,20.0,Kibbutz Kfar Aza,Staff Sergeant,2023-10-07,0,Staff Sergeant
+316,Guy Admoni,25.0,Kibbutz Kfar Aza,Captain,2023-10-07,0,Captain
+317,Roi Haim Guri,21.0,Ofakim,Staff Sergeant,2023-10-07,0,Staff Sergeant
+318,Hayim Yeshurun Katsman,32.0,Kibbutz Holit,Master Sergeant,2023-10-07,1,Sergeant First Class
+319,Itay Avraham Ron,20.0,Nes Ziona,Staff Sergeant,2023-10-07,0,Staff Sergeant
+320,Benyamin Belay,20.0,Rehovot,Staff Sergeant,2023-10-07,0,Staff Sergeant
+321,Ori Karmi,20.0,Rishon LeZion,Staff Sergeant,2023-10-07,0,Staff Sergeant
+322,Nahman Dekel,20.0,Immanuel,Sergeant,2023-10-07,0,Sergeant
+323,Avraham Hananel Hindi,37.0,Kibbutz Kfar Aza,Captain,2023-10-07,1,Captain
+324,Daniel Bezgodov,22.0,Afula,Staff Sergeant,2023-10-07,0,Staff Sergeant
+325,Shlomo Reshetnikov,20.0,Haifa,Staff Sergeant,2023-10-07,0,Staff Sergeant
+326,Aner Elyakim Shapiro,22.0,Jerusalem,Staff Sergeant,2023-10-07,0,Staff Sergeant
+327,Dor Lazimi,21.0,Kfar Tabor,Staff Sergeant,2023-10-07,0,Staff Sergeant
+328,Shuham Shlome Nidam,19.0,Kiriat Shemona,Sergeant,2023-10-07,0,Sergeant
+329,Nadav Biton,20.0,Ofakim,Staff Sergeant,2023-10-07,0,Staff Sergeant
+330,Gali Roy Shakotai,20.0,Moshav Tsofar,Staff Sergeant,2023-10-07,0,Staff Sergeant
+331,Adir Eshto Bogale,20.0,Ariel,Staff Sergeant,2023-10-07,0,Staff Sergeant
+332,Nehoray Levi Amitay,20.0,Moshav Rinatya,Staff Sergeant,2023-10-07,0,Staff Sergeant
+333,Maru Alem,20.0,Ashkelon,Staff Sergeant,2023-10-07,0,Staff Sergeant
+334,Neta Bar Am,21.0,Hadera,Staff Sergeant,2023-10-07,0,Staff Sergeant
+335,Or Mizrahi,29.0,Ramat Gan,Staff Sergeant,2023-10-07,0,Staff Sergeant
+336,Shilo Har-Even,25.0,Almon,Major,2023-10-07,0,Major
+337,Edan Barukh,20.0,Kibbutz Be’eri,Corporal,2023-10-07,0,Corporal
+338,Ido Hubara,36.0,Kibbutz Sufa,Major,2023-10-07,1,Major
+339,Matan Abargel,19.0,Hermesh,Sergeant,2023-10-07,0,Sergeant
+340,Yishay Slotki,24.0,Beer Sheva,Master Sergeant,2023-10-07,0,Sergeant First Class
+341,Omer Wolf,22.0,Givat Haim (Meuhad),Captain,2023-10-07,0,Captain
+342,Amir Naim,27.0,Kibbutz Erez,Major,2023-10-07,1,Major
+343,Ofek Arbib,32.0,Bat Yam,Staff Sergeant,2023-10-07,0,Staff Sergeant
+344,Elay Adany,21.0,Tel Mond,Captain,2023-10-07,0,Captain
+345,Shachaf Nesani,20.0,Ashkelon,Staff Sergeant,2023-10-07,0,Staff Sergeant
+346,Boaz Menache Yoggev,19.0,Talmon,Sergeant,2023-10-07,0,Sergeant
+347,Noam Slotki,31.0,Jerusalem,Sergeant Major,2023-10-07,1,Sergeant Major
+348,Shoham Bar,21.0,Ahuzat Barak,Staff Sergeant,2023-10-07,0,Staff Sergeant
+349,Yishay Fitusi,21.0,Talmon,Staff Sergeant,2023-10-07,0,Staff Sergeant
+350,Amir Eyal,19.0,Haifa,Sergeant,2023-10-07,0,Sergeant
+351, Staff Yarin Mari Peled,20.0,Kibbutz Be’eri,Sergeant,2023-10-07,0,Sergeant
+352,Aviad Gad Cohen,,,Sergeant Major,2023-10-07,1,Sergeant Major
+353,Noa Prais,20.0,Mabu'im,Staff Sergeant,2023-10-07,0,Staff Sergeant
+354,Habib Kiean,19.0,Hura,Sergeant,2023-10-07,0,Sergeant
+355,Dvir Haim Rossler,21.0,Kdumim,Staff Sergeant,2023-10-07,0,Staff Sergeant
+356,Yael Leibushor,20.0,Moshav Ge'a,Sergeant,2023-10-07,0,Sergeant
+357,Sahar Tal,20.0,Kibbutz Tzora,Lieutenant,2023-10-07,0,Lieutenant
+358,Matan Malka,19.0,Kibbutz Gesher HaZiv,Sergeant,2023-10-07,0,Sergeant
+359,Hadar Miriam Cohen,18.0,Moshav Zeitan,Corporal,2023-10-07,0,Corporal
+360,Daniel Kasvachuk,21.0,Sderot,Staff Sergeant,2023-10-07,0,Staff Sergeant
+361,Or Avital,20.0,Kibbutz Merom Golan,Sergeant,2023-10-07,0,Sergeant
+362,Ilan Fiorentino,38.0,Kibbutz Nahal Oz,Sergeant Major,2023-10-07,1,Sergeant Major
+363,Itai Ofek Glisko,20.0,Yokneam Illit,Staff Sergeant,2023-10-07,0,Staff Sergeant
+364,Benyamin Gavriel Yona,19.0,Jerusalem,Sergeant,2023-10-07,0,Sergeant
+365,Lidor Makayes,19.0,Ofakim,Corporal,2023-10-07,0,Corporal
+366,Barak Ben David,19.0,Dimona,Staff Sergeant,2023-10-07,0,Staff Sergeant
+367,Nativ Kuzaro,21.0,Maale Adumim,Sergeant,2023-10-07,0,Sergeant
+368,Valentin Elie Ghnassia,22.0,Jerusalem,Staff Sergeant,2023-10-07,0,Staff Sergeant
+369,Shimon Lugasi,19.0,Acre,Sergeant,2023-10-07,0,Sergeant
+370,Karin Shwarchman,20.0,Holon,Sergeant,2023-10-07,0,Sergeant
+371,Liran Mones Almosnino,42.0,moshav Kmehin,Sergeant Major,2023-10-07,1,Sergeant Major
+372,Shirat Yam Amar,18.0,Kiriat Ono,Corporal,2023-10-07,0,Corporal
+373,Naor Siboni,20.0,Moshav Gilat,Staff Sergeant,2023-10-07,0,Staff Sergeant
+374,Aviv Hagage,19.0,Moshav Gilat,Sergeant,2023-10-07,0,Sergeant
+375,Ilay Noam Ben Muha,20.0,Ashdod,Sergeant,2023-10-07,0,Sergeant
+376,Shir Eilat,20.0,Moshav Kfar Shmuel,Captain,2023-10-07,0,Captain
+377,Idan Baloi,20.0,Rishon LeZion,Captain,2023-10-07,0,Captain
+378,Shilo Rauchberger,23.0,Eli,Captain,2023-10-07,0,Captain
+379,Yohai Dukhan,26.0,Kiriat Arba,Lieutenant,2023-10-07,0,Lieutenant
+380,Shirel Mor,19.0,Raanana,Sergeant,2023-10-07,0,Sergeant
+381,Daniel Shperber,20.0,Yehud-Monosson,Staff Sergeant,2023-10-07,0,Staff Sergeant
+382,Dor Yarhi,20.0,Rishon LeZion,Staff Sergeant,2023-10-07,0,Staff Sergeant
+383,Maya Villalobo Polo,19.0,Givatayim,Corporal,2023-10-07,0,Corporal
+384,Reouven Chicheportiche,36.0,Shlomit,Sergeant Major,2023-10-07,1,Sergeant Major
+385,Aviad Revlin,23.0,Otniel,Staff Sergeant,2023-10-07,0,Staff Sergeant
+386,Adam Agmon,21.0,Kamon,Staff Sergeant,2023-10-07,0,Staff Sergeant
+387,Itay Yehudah Bausi,22.0,Kvutzat Yavne,Sergeant First Class,2023-10-07,0,Staff Sergeant
+388,Yonatan Elazari,19.0,Alon Shvut,Corporal,2023-10-07,0,Corporal
+389,Shimon Alroy Ben Shitrit,20.0,Beit Shean,Staff Sergeant,2023-10-07,0,Staff Sergeant
+390,Dolev Amouyal,21.0,Netanya,Staff Sergeant,2023-10-07,0,Staff Sergeant
+391,Ido Binenshtock,19.0,Ramat Gan,Sergeant,2023-10-07,0,Sergeant
+392,Ilay Zisser,27.0,Givat Ela,Major,2023-10-07,0,Major
+393,Dvir Zakai,20.0,Tiberias,Staff Sergeant,2023-10-07,0,Staff Sergeant
+394,Itamar Cohen,19.0,Carmiel,Sergeant,2023-10-07,0,Sergeant
+395,Tomer Yaakov Mizrahi,21.0,Hoshaya,Staff Sergeant,2023-10-07,0,Staff Sergeant
+396,Sahar Meidani,20.0,Kiriat Ekron,Staff Sergeant,2023-10-07,0,Staff Sergeant
+397,Noam Avramovich,19.0,Kibbutz Givat Brenner,Corporal,2023-10-07,0,Corporal
+398,Emil Samoylov,22.0,Haifa,Sergeant,2023-10-07,0,Sergeant
+399,Bechor Swid,32.0,Shlomit,Master Sergeant,2023-10-07,1,Sergeant First Class
+400,Moshe Yedidya Raziel,31.0,Kibbutz Kerem Shalom,Master Sergeant,2023-10-07,1,Sergeant First Class
+401,Ben Bronshtein,24.0,Holon,Major,2023-10-07,0,Major
+402,Shay Ashram,19.0,Rehovot,Sergeant,2023-10-07,0,Sergeant
+403,Avraham Nerya Cohen,20.0,Jerusalem,Staff Sergeant,2023-10-07,0,Staff Sergeant
+404,Bar Yankilov,19.0,Carmiel,Sergeant,2023-10-07,0,Sergeant
+405,Ori Mordechay Shani,22.0,Kiriat Arba,Captain,2023-10-07,0,Captain
+406,Michael Ben Hamo,21.0,Rehovot,Staff Sergeant,2023-10-07,0,Staff Sergeant
+407,Ron Zarfati,22.0,Hadera,Captain,2023-10-07,0,Captain
+408,Noam Elimelech Rojtenbarg,24.0,Beer Sheva,Staff Sergeant,2023-10-07,0,Staff Sergeant
+409,Tomer Nagar,20.0,Azor,Sergeant,2023-10-07,0,Sergeant
+410,Brando David Flores Garcia,21.0,Beer Sheva,Staff Sergeant,2023-10-07,0,Staff Sergeant
+411,Israel Amichay Vitzen,33.0,Kibbutz Kerem Shalom,Master Sergeant,2023-10-07,1,Sergeant First Class
+412,Lavi Buhnik,20.0,Moshav Peduim,Sergeant,2023-10-07,0,Sergeant
+413,Nathane Hai Lyard,20.0,Netanya,Sergeant,2023-10-07,0,Sergeant
+414,Salman Eben Marei,41.0,Segev Shalom,Sergeant Major,2023-10-07,0,Sergeant Major
+415,Elad Michael Sasson,21.0,Motza Illit,Sergeant First Class,2023-10-07,0,Staff Sergeant
+416,Oriel Bibi,30.0,Shlomit,Major,2023-10-07,0,Major
+417,Shalev Baranes,20.0,Moshav Kfar Baruch,Staff Sergeant,2023-10-07,0,Staff Sergeant
+418,Bar Rozenshtein,20.0,Rishon LeZion,Staff Sergeant,2023-10-07,0,Staff Sergeant
+419,Nehoray Said,21.0,Ofakim,Staff Sergeant,2023-10-07,0,Staff Sergeant
+420,David Mittelman,20.0,Modi’in Illit,Sergeant,2023-10-07,0,Sergeant
+421,Sahar Saudian,21.0,Rosh Haayin,Captain,2023-10-07,0,Captain
+422,Ofir Melman,21.0,Kibbutz Nir Yitzhak,Staff Sergeant,2023-10-07,0,Staff Sergeant
+423,Regev Amar,20.0,Kibbutz Sde Nehemia,Staff Sergeant,2023-10-07,0,Staff Sergeant
+424,Yonnatan Savitsky,21.0,Modiin,Sergeant First Class,2023-10-07,0,Staff Sergeant
+425,Eyal Klein,22.0,Moshav Kfar HaRif,Captain,2023-10-07,0,Captain
+426,Roy Bareket,20.0,Tel Aviv,Staff Sergeant,2023-10-07,0,Staff Sergeant
+427,Amit Most,20.0,Modi’in Maccabim-Reut,Staff Sergeant,2023-10-07,0,Staff Sergeant
+428,Amir Zur,23.0,Jerusalem,Captain,2023-10-07,0,Captain
+429,Evyatar Ohayon,22.0,Jerusalem,Staff Sergeant,2023-10-07,0,Staff Sergeant
+430,Mordechay Shamir,29.0,Havot Yair,Major,2023-10-07,0,Major
+431,Segev Schwartz,20.0,Beit Shean,Sergeant,2023-10-07,0,Sergeant
+432,Uriel Segal,19.0,Petah Tikva,Sergeant,2023-10-07,0,Sergeant
+433,Amir Lavi,19.0,Jerusalem,Sergeant,2023-10-07,0,Sergeant
+434,Lior Ben Yaakov,44.0,Moshav Yesha,Sergeant Major,2023-10-07,1,Sergeant Major
+435,Tal Maman,38.0,Moshav Mivtahim,Sergeant Major,2023-10-07,1,Sergeant Major
+436,Adi Tzur,20.0,Jerusalem,Staff Sergeant,2023-10-07,0,Staff Sergeant
+437,Reem Meir Betito,19.0,Netanya,Sergeant,2023-10-07,0,Sergeant
+438,Josheph Malachi Guedalia,22.0,Jerusalem,Sergeant First Class,2023-10-07,0,Staff Sergeant
+439,Omri Belkin,25.0,Ramat Hasharon,Master Sergeant,2023-10-07,1,Sergeant First Class
+440,Tomer Barak,20.0,Petah Tikva,Staff Sergeant,2023-10-07,0,Staff Sergeant
+441,Ido Israel Shani,29.0,Ramat Gan,Major,2023-10-07,0,Major
+442,Max Rabinov,21.0,Ashdod,Staff Sergeant,2023-10-07,0,Staff Sergeant
+443,Raz Peretz,24.0,Afula,Major,2023-10-07,0,Major
+444,Shir Shlomo,19.0,Netanya,Sergeant,2023-10-07,0,Sergeant
+445,Osher Chemaya,19.0,Beer Sheva,Sergeant,2023-10-07,0,Sergeant
+446,Yaad Ben Yacov,20.0,Petah Tikva,Staff Sergeant,2023-10-07,0,Staff Sergeant
+447,Benjamin Loeb,23.0,Jerusalem,Staff Sergeant,2023-10-07,0,Staff Sergeant
+448,Shir Biton,19.0,Ashdod,Sergeant,2023-10-07,0,Sergeant
+449,Dekel Suissa,23.0,Moshav Bar Giora,Captain,2023-10-07,0,Captain
+450,Daniel Moshe Danino,21.0,Haifa,Staff Sergeant,2023-10-07,0,Staff Sergeant
+451,Yakir Levi,21.0,Moreshet,Staff Sergeant,2023-10-07,0,Staff Sergeant
+452,Ilay Azar,18.0,Kibbutz Shefayim,Corporal,2023-10-07,0,Corporal
+453,Amit Peled,21.0,Haifa,Sergeant First Class,2023-10-07,0,Staff Sergeant
+454,Sivan Simha Asraf,20.0,Ashkelon,Sergeant,2023-10-07,0,Sergeant
+455,Tal Cohen,30.0,Moshav Ganei Tal,Major,2023-10-07,0,Major
+456,Ariel Erez,19.0,Moshav Amka,Sergeant,2023-10-07,0,Sergeant
+457,Itay Nachmias,20.0,Moshav Yesha,Staff Sergeant,2023-10-07,0,Staff Sergeant
+458,Yogev Aharon,20.0,Pardes Hanna,Staff Sergeant,2023-10-07,0,Staff Sergeant
+459,Hallel Shmuel Saadon,21.0,Ma'ale Michmash,Staff Sergeant,2023-10-07,0,Staff Sergeant
+460,Hadar Kama,24.0,Moshav Givat Shapira,Captain,2023-10-07,0,Captain
+461,Yonatan Golan,21.0,Yehud-Monosson,Staff Sergeant,2023-10-07,0,Staff Sergeant
+462,David Ratner,20.0,Ashdod,Staff Sergeant,2023-10-07,0,Staff Sergeant
+463,Ofir Testa,21.0,Jerusalem,Sergeant,2023-10-07,0,Sergeant
+464,Amichay Yaacov Vanino,22.0,Katzrin,Staff Sergeant,2023-10-07,0,Staff Sergeant
+465,Tal Levy,21.0,Jerusalem,Staff Sergeant,2023-10-07,0,Staff Sergeant
+466,Alina Pravosudova,23.0,Haifa,Captain,2023-10-07,0,Captain
+467,Roey Chapell,25.0,Zikhron Ya'akov,Major,2023-10-07,0,Major
+468,Eden Nimri,22.0,Modiin,Captain,2023-10-07,0,Captain
+469,Lior Azizov,20.0,Ashkelon,Sergeant,2023-10-07,0,Sergeant
+470,Rotem Dushi,20.0,Shimshit,Staff Sergeant,2023-10-07,0,Staff Sergeant
+471,Or Malka,21.0,Acre,Staff Sergeant,2023-10-07,0,Staff Sergeant
+472,David Haim Meir,31.0,Jerusalem,Major,2023-10-07,1,Major
+473,Roei Peri,19.0,Shoham,Sergeant,2023-10-07,0,Sergeant
+474,Idan Raz,20.0,Kibbutz Ein HaMifratz,Staff Sergeant,2023-10-07,0,Staff Sergeant
+475,Nave Elazar Lax,21.0,Lod,Lieutenant,2023-10-07,0,Lieutenant
+476,Teshager Taka,21.0,Jerusalem,Staff Sergeant,2023-10-07,0,Staff Sergeant
+477,Yonatan Goutin,20.0,Modi’in-Maccabim-Reut,Lieutenant,2023-10-07,0,Lieutenant
+478,Adir Tahar,19.0,Jerusalem,Sergeant,2023-10-07,0,Sergeant
+479,Nitay Amar,20.0,Kibbutz Alumim,Captain,2023-10-07,0,Captain
+480,Amit Tsur,19.0,Elyakhin,Sergeant,2023-10-07,0,Sergeant
+481,Shira Shohat,19.0,Modi’in-Maccabim-Re’ut,Sergeant,2023-10-07,0,Sergeant
+482,Roee Negri,28.0,Tel Aviv,Major,2023-10-07,1,Major
+483,Peleg Salem,30.0,Moshav Yakhini,Major,2023-10-07,0,Major
+484,Yaron Oree Shay,21.0,Kadima-Zoran,Staff Sergeant,2023-10-07,0,Staff Sergeant
+485,Ben Rubinshtain,20.0,Hod Hasharon,Staff Sergeant,2023-10-07,0,Staff Sergeant
+486,Etai Cohen,22.0,Rehovot,Captain,2023-10-07,0,Captain
+487,Ilay Bar Sadeh,19.0,Ramat Gan,Sergeant,2023-10-07,0,Sergeant
+488,Orel Moshe,21.0,Rekhasim,Staff Sergeant,2023-10-07,0,Staff Sergeant
+489,Lior Levy,19.0,Dimona,Corporal,2023-10-07,0,Corporal
+490,Ariel Ben Moshe,27.0,Kiriat Bialik,Major,2023-10-07,0,Major
+491,Shilo Cohen,24.0,Sderot,Captain,2023-10-07,0,Captain
+492,Amir Skoury,31.0,Jerusalem,Major,2023-10-07,0,Major
+493,Aharon Farash,36.0,Ofakim,Sergeant Major,2023-10-07,0,Sergeant Major
+494,Danit Cohen,19.0,Sderot,Sergeant,2023-10-07,0,Sergeant
+495,Ido Rosenthal,45.0,Moshav Ben Shemen,Chief Warrant Officer,2023-10-07,0,Chief Warrant Officer
+496,Amit Guetta,21.0,Rehovot,Sergeant,2023-10-07,0,Sergeant
+497,Or Mizrachi,21.0,Petah Tikva,Staff Sergeant,2023-10-07,0,Staff Sergeant
+498,Roey Weiser,21.0,Efrat,Staff Sergeant,2023-10-07,0,Staff Sergeant
+499,Adir Gaory,21.0,Jerusalem,Lieutenant,2023-10-07,0,Lieutenant
+500,Guy Simhi,20.0,Gedera,Staff Sergeant,2023-10-07,0,Staff Sergeant
+501,Ariel Eliyahu,19.0,Mitzpe Yeriho,Sergeant,2023-10-07,0,Sergeant
+502,Tal Grushka,25.0,Kfar Saba,Major,2023-10-07,0,Major
+503,Rom Shlomi,23.0,Moshav Granot,Captain,2023-10-07,0,Captain
+504,Itamar Ayash,19.0,Kiriat Gat,Sergeant,2023-10-07,0,Sergeant
+505,Vitaly Skipakevich,21.0,Ariel,Sergeant First Class,2023-10-07,0,Staff Sergeant
+506,Omri Michaeli,35.0,Nes Ziona,Sergeant Major,2023-10-07,0,Sergeant Major
+507,Ido Yehoshua,27.0,Kibbutz Ayelet HaShahar,Major,2023-10-07,0,Major
+508,Tomer Shoham,23.0,Srigim,Captain,2023-10-07,0,Captain
+509,Roy Joseph Levy,44.0,Moshav Shavei Tzion,Colonel,2023-10-07,0,Colonel
+510,Ohad Cohen,20.0,Moshav Idan,Sergeant First Class,2023-10-07,0,Staff Sergeant
+511,Aryeh Shlomo Ziering,27.0,Raanana,Major,2023-10-07,0,Major
+512,Uri Locker,19.0,Pardes Hanna-Karkur,Sergeant,2023-10-07,0,Sergeant
+513,Ofir Davidiyan,18.0,Moshav Patish,Corporal,2023-10-07,0,Corporal
+514,Ilay Gamzu,20.0,Ashdod,Staff Sergeant,2023-10-07,0,Staff Sergeant
+515,Itay Maor,23.0,Rosh Ha’Ayin,Captain,2023-10-07,0,Captain
+516,Avraham Hovelashvili,26.0,Ashdod,Major,2023-10-07,0,Major
+517,Itay-Eliyahu Marchiano,20.0,Moshav Beit Arif,Staff Sergeant,2023-10-07,0,Staff Sergeant
+518,Yehonatan Tzor,33.0,Kdumim,Lieutenant Colonel,2023-10-07,0,Lieutenant Colonel
+519,David (Dudi) Digmi,43.0,Rishom LeZion,Master Sergeant,2023-10-07,0,Sergeant First Class
+520,Yaron Zohar,19.0,Kiriat Ata,Sergeant,2023-10-07,0,Sergeant
+521,Adir Abudi,23.0,Modiin,Major,2023-10-07,0,Major
+522,Yotam Ben Bassat,24.0,Bat Hefer,Captain,2023-10-07,0,Captain
+523,Ofir Zioni,21.0,Yokneam Illit,Staff Sergeant,2023-10-07,0,Staff Sergeant
+524,Adar Ben Simon,20.0,Neve Ziv,Lieutenant,2023-10-07,0,Lieutenant
+525,Or Esatu,21.0,Beer Sheva,Staff Sergeant,2023-10-07,0,Staff Sergeant
+526,Sahar Zion Machlof,36.0,Modiin,Lieutenant Colonel,2023-10-07,0,Lieutenant Colonel
+527,Afik Rosenthal,20.0,Kibbutz Kfar Menahem,Staff Sergeant,2023-10-07,0,Staff Sergeant
+528,Yannai Kaminka,20.0,Tzur Hadassah,Lieutenant,2023-10-07,0,Lieutenant
+529,Or Moses,22.0,Ashdod,Captain,2023-10-07,0,Captain
+530,Omri Niv Firshtein,20.0,Givataim,Staff Sergeant,2023-10-07,0,Staff Sergeant
+531,Dvir Lisha,21.0,Nitzan,Sergeant,2023-10-07,0,Sergeant
+532,Eden Alon Levy,19.0,Nirit,Staff Sergeant,2023-10-07,0,Staff Sergeant
+533,Yoval Ben Yakov,20.0,Kibbutz Kfar Menahem,Staff Sergeant,2023-10-07,0,Staff Sergeant
+534,Guy Bazak,19.0,Kokhav Yair,Sergeant,2023-10-07,0,Sergeant
+535,Neria Aaron Nagari,18.0,Talmon,Corporal,2023-10-07,0,Corporal
+536,Naama Bonny,19.0,Afula,Corporal,2023-10-07,0,Corporal
+537,Yiftah Yavetz,23.0,Ramat Hasharon,Captain,2023-10-07,0,Captain
+538,Ido Harush,21.0,Mitzpe Ramon,Staff Sergeant,2023-10-07,0,Staff Sergeant
+539,Yoav Malayev,19.0,Kiriat Ono,Lieutenant,2023-10-07,0,Lieutenant
+540,Nathanel Young,20.0,Tel Aviv,Sergeant,2023-10-07,0,Sergeant
+541,Chen Bouchris,26.0,Ashdod,Major,2023-10-07,0,Major
+542,Or Yossef Ran,29.0,Itamar,Major,2023-10-07,0,Major
+543,Adi Groman,19.0,Moshav Hogla,Sergeant,2023-10-07,0,Sergeant
+544,Ido Edri,24.0,Moshav Gibton,Lieutenant,2023-10-07,1,Lieutenant
+545,Yehonatan Steinberg,42.0,Kibbutz Shomria,Colonel,2023-10-07,0,Colonel
